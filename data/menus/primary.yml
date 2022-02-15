@@ -6,5 +6,9 @@
   - title: About us
     target: "/"
     kind: blank
-    children: []
+    children:
+    - title: Our mission
+      target: "/our-mission/"
+      kind: page
+      children: []
 

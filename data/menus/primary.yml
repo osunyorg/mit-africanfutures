@@ -11,4 +11,8 @@
       target: "/our-mission/"
       kind: page
       children: []
+    - title: How we work
+      target: "/how-we-work/"
+      kind: page
+      children: []
 

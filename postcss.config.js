@@ -11,6 +11,7 @@ module.exports = {
                 'show',
                 'active',
                 'collapsed',
+                'modal-backdrop',
                 /^dropdown/,
                 /^nav-level-/,
                 /^is-/,

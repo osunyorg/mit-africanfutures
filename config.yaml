@@ -4,7 +4,7 @@ params:
     enable: false
     blank: true
     page: https://gdpr.eu/cookies/
-baseURL: /
+baseURL: https://mit-africanfutures.netlify.app/
 defaultContentLanguage: fr
 languageCode: fr
 languages:
@@ -14,15 +14,7 @@ theme: osuny-hugo-theme
 paginate: 18
 permalinks:
   posts:          /actualites/:year/:month/:day/:slug/
-  categories:     /actualites/:sections/:slug/
-  persons:        /equipe/:slug/
-  authors:        /equipe/:slug/actualites/
-  administrators: /equipe/:slug/administration/
-  researchers:    /equipe/:slug/publications/
-  teachers:       /equipe/:slug/formations/
+  categories:     /actualites/:slug/
 taxonomies:
-  administrator:  administrators
   author:         authors
   category:       categories
-  researcher:     researchers
-  teacher:        teachers

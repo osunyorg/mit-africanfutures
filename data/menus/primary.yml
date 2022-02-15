@@ -19,6 +19,10 @@
     target: "/documenting-movements/"
     kind: page
     children: []
+  - title: Building bridges
+    target: "/building-bridges/"
+    kind: page
+    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

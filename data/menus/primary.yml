@@ -14,7 +14,11 @@
 - title: What we do
   target: "/"
   kind: blank
-  children: []
+  children:
+  - title: Documenting movements
+    target: "/documenting-movements/"
+    kind: page
+    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

@@ -15,4 +15,8 @@
   target: "/how-to-get-involved/"
   kind: page
   children: []
+- title: What we do
+  target: "/"
+  kind: blank
+  children: []
 

@@ -1,0 +1,25 @@
+.hero
+    background-color: transparent
+    flex-direction: column-reverse
+    nav
+        @extend .visually-hidden
+    picture
+        --bs-aspect-ratio: 33.5%
+        @extend .ratio
+        display: block
+        position: relative
+        width: 100vw
+        img
+            filter: none
+            mix-blend-mode: normal
+            opacity: 1
+    h1
+        color: $secondary
+        margin-bottom: 3rem
+        text-align: center
+        text-transform: uppercase
+        @include media-breakpoint-up(md)
+            font-size: 4rem
+    .container
+        > div:first-of-type:not(.title-avatar)
+            max-width: 100%

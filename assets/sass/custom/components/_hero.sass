@@ -1,6 +1,7 @@
 .hero
     background-color: transparent
     flex-direction: column-reverse
+    min-height: 0
     nav
         @extend .visually-hidden
     picture
@@ -17,7 +18,6 @@
         color: $secondary
         margin-bottom: 3rem
         text-align: center
-        text-transform: uppercase
         @include media-breakpoint-up(md)
             font-size: 4rem
     .container

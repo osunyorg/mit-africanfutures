@@ -11,12 +11,12 @@
     target: "/how-we-work/"
     kind: page
     children: []
-- title: How To Get Involved
-  target: "/how-to-get-involved/"
-  kind: page
-  children: []
 - title: What we do
   target: "/"
   kind: blank
+  children: []
+- title: How To Get Involved
+  target: "/how-to-get-involved/"
+  kind: page
   children: []
 

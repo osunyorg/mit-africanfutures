@@ -1,8 +1,4 @@
 ---
-- title: How To Get Involved
-  target: "/how-to-get-involved/"
-  kind: page
-  children: []
 - title: About us
   target: "/"
   kind: blank
@@ -15,4 +11,8 @@
     target: "/how-we-work/"
     kind: page
     children: []
+- title: How To Get Involved
+  target: "/how-to-get-involved/"
+  kind: page
+  children: []
 

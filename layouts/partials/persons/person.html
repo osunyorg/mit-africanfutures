@@ -1,6 +1,6 @@
 {{ $modalId := print "modalID_" .Slug }}
-<article class="person" itemscope itemtype="https://schema.org/Person">
-  <a type="button" data-bs-toggle="modal" data-bs-target="#{{ $modalId }}">
+<article itemscope itemtype="https://schema.org/Person">
+  <a class="person" type="button" data-bs-toggle="modal" data-bs-target="#{{ $modalId }}">
     <div class="avatar" itemprop="image">
       {{ if .Params.image }}
         {{ partial "commons/image.html"

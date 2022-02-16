@@ -1,7 +1,9 @@
 .hero
     background-color: transparent
+    display: flex
     flex-direction: column-reverse
-    min-height: 0
+    padding-bottom: 3rem
+    padding-top: 3rem
     nav
         @extend .visually-hidden
     picture
@@ -9,7 +11,6 @@
         @extend .ratio
         display: block
         position: relative
-        width: 100vw
         img
             filter: none
             mix-blend-mode: normal
@@ -20,6 +21,3 @@
         text-align: center
         @include media-breakpoint-up(md)
             font-size: 4rem
-    .container
-        > div:first-of-type:not(.title-avatar)
-            max-width: 100%

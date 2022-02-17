@@ -9,7 +9,7 @@ defaultContentLanguage: fr
 languageCode: fr
 languages:
   fr:
-    title: Osuny template
+    title: African futures
 theme: osuny-hugo-theme
 paginate: 18
 permalinks:

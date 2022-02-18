@@ -18,15 +18,7 @@
 - title: What we do
   target: "/actualites/"
   kind: news
-  children:
-  - title: Building bridges
-    target: "/building-bridges/"
-    kind: page
-    children: []
-  - title: Shaping policies
-    target: "/shaping-policies/"
-    kind: page
-    children: []
+  children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

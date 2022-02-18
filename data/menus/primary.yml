@@ -16,19 +16,19 @@
     kind: page
     children: []
 - title: What we do
-  target: "/actualites/"
+  target: "/news/"
   kind: news
   children:
   - title: Events
-    target: "/actualites/events/"
+    target: "/news/events/"
     kind: news_category
     children: []
   - title: Conference & seminars
-    target: "/actualites/conference-seminars/"
+    target: "/news/conference-seminars/"
     kind: news_category
     children: []
   - title: Public presentation
-    target: "/actualites/public-presentation/"
+    target: "/news/public-presentation/"
     kind: news_category
     children: []
 - title: How To Get Involved

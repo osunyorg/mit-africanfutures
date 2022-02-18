@@ -19,10 +19,6 @@
   target: "/actualites/"
   kind: news
   children:
-  - title: Documenting movements
-    target: "/documenting-movements/"
-    kind: page
-    children: []
   - title: Building bridges
     target: "/building-bridges/"
     kind: page

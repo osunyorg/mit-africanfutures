@@ -27,6 +27,10 @@
     target: "/actualites/conference-seminars/"
     kind: news_category
     children: []
+  - title: Public presentation
+    target: "/actualites/public-presentation/"
+    kind: news_category
+    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

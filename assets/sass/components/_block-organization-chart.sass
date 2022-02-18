@@ -1,0 +1,17 @@
+.block-organization_chart
+    text-align: center
+    h2
+        margin-bottom: 3rem
+    .persons
+        &:not(:last-child)
+            border-bottom: 1px solid $secondary
+            padding-bottom: 3rem
+    .person
+        &:hover
+            text-decoration-color: transparent
+            .name
+                text-decoration-color: $primary
+                text-decoration-line: underline
+                text-decoration-style: solid
+                text-decoration-thickness: 1px
+                text-underline-offset: 3px

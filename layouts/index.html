@@ -13,9 +13,8 @@
 
     {{- range site.Data.menus.primary -}}
       <section>
-        {{ partial "home/top.html" . }}
-
         {{ if eq .kind "news" }}
+          {{ partial "home/top.html" . }}
           {{ partial "home/posts.html" . }}
         {{ else }}
           {{ if .children }}

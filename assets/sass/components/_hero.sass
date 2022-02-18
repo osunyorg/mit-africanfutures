@@ -17,10 +17,13 @@
             opacity: 1
     h1
         color: $secondary
-        margin-bottom: 3rem
+        margin-bottom: 0
         text-align: center
         @include media-breakpoint-up(md)
             font-size: 4rem
+
+    picture + div h1
+        margin-bottom: 3rem
 
     .title-avatar
         @include make-row()

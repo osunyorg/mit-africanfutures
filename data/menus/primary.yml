@@ -18,7 +18,11 @@
 - title: What we do
   target: "/actualites/"
   kind: news
-  children: []
+  children:
+  - title: Events
+    target: "/actualites/events/"
+    kind: news_category
+    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

@@ -23,6 +23,10 @@
     target: "/actualites/events/"
     kind: news_category
     children: []
+  - title: Conference & seminars
+    target: "/actualites/conference-seminars/"
+    kind: news_category
+    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

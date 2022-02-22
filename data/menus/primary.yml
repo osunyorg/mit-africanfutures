@@ -19,10 +19,6 @@
   target: "/what-we-do/"
   kind: news
   children:
-  - title: Conference & seminars
-    target: "/what-we-do/shaping-policies/conference-seminars/"
-    kind: news_category
-    children: []
   - title: Public presentation
     target: "/what-we-do/documenting-movements/public-presentation/"
     kind: news_category

@@ -18,11 +18,7 @@
 - title: What we do
   target: "/what-we-do/"
   kind: news
-  children:
-  - title: Public presentation
-    target: "/what-we-do/documenting-movements/public-presentation/"
-    kind: news_category
-    children: []
+  children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

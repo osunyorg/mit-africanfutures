@@ -27,10 +27,6 @@
     target: "/what-we-do/building-bridges/"
     kind: news_category
     children: []
-  - title: Building bridges
-    target: "/what-we-do/building-bridges/"
-    kind: news_category
-    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

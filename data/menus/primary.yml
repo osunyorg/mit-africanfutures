@@ -18,7 +18,11 @@
 - title: What we do
   target: "/what-we-do/"
   kind: news
-  children: []
+  children:
+  - title: Documenting movements
+    target: "/what-we-do/documenting-movements/"
+    kind: news_category
+    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

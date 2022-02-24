@@ -1,4 +1,5 @@
-baseURL: https://mit-africanfutures.netlify.app/
+# baseURL: https://mit-africanfutures.netlify.app/
+baseURL: https://www.google.com/
 theme: osuny-hugo-theme
 
 ## LANGUAGE

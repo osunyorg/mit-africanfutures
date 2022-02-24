@@ -12,6 +12,17 @@ brew upgrade hugo
 ```
 
 
+## Template hugo osuny
+https://github.com/noesya/osuny-hugo-template
+
+Pour faire la mise à jour :
+```
+git remote add template git@github.com:noesya/osuny-hugo-template.git
+git fetch --all
+git merge template/main --allow-unrelated-histories
+```
+
+
 ## Install
 
 Pour cloner avec le thème
@@ -24,7 +35,7 @@ git pull --recurse-submodules
 ```
 
 
-## Launch
+## Commands
 
 Pour lancer le site
 ```

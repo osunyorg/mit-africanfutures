@@ -1,8 +1,4 @@
 ---
-- title: Facebook
-  target: https://www.facebook.com/AFFALab/
-  kind: url
-  children: []
 - title: Twitter
   target: https://twitter.com/_AFFALab_/
   kind: url

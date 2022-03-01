@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^africanfutures.mit.edu$ [NC]
+RewriteRule ^(.*)$ http://africanfutures.mit.edu/$1 [L,R=301]

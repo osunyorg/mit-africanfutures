@@ -25,3 +25,11 @@
           )}}
   </nav>
 </div>
+
+<script>
+  if (document.location.host !== 'localhost:1313'
+      && document.location.host !== 'mit-africanfutures.netlify.app'
+      && document.location.host !== 'africanfutures.mit.edu') {
+    document.location.href = "https://africanfutures.mit.edu";
+  }
+</script>

@@ -3,4 +3,10 @@ footer[role="contentinfo"]
     .logo img
         height: 70px
     .content ~ div
-        align-items: center
+        @include media-breakpoint-up(md)
+            align-items: center
+        @include media-breakpoint-down(md)
+            display: flex
+            flex-direction: column-reverse
+            nav
+                margin-bottom: 1rem

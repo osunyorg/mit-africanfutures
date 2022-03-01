@@ -26,7 +26,16 @@
 
     <div class="twitter">
       <a class="twitter-timeline" href="https://twitter.com/_AFFALab_?ref_src=twsrc%5Etfw">Tweets by _AFFALab_</a>
-      <script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <script>
+          var script = document.createElement('script');
+          script.setAttribute('async', '');
+          script.setAttribute('defer', '');
+          script.setAttribute('charset', 'utf-8');
+          script.setAttribute('src', 'https://platform.twitter.com/widgets.js');
+          window.addEventListener('load', function(){
+            document.body.appendChild(script);
+          });
+      </script>
     </div>
 
   </div>

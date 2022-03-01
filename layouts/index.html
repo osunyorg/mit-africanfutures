@@ -37,7 +37,9 @@
           script.setAttribute('charset', 'utf-8');
           script.setAttribute('src', 'https://platform.twitter.com/widgets.js');
           window.addEventListener('load', function(){
-            document.body.appendChild(script);
+            window.setTimeout(function() {
+              document.body.appendChild(script);
+            }, 2000);
           });
       </script>
     </div>

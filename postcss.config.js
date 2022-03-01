@@ -12,6 +12,7 @@ module.exports = {
                     'active',
                     'collapsed',
                     'modal-backdrop',
+                    'stretched-link',
                     /^dropdown/,
                     /^nav-level-/,
                     /^is-/,

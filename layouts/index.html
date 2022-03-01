@@ -25,22 +25,23 @@
     {{ end }}
 
     <div class="twitter">
-      <a  class="twitter-timeline"
-          href="https://twitter.com/_AFFALab_?ref_src=twsrc%5Etfw"
-          data-tweet-limit="3">
-          Tweets by _AFFALab_
-      </a>
-      <script>
-          var script = document.createElement('script');
-          script.setAttribute('async', '');
-          script.setAttribute('defer', '');
+      <a class="twitter-timeline" href="https://twitter.com/_AFFALab_?ref_src=twsrc%5Etfw">Tweets by _AFFALab_</a>
+      <script async="async" defer="defer">
+          var script = document.createElement('script'),
+              observer;
+          script.setAttribute('async', 'async');
+          script.setAttribute('defer', 'defer');
           script.setAttribute('charset', 'utf-8');
           script.setAttribute('src', 'https://platform.twitter.com/widgets.js');
-          window.addEventListener('load', function(){
-            window.setTimeout(function() {
+
+          observer = new IntersectionObserver(function(entries) {
+            if(entries[0].isIntersecting){
               document.body.appendChild(script);
-            }, 2000);
+              observer.unobserve(entries[0].target);
+            }
           });
+
+          observer.observe(document.querySelector('.twitter'));
       </script>
     </div>
 

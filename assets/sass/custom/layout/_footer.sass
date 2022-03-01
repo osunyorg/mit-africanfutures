@@ -5,8 +5,19 @@ footer[role="contentinfo"]
     .content ~ div
         @include media-breakpoint-up(md)
             align-items: center
+            user-select: flex-start
+            small ~ small
+                margin-left: px2rem(5)
+                &::before
+                    content: '—'
+                    margin-right: px2rem(5)
+            nav
+                margin-left: auto
+
         @include media-breakpoint-down(md)
             display: flex
             flex-direction: column-reverse
+            small ~ small
+                margin-bottom: px2rem(10)
             nav
                 margin-bottom: 1rem

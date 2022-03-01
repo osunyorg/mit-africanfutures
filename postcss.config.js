@@ -14,6 +14,7 @@ module.exports = {
                     'modal-backdrop',
                     'stretched-link',
                     /^dropdown/,
+                    /^ratio/,
                     /^nav-level-/,
                     /^is-/,
                     /^has-/,

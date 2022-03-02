@@ -24,30 +24,5 @@
       </section>
     {{ end }}
 
-    <div class="twitter">
-      <a  class="twitter-timeline"
-          href="https://twitter.com/_AFFALab_?ref_src=twsrc%5Etfw"
-          data-tweet-limit="3">
-          Tweets by _AFFALab_
-      </a>
-      <script async="async" defer="defer">
-          var script = document.createElement('script'),
-              observer;
-          script.setAttribute('async', 'async');
-          script.setAttribute('defer', 'defer');
-          script.setAttribute('charset', 'utf-8');
-          script.setAttribute('src', 'https://platform.twitter.com/widgets.js');
-
-          observer = new IntersectionObserver(function(entries) {
-            if(entries[0].isIntersecting){
-              document.body.appendChild(script);
-              observer.unobserve(entries[0].target);
-            }
-          });
-
-          observer.observe(document.querySelector('.twitter'));
-      </script>
-    </div>
-
   </div>
 {{ end }}

@@ -1,4 +1,17 @@
 <article class="post">
+  <div>
+    <p class="post-categories">
+      {{- range $index, $s := .GetTerms "categories" -}}
+        {{ if ne $index 0 }},{{ end }}
+        {{- safeHTML .Title -}}
+      {{- end -}}
+    </p>
+    <p class="title">
+      <a href="{{ .Permalink }}" class="stretched-link">
+        {{ safeHTML (partial "CorrectPunctuation" .Title) }}
+      </a>
+    </p>
+  </div>
   <div class="media">
     {{- if .Params.image -}}
       {{- partial "commons/image.html"
@@ -12,18 +25,5 @@
     {{- else -}}
       {{- partial "commons/image-default.html" (dict "class" "img-fluid") -}}
     {{- end -}}
-  </div>
-  <div>
-    <p class="post-categories">
-      {{- range $index, $s := .GetTerms "categories" -}}
-        {{ if ne $index 0 }},{{ end }}
-        {{- safeHTML .Title -}}
-      {{- end -}}
-    </p>
-    <p class="title">
-      <a href="{{ .Permalink }}" class="stretched-link">
-        {{ safeHTML (partial "CorrectPunctuation" .Title) }}
-      </a>
-    </p>
   </div>
 </article>

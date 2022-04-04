@@ -4,25 +4,21 @@
   </div>
 </div>
 
-<div>
+<div class="complementary">
   <small>@AfricanFuturesActionLab2021</small>
   {{ partial "footer/credit.html" }}
   {{ if site.Data.menus.legal }}
-    <nav role="navigation" aria-label="{{ i18n "commons.menu.legal" }}">
       {{ partial "commons/menu.html"
             (dict
               "items"       site.Data.menus.legal
               "level"       1
               "class"       "nav-legal"
             )}}
-    </nav>
   {{ end }}
-  <nav aria-label="{{ i18n "commons.menu.social" }}">
-    {{ partial "commons/menu.html"
-          (dict
-            "items"       site.Data.menus.social
-            "level"       1
-            "class"       "nav-social"
-          )}}
-  </nav>
+  {{ partial "commons/menu.html"
+        (dict
+          "items"       site.Data.menus.social
+          "level"       1
+          "class"       "nav-social"
+        )}}
 </div>

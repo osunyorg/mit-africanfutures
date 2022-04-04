@@ -2,13 +2,12 @@ footer[role="contentinfo"]
     background-color: transparent
     .logo img
         height: 70px
-    .content ~ div
-        
 
-        @include media-breakpoint-down(md)
+    @include media-breakpoint-down(md)
+        .complementary
             display: flex
             flex-direction: column-reverse
             small ~ small
                 margin-bottom: px2rem(10)
-            nav
+            ul
                 margin-bottom: 1rem

@@ -1,18 +1,14 @@
 .person
-    text-align: center
-    a
-        display: flex
-        flex-direction: column-reverse
-        text-decoration-color: transparent
+    @include media-breakpoint-up(md)
+        text-align: center
+        .avatar
+            width: 100%
 
-    .avatar
-        width: 100%
+    a
+        text-decoration-color: transparent
 
     .name + p
         color: rgba($body-color, .7)
 
 .persons
     justify-content: center
-    // > *
-    //     @include media-breakpoint-up(lg)
-    //         width: 20%

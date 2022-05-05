@@ -1,4 +1,4 @@
-posts:          /home/what-we-do/:year/:month/:day/:slug/
-categories:     /home/what-we-do/:slug/
-persons:        /home/team/:slug/
-authors:        /home/team/:slug/what-we-do/
+posts:          /what-we-do/:year/:month/:day/:slug/
+categories:     /what-we-do/:slug/
+persons:        /team/:slug/
+authors:        /team/:slug/what-we-do/

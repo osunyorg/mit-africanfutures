@@ -1,5 +1,8 @@
 .pages__section
-    main
-        .content
+    @include media-breakpoint-up(md)
+        main
             > div
-                margin: 0 auto
+                .container
+                    > *
+                        margin: 0 auto
+                        width: calc(66.66666667% - #{$grid-gutter-width} / 2)

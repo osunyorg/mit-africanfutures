@@ -1,19 +1,24 @@
 <header class="hero">
-  {{- if .image }}
-    {{ partial "commons/image.html"
-        (dict
-          "image"    .image
-          "mobile"   "375x126"
-          "tablet"   "768x257"
-          "desktop"  "1440x482"
-          "crop"     true
-          "lazy"     false
-        ) }}
-  {{ end -}}
   <div class="container">
     <div>
       <h1>{{ partial "PrepareHTML" .title }}</h1>
     </div>
     {{ partial "header/breadcrumbs.html" . }}
   </div>
+  {{- if .image }}
+    <figure>
+      {{ partial "commons/image.html"
+          (dict
+            "image"    .image
+            "mobile"   "375x126"
+            "tablet"   "768x257"
+            "desktop"  "1440x482"
+            "crop"     true
+            "lazy"     false
+          ) }}
+      {{- with .image.credit }}
+        <figcaption>{{ partial "PrepareHTML" . }}</figcaption>
+      {{ end -}}
+    </figure>
+  {{ end -}}
 </header>

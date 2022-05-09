@@ -1,7 +1,7 @@
 .hero
     background-color: transparent
     display: flex
-    flex-direction: column-reverse
+    flex-direction: column
     padding-bottom: 3rem
     padding-top: 3rem
     nav
@@ -23,8 +23,16 @@
         @include media-breakpoint-up(md)
             font-size: 4rem
 
-    picture + div h1
-        margin-bottom: 3rem
+    div + figure
+        margin-top: 3rem
+
+    figcaption
+        @extend .small
+        color: $gray-700
+        padding: px2rem(5)
+        text-align: right
+        p
+            margin-bottom: 0
 
     .title-avatar
         @include make-row()

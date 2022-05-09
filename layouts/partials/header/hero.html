@@ -16,8 +16,8 @@
             "crop"     true
             "lazy"     false
           ) }}
-      {{- with .image.credit }}
-        <figcaption>{{ partial "PrepareHTML" . }}</figcaption>
+      {{- if partial "GetTextFromHTML" .image.credit }}
+        <figcaption>{{ partial "PrepareHTML" .image.credit }}</figcaption>
       {{ end -}}
     </figure>
   {{ end -}}

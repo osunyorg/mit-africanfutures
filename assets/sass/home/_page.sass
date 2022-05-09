@@ -4,13 +4,18 @@
             > picture
                 img
                     opacity: 1
-        .lead
-            @extend .col-md-6
-            @extend .offset-md-3
-            margin-bottom: 0
-            text-align: center
+
         section:first-of-type
-            margin-bottom: 6rem
+            // margin-bottom: 6rem
+            margin-top: 0
+
+        .block-chapter
+            .block-content
+                margin: 0 auto
+                text-align: center
+                @include media-breakpoint-up(md)
+                    width: 50%
+
         .pages
             justify-content: center
             > *
@@ -21,7 +26,7 @@
             align-items: center
             background-color: $orange
             border-radius: 50%
-            display: flex
+            // display: flex
             font-size: px2rem(20)
             height: px2rem(192)
             justify-content: center
@@ -29,5 +34,9 @@
             text-decoration: none
             transition: background .3s ease
             width: px2rem(192)
+            > div
+                flex: 0
+            .title a::before
+                content: none
             &:hover
                 background-color: $secondary

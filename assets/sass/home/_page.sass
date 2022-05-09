@@ -26,7 +26,6 @@
             align-items: center
             background-color: $orange
             border-radius: 50%
-            // display: flex
             font-size: px2rem(20)
             height: px2rem(192)
             justify-content: center
@@ -36,7 +35,9 @@
             width: px2rem(192)
             > div
                 flex: 0
-            .title a::before
-                content: none
+            .title a
+                text-decoration: none
+                &::before
+                    content: none
             &:hover
                 background-color: $secondary

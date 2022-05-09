@@ -1,49 +1,53 @@
 {{ $position := .position }}
-<section class="block block-organization_chart">
-  <h2 id="block-{{ $position }}">{{ partial "PrepareHTML" .title }}</h2>
-  <div class="persons">
-    {{ range .data }}
-      {{ $person := site.GetPage (printf "/persons/%s" .slug) }}
-      <div>
-        {{ $modalId := print "modalID_" $person.Slug }}
-        <article class="person" itemscope itemtype="https://schema.org/Person">
+<section class="block block-organization_chart" id="block-{{ $position }}">
+  <div class="container">
+    <h2>{{ partial "PrepareHTML" .title }}</h2>
+    <div class="persons">
+      {{ range .data }}
+        {{ $person := site.GetPage (printf "/persons/%s" .slug) }}
+        {{ $role := .role }}
+        {{ with $person }}
+          <div>
+            {{ $modalId := print "modalID_" .Slug }}
+            <article class="person" itemscope itemtype="https://schema.org/Person">
 
-          {{ if (partial "GetTextFromHTML" $person.Content) }}
-          <a type="button" data-bs-toggle="modal" data-bs-target="#{{ $modalId }}">
-          {{ end }}
-
-            <div class="avatar" itemprop="image">
-              {{ if $person.Params.image }}
-                {{ partial "commons/image.html"
-                      (dict
-                        "alt"    $person.Title
-                        "image"    $person.Params.image
-                        "class"    "img-fluid"
-                        "mobile"   "100x100"
-                        "tablet"   "152x152"
-                        "desktop"  "152x152"
-                      )}}
+              {{ if (partial "GetTextFromHTML" .Content) }}
+              <a type="button" data-bs-toggle="modal" data-bs-target="#{{ $modalId }}">
               {{ end }}
-            </div>
-            <div>
-              <p class="name" itemprop="name">{{ partial "PrepareHTML" $person.Title }}</p>
-              <p itemprop="jobTitle">{{ partial "PrepareHTML" .role }}</p>
-            </div>
 
-          {{ if (partial "GetTextFromHTML" $person.Content) }}
-          </a>
-          {{ end }}
+                <div>
+                  <p class="name" itemprop="name">{{ partial "PrepareHTML" .Title }}</p>
+                  <p itemprop="jobTitle">{{ partial "PrepareHTML" $role }}</p>
+                </div>
+                <div class="avatar" itemprop="image">
+                  {{ if .Params.image }}
+                    {{ partial "commons/image.html"
+                          (dict
+                            "alt"    .Title
+                            "image"    .Params.image
+                            "mobile"   "100x100"
+                            "tablet"   "152x152"
+                            "desktop"  "152x152"
+                          )}}
+                  {{ end }}
+                </div>
 
-          {{ if (partial "GetTextFromHTML" $person.Content) }}
-            {{ partial "persons/modal.html"
-                  (dict
-                    "modalId" $modalId
-                    "title" $person.Title
-                    "abstract" $person.Content
-                  ) }}
-          {{ end }}
-        </article>
-      </div>
-    {{ end }}
+              {{ if (partial "GetTextFromHTML" $person.Content) }}
+              </a>
+              {{ end }}
+
+              {{ if (partial "GetTextFromHTML" .Content) }}
+                {{ partial "persons/modal.html"
+                      (dict
+                        "modalId" $modalId
+                        "title" .Title
+                        "abstract" .Content
+                      ) }}
+              {{ end }}
+            </article>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
   </div>
 </section>

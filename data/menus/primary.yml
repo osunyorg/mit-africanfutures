@@ -17,19 +17,19 @@
     children: []
 - title: What we do
   target: "/what-we-do/"
-  kind: news
+  kind: posts
   children:
   - title: Documenting movements
     target: "/what-we-do/documenting-movements/"
-    kind: news_category
+    kind: category
     children: []
   - title: Building bridges
     target: "/what-we-do/building-bridges/"
-    kind: news_category
+    kind: category
     children: []
   - title: Shaping policies
     target: "/what-we-do/shaping-policies/"
-    kind: news_category
+    kind: category
     children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"

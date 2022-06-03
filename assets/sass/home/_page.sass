@@ -6,7 +6,6 @@
                     opacity: 1
 
         section:first-of-type
-            // margin-bottom: 6rem
             margin-top: 0
 
         .block-chapter
@@ -14,7 +13,8 @@
                 justify-content: center
                 text-align: center
                 > *
-                    width: 50%
+                    @include media-breakpoint-up(lg)
+                        width: 50%
 
         .pages
             justify-content: center

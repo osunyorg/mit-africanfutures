@@ -35,4 +35,8 @@
   target: "/how-to-get-involved/"
   kind: page
   children: []
+- title: News
+  target: "/what-we-do/news/"
+  kind: category
+  children: []
 

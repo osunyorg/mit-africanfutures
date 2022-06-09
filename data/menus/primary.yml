@@ -38,7 +38,11 @@
 - title: News
   target: "/what-we-do/news/"
   kind: category
-  children: []
+  children:
+  - title: Tracking Our Movement
+    target: "/"
+    kind: blank
+    children: []
 - title: Tracking Our Movement
   target: "/"
   kind: blank

@@ -42,5 +42,9 @@
   - title: Tracking Our Movement
     target: "/"
     kind: blank
-    children: []
+    children:
+    - title: Tracking Our Movement
+      target: "/"
+      kind: blank
+      children: []
 

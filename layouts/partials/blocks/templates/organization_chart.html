@@ -3,7 +3,7 @@
   <div class="container">
     <h2>{{ partial "PrepareHTML" .title }}</h2>
     <div class="persons">
-      {{ range .data }}
+      {{ range .data.persons }}
         {{ $person := site.GetPage (printf "/persons/%s" .slug) }}
         {{ $role := .role }}
         {{ with $person }}

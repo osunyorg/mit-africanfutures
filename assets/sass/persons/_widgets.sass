@@ -12,3 +12,6 @@
 
 .persons
     justify-content: center
+    > *
+        @include media-breakpoint-up(md)
+            width: calc(100% / 3)

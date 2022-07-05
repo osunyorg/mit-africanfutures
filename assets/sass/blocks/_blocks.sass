@@ -1,0 +1,5 @@
+.blocks
+    .container
+        body:not(.page__home) &
+            @include media-breakpoint-up(lg)
+                width: calc(66.66666667% - #{$grid-gutter-width} / 2)

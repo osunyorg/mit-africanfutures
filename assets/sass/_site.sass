@@ -1,0 +1,130 @@
+@font-face
+    font-display: swap
+    font-family: 'Raleway'
+    font-style: normal
+    font-weight: 500
+    src: url("/assets/fonts/Raleway/Raleway-Medium.woff")
+
+h1, h2, h3, h4, h5, h6
+    text-transform: uppercase
+
+.blocks
+    .container
+        body:not(.page__home) &
+            @include media-breakpoint-up(lg)
+                width: calc(66.66666667% - #{$grid-gutter-width} / 2)
+
+.menu
+    @include media-breakpoint-down(lg)
+        background-color: transparent
+    ul
+        a
+            font-family: $font-family-secondary
+    .nav-level-1
+        > li
+            > a,
+            > span
+                font-size: px2rem(16)
+    .nav-level-2
+        > li
+            > a,
+            > span
+                font-size: px2rem(14)
+    .dropdown-menu
+        background-color: $body-bg
+        border: 0
+
+.table-infos
+    .post-categories
+        line-height: 1.4
+    .share
+        line-height: 1
+
+header[role=banner]
+    .logo img
+        height: 50px
+
+footer[role="contentinfo"]
+    background-color: transparent
+    .logo img
+        height: 70px
+    @include media-breakpoint-down(md)
+        .complementary
+            display: flex
+            flex-direction: column-reverse
+            ul
+                margin-bottom: 1rem
+
+.page__home
+    main
+        .hero
+            > picture
+                img
+                    opacity: 1
+
+        section:first-of-type
+            margin-top: 0
+
+        .block-chapter
+            .block-content
+                justify-content: center
+                text-align: center
+                > *
+                    @include media-breakpoint-up(lg)
+                        width: 50%
+
+        .pages
+            justify-content: center
+            > *
+                @extend .col-md-4
+                @extend .col-xl-3
+                @extend .col-xxl-2
+        .page
+            align-items: center
+            background-color: $orange
+            border-radius: 50%
+            font-size: px2rem(20)
+            height: px2rem(192)
+            justify-content: center
+            margin: auto
+            text-decoration: none
+            transition: background .3s ease
+            width: px2rem(192)
+            > div
+                flex: 0
+            .title a
+                text-decoration: none
+                &::before
+                    content: none
+            &:hover
+                background-color: $secondary
+
+.person
+    @include media-breakpoint-up(md)
+        text-align: center
+        .avatar
+            width: 100%
+
+    a
+        text-decoration-color: transparent
+
+    .name + p
+        color: rgba($body-color, .7)
+
+.persons
+    justify-content: center
+    > *
+        @include media-breakpoint-up(md)
+            width: calc(100% / 3)
+
+.posts__page
+    .hero
+        h1
+            @include media-breakpoint-up(md)
+                font-size: 3rem
+
+.post
+    .title
+        font-size: px2rem(20)
+    .post-categories
+        color: $primary_light

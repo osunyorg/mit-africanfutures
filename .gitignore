@@ -6,3 +6,4 @@ node_modules
 /resources
 /_tmp
 jsconfig.json
+yarn-error.log

@@ -12,7 +12,7 @@
     kind: page
     children: []
   - title: Who we are
-    target: "/who-we-are/"
+    target: "/about-us/who-we-are/"
     kind: page
     children: []
 - title: What we do

@@ -31,6 +31,10 @@
     target: "/what-we-do/shaping-policies/"
     kind: category
     children: []
+  - title: Podcast
+    target: "/what-we-do/podcast/"
+    kind: category
+    children: []
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page

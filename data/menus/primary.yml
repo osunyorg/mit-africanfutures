@@ -16,8 +16,8 @@
     kind: page
     children: []
 - title: What we do
-  target: "/news/"
-  kind: posts
+  target: "/"
+  kind: blank
   children:
   - title: Documenting movements
     target: "/news/documenting-movements/"

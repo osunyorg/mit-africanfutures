@@ -40,7 +40,7 @@
   kind: page
   children: []
 - title: News
-  target: "/news/news/"
-  kind: category
+  target: "/news/"
+  kind: posts
   children: []
 

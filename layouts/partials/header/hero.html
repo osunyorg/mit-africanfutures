@@ -3,7 +3,7 @@
     <div>
       <h1>{{ partial "PrepareHTML" .title }}</h1>
     </div>
-    {{ partial "header/breadcrumbs.html" . }}
+    {{ partial "header/breadcrumbs.html" .context }}
   </div>
   {{- if .image }}
     <figure>

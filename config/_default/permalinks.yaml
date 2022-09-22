@@ -1,4 +1,4 @@
-posts:          /what-we-do/:year/:month/:day/:slug/
-categories:     /what-we-do/:slug/
+posts:          /news/:year/:month/:day/:slug/
+categories:     /news/:slug/
 persons:        /team/:slug/
-authors:        /team/:slug/what-we-do/
+authors:        /team/:slug/news/

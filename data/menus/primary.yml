@@ -16,23 +16,23 @@
     kind: page
     children: []
 - title: What we do
-  target: "/what-we-do/"
+  target: "/news/"
   kind: posts
   children:
   - title: Documenting movements
-    target: "/what-we-do/documenting-movements/"
+    target: "/news/documenting-movements/"
     kind: category
     children: []
   - title: Building bridges
-    target: "/what-we-do/building-bridges/"
+    target: "/news/building-bridges/"
     kind: category
     children: []
   - title: Shaping policies
-    target: "/what-we-do/shaping-policies/"
+    target: "/news/shaping-policies/"
     kind: category
     children: []
   - title: Podcast
-    target: "/what-we-do/podcast/"
+    target: "/news/podcast/"
     kind: category
     children: []
 - title: How To Get Involved
@@ -40,7 +40,7 @@
   kind: page
   children: []
 - title: News
-  target: "/what-we-do/news/"
+  target: "/news/news/"
   kind: category
   children: []
 

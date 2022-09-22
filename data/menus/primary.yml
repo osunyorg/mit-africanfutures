@@ -4,11 +4,11 @@
   kind: blank
   children:
   - title: Our mission
-    target: "/our-mission/"
+    target: "/about-us/our-mission/"
     kind: page
     children: []
   - title: How we work
-    target: "/how-we-work/"
+    target: "/about-us/how-we-work/"
     kind: page
     children: []
   - title: Who we are

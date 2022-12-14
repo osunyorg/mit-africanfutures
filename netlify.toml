@@ -1,5 +1,5 @@
 [build.environment]
-  HUGO_VERSION = "0.101.0"
+  HUGO_VERSION = "0.108.0"
 
 [context.branch-deploy.environment]
   HUGO_ENV = "staging"

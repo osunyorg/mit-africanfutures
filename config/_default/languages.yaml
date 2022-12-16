@@ -1,2 +1,5 @@
 en:
   title: African futures
+  contentDir: content/en
+  languageCode: en
+  languageName: English

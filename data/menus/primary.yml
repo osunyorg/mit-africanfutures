@@ -1,18 +1,18 @@
 ---
 - title: About us
-  target: "/about-us/"
+  target: "/en/about-us/"
   kind: page
   children:
   - title: Our mission
-    target: "/about-us/our-mission/"
+    target: "/en/about-us/our-mission/"
     kind: page
     children: []
   - title: How we work
-    target: "/about-us/how-we-work/"
+    target: "/en/about-us/how-we-work/"
     kind: page
     children: []
   - title: Who we are
-    target: "/about-us/who-we-are/"
+    target: "/en/about-us/who-we-are/"
     kind: page
     children: []
 - title: What we do
@@ -20,27 +20,27 @@
   kind: blank
   children:
   - title: Documenting movements
-    target: "/news/documenting-movements/"
+    target: "/en/news/documenting-movements/"
     kind: category
     children: []
   - title: Building bridges
-    target: "/news/building-bridges/"
+    target: "/en/news/building-bridges/"
     kind: category
     children: []
   - title: Shaping policies
-    target: "/news/shaping-policies/"
+    target: "/en/news/shaping-policies/"
     kind: category
     children: []
   - title: Podcast
-    target: "/news/podcast/"
+    target: "/en/news/podcast/"
     kind: category
     children: []
 - title: How To Get Involved
-  target: "/how-to-get-involved/"
+  target: "/en/how-to-get-involved/"
   kind: page
   children: []
 - title: News
-  target: "/news/"
+  target: "/en/news/"
   kind: posts
   children: []
 

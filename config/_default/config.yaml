@@ -1,15 +1,5 @@
-theme: osuny-hugo-theme
-
-## ADVANCED
-paginate: 18
-enableRobotsTXT: true
-
-## MODULE
-module:
-  _merge: deep
-
-## PARAMS
+theme: osuny-hugo-theme-aaa
 params:
-  _merge: deep
-  cookie_banner:
-    enable: false
+  logo:
+      header: /assets/images/logo.png
+      footer: /assets/images/logo-footer.png

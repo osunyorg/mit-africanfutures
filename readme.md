@@ -13,7 +13,7 @@ brew upgrade hugo
 
 
 ## Template hugo osuny
-https://github.com/noesya/osuny-hugo-template
+https://github.com/noesya/osuny-hugo-template-aaa
 
 Pour faire la mise à jour :
 ```

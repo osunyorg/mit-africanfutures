@@ -1,6 +1,3 @@
-@font-face
-    font-display: swap
-    font-family: 'Raleway'
-    font-style: normal
-    font-weight: 500
-    src: url("/assets/fonts/Raleway/Raleway-Medium.woff")
+@include font-face("Raleway", raleway-v28-latin-regular)
+@include font-face("Raleway", raleway-v28-latin-italic, $style: italic)
+@include font-face("Raleway", raleway-v28-latin-700, $weight: bold)

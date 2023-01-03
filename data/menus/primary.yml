@@ -39,8 +39,4 @@
   target: "/how-to-get-involved/"
   kind: page
   children: []
-- title: News
-  target: "/news/"
-  kind: posts
-  children: []
 

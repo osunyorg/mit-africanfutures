@@ -16,7 +16,7 @@
     kind: page
     children: []
 - title: What we do
-  target: "/"
+  target: ''
   kind: blank
   children:
   - title: Documenting movements

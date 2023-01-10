@@ -1,15 +1,26 @@
-theme: osuny-hugo-theme
-
-## ADVANCED
+theme: osuny-hugo-theme-aaa
 paginate: 18
 enableRobotsTXT: true
-
-## MODULE
-module:
-  _merge: deep
-
-## PARAMS
+removePathAccents: true
 params:
-  _merge: deep
-  cookie_banner:
-    enable: false
+  posts:
+    list:
+      show_categories: true
+  logo:
+      header: "/assets/images/logo.png"
+      footer: "/assets/images/logo-footer.png"
+
+  image_sizes:
+    design_system:
+      hero:
+        desktop:  1920
+    sections:
+      categories:
+        hero_term:
+          desktop:  1920
+      home:
+        hero:
+          desktop:  1920
+      pages:
+        hero:
+          desktop:  1920

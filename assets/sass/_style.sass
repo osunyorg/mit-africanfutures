@@ -2,10 +2,6 @@
 .hero .content > hgroup
     color: $color-accent
 
-// TODO pas sur les posts
-    // text-align: center
-    // width: 100%
-
 .page__home
     .lead
         text-align: center
@@ -65,3 +61,9 @@
             .content
                 figure
                     margin: $spacing3 -#{$grid-gutter} 0
+
+.block-chapter
+    @include media-breakpoint-up(desktop)
+        @include in-page-without-sidebar
+            .chapter
+                justify-content: center

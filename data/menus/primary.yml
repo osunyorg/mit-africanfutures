@@ -18,7 +18,11 @@
   - title: Mobilization
     target: ''
     kind: blank
-    children: []
+    children:
+    - title: Mobilization Labs
+      target: "/mobilization/mobilization-labs/"
+      kind: page
+      children: []
 - title: About us
   target: "/about-us/"
   kind: page

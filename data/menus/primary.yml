@@ -16,8 +16,8 @@
       kind: page
       children: []
   - title: Mobilization
-    target: ''
-    kind: blank
+    target: "/mobilization/"
+    kind: page
     children:
     - title: Mobilization Labs
       target: "/mobilization/mobilization-labs/"

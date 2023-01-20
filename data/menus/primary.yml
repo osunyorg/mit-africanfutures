@@ -47,26 +47,6 @@
       target: "/the-lab/who-we-are/"
       kind: page
       children: []
-- title: What we do
-  target: ''
-  kind: blank
-  children:
-  - title: Documenting movements
-    target: "/news/documenting-movements/"
-    kind: category
-    children: []
-  - title: Building bridges
-    target: "/news/building-bridges/"
-    kind: category
-    children: []
-  - title: Shaping policies
-    target: "/news/shaping-policies/"
-    kind: category
-    children: []
-  - title: Podcast
-    target: "/news/podcast/"
-    kind: category
-    children: []
 - title: News
   target: "/news/"
   kind: page

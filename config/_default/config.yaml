@@ -10,7 +10,8 @@ params:
       layout: grid
     list:
       show_categories: true
-
+  breadcrumb:
+    position: after-hero
   image_sizes:
     design_system:
       hero:

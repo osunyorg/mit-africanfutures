@@ -83,12 +83,12 @@
     target: "/news/podcast/"
     kind: category
     children: []
-- title: How To Get Involved
-  target: "/how-to-get-involved/"
-  kind: page
-  children: []
 - title: News
   target: "/news/"
+  kind: page
+  children: []
+- title: How To Get Involved
+  target: "/how-to-get-involved/"
   kind: page
   children: []
 

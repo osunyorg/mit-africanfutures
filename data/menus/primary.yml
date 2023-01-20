@@ -31,7 +31,7 @@
     target: "/lab/"
     kind: page
     children:
-    - title: Lab
+    - title: Our mission
       target: "/lab/our-mission/"
       kind: page
       children: []

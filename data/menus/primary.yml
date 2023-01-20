@@ -30,7 +30,11 @@
   - title: Lab
     target: "/lab/"
     kind: page
-    children: []
+    children:
+    - title: Lab
+      target: "/lab/our-mission/"
+      kind: page
+      children: []
 - title: About us
   target: "/about-us/"
   kind: page

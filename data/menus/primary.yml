@@ -11,6 +11,10 @@
       target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
       kind: page
       children: []
+    - title: Global Racial Inequality Dashboard
+      target: "/research/global-racial-inequality-dashboard/"
+      kind: page
+      children: []
 - title: About us
   target: "/about-us/"
   kind: page

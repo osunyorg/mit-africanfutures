@@ -26,7 +26,11 @@
   - title: Advocacy
     target: "/advocacy/"
     kind: page
-    children: []
+    children:
+    - title: Future Perfect | Futur Antérieur
+      target: "/advocacy/future-perfect-futur-anterieur/"
+      kind: page
+      children: []
   - title: Lab
     target: "/lab/"
     kind: page

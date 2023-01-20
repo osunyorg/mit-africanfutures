@@ -47,22 +47,6 @@
       target: "/the-lab/who-we-are/"
       kind: page
       children: []
-- title: About us
-  target: "/about-us/"
-  kind: page
-  children:
-  - title: Our mission
-    target: "/the-lab/our-mission/"
-    kind: page
-    children: []
-  - title: How we work
-    target: "/the-lab/how-we-work/"
-    kind: page
-    children: []
-  - title: Who we are
-    target: "/the-lab/who-we-are/"
-    kind: page
-    children: []
 - title: What we do
   target: ''
   kind: blank

@@ -18,7 +18,11 @@
   - title: Mobilization
     target: "/mobilization/"
     kind: page
-    children: []
+    children:
+    - title: France's colonial violence in Algeria
+      target: "/mobilization/frances-colonial-violence-in-algeria/"
+      kind: page
+      children: []
   - title: Advocacy
     target: "/advocacy/"
     kind: page

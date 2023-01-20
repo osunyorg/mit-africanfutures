@@ -28,7 +28,7 @@
   kind: page
   children:
   - title: Our mission
-    target: "/about-us/our-mission/"
+    target: "/lab/our-mission/"
     kind: page
     children: []
   - title: How we work

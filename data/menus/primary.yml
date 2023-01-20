@@ -2,7 +2,11 @@
 - title: What we do
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Research
+    target: "/research/"
+    kind: page
+    children: []
 - title: About us
   target: "/about-us/"
   kind: page

@@ -35,6 +35,10 @@
       target: "/lab/our-mission/"
       kind: page
       children: []
+    - title: How we work
+      target: "/lab/how-we-work/"
+      kind: page
+      children: []
 - title: About us
   target: "/about-us/"
   kind: page

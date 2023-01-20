@@ -6,7 +6,11 @@
   - title: Research
     target: "/research/"
     kind: page
-    children: []
+    children:
+    - title: Pursuing an African Agenda for Reparations for Colonial Crimes and Slavery
+      target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+      kind: page
+      children: []
 - title: About us
   target: "/about-us/"
   kind: page

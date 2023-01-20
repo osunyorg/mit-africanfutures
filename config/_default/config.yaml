@@ -10,9 +10,6 @@ params:
       layout: grid
     list:
       show_categories: true
-  logo:
-      header: "/assets/images/logo.png"
-      footer: "/assets/images/logo-footer.png"
 
   image_sizes:
     design_system:

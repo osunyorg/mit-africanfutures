@@ -32,19 +32,19 @@
       kind: page
       children: []
   - title: Lab
-    target: "/lab/"
+    target: "/the-lab/"
     kind: page
     children:
     - title: Our mission
-      target: "/lab/our-mission/"
+      target: "/the-lab/our-mission/"
       kind: page
       children: []
     - title: How we work
-      target: "/lab/how-we-work/"
+      target: "/the-lab/how-we-work/"
       kind: page
       children: []
     - title: Who we are
-      target: "/lab/who-we-are/"
+      target: "/the-lab/who-we-are/"
       kind: page
       children: []
 - title: About us
@@ -52,15 +52,15 @@
   kind: page
   children:
   - title: Our mission
-    target: "/lab/our-mission/"
+    target: "/the-lab/our-mission/"
     kind: page
     children: []
   - title: How we work
-    target: "/lab/how-we-work/"
+    target: "/the-lab/how-we-work/"
     kind: page
     children: []
   - title: Who we are
-    target: "/lab/who-we-are/"
+    target: "/the-lab/who-we-are/"
     kind: page
     children: []
 - title: What we do

@@ -23,6 +23,10 @@
       target: "/mobilization/mobilization-labs/"
       kind: page
       children: []
+  - title: Advocacy
+    target: "/advocacy/"
+    kind: page
+    children: []
 - title: About us
   target: "/about-us/"
   kind: page

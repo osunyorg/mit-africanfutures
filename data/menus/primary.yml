@@ -1,4 +1,8 @@
 ---
+- title: What we do
+  target: ''
+  kind: blank
+  children: []
 - title: About us
   target: "/about-us/"
   kind: page
@@ -38,9 +42,5 @@
 - title: How To Get Involved
   target: "/how-to-get-involved/"
   kind: page
-  children: []
-- title: What we do
-  target: ''
-  kind: blank
   children: []
 

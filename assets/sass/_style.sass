@@ -3,8 +3,6 @@
     color: $color-accent
 
 .page__home
-    .lead
-        text-align: center
     .block-pages--grid
         article
             background-color: $color-accent-alt
@@ -31,10 +29,6 @@
                     margin-right: 0
                 &:nth-of-type(3)
                     margin-left: 0
-    .block-chapter
-        text-align: center
-        .chapter
-            flex-direction: column !important
 
 .page__home, .pages__section, .categories__term
     .hero
@@ -76,10 +70,3 @@
                     margin-bottom: 0
                     figure
                         margin-bottom: 0
-        
-
-.block-chapter
-    @include media-breakpoint-up(desktop)
-        @include in-page-without-sidebar
-            .chapter
-                justify-content: center

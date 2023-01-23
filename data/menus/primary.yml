@@ -28,8 +28,8 @@
       kind: page
       children: []
     - title: Reparations for mixed-race children abducted by Belgium's colonial administration
-      target: ''
-      kind: blank
+      target: "/mobilization/frances-colonial-violence-in-algeria-1-1/"
+      kind: page
       children: []
   - title: Advocacy
     target: "/advocacy/"

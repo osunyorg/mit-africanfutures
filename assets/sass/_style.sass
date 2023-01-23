@@ -2,6 +2,18 @@
 .hero .content > hgroup
     color: $color-accent
 
+.menu
+    @include media-breakpoint-up(desktop)
+        .nav-level-1
+            > .has-children
+                > .dropdown-menu
+                    margin-top: px2rem(40)
+    .nav-level-2
+        > li
+            > a,
+            > span
+                text-align: left
+                @include meta
 .page__home
     .block-pages--grid
         article

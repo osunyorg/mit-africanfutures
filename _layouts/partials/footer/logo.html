@@ -1,3 +1,0 @@
-{{ $file := "/assets/images/logo-footer.png" }}
-{{ $fileDimensions := partial "GetImageDimensions" (dict "context" . "file" $file "static" true) }}
-<a class="logo" href="{{ site.BaseURL }}"><img src="{{ $file }}" alt="{{ site.Title }}" height="{{ index $fileDimensions 1 }}" width="{{ index $fileDimensions 0 }}" loading="lazy"></a>

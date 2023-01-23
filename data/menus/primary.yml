@@ -71,4 +71,8 @@
   target: "/mobilization/"
   kind: page
   children: []
+- title: Advocacy
+  target: "/advocacy/"
+  kind: page
+  children: []
 

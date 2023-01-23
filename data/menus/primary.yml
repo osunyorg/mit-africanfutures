@@ -55,10 +55,6 @@
     target: "/the-lab/how-to-get-involved/"
     kind: page
     children: []
-  - title: The lab
-    target: "/the-lab/"
-    kind: page
-    children: []
 - title: News
   target: "/news/"
   kind: page

@@ -39,18 +39,18 @@
   target: ''
   kind: blank
   children:
+  - title: Our mission
+    target: "/the-lab/our-mission/"
+    kind: page
+    children: []
+  - title: How we work
+    target: "/the-lab/how-we-work/"
+    kind: page
+    children: []
   - title: The lab
     target: "/the-lab/"
     kind: page
     children:
-    - title: Our mission
-      target: "/the-lab/our-mission/"
-      kind: page
-      children: []
-    - title: How we work
-      target: "/the-lab/how-we-work/"
-      kind: page
-      children: []
     - title: Who we are
       target: "/the-lab/who-we-are/"
       kind: page

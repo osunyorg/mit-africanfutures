@@ -38,29 +38,45 @@
 
 .page__home, .pages__section, .categories__term
     .hero
+        background-color: white
+        margin-bottom: $spacing0
         padding-bottom: 0
         .content
             display: block
             text-align: center
-            h1
-                margin-top: 0
-            h1, figure
-                width: auto
-            figure
-                img
-                    aspect-ratio: 3 / 1
-                    object-fit: cover
-                figcaption
-                    display: block
-                    &::before
-                        display: none
-                    p
-                        display: block
-                        background: none
-        @include media-breakpoint-up(desktop)
+        .container
             .content
+                display: flex
+                flex-direction: column
+                padding-top: 0
+                h1, figure
+                    width: auto
+                h1
+                    padding-top: $spacing2
+                    margin-top: 0
+                    order: 2
                 figure
-                    margin: $spacing3 -#{$grid-gutter} 0
+                    @include media-breakpoint-up(desktop)
+                        margin: 0 -#{$grid-gutter} 0
+                    img
+                        aspect-ratio: 3 / 1
+                        object-fit: cover
+                    figcaption
+                        display: block
+                        &::before
+                            display: none
+                        p
+                            display: block
+                            background: none
+        + .container
+            margin-top: $spacing0
+        @include media-breakpoint-down(desktop)
+            &--image-square
+                .container
+                    margin-bottom: 0
+                    figure
+                        margin-bottom: 0
+        
 
 .block-chapter
     @include media-breakpoint-up(desktop)

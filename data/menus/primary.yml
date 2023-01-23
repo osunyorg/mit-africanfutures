@@ -27,6 +27,10 @@
       target: "/mobilization/transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
       kind: page
       children: []
+    - title: Reparations for mixed-race children abducted by Belgium's colonial administration
+      target: ''
+      kind: blank
+      children: []
   - title: Advocacy
     target: "/advocacy/"
     kind: page

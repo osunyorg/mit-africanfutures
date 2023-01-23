@@ -35,14 +35,6 @@
     target: "/research/global-racial-inequality-dashboard/"
     kind: page
     children: []
-- title: Advocacy
-  target: "/advocacy/"
-  kind: page
-  children:
-  - title: Future Perfect | Futur Antérieur
-    target: "/advocacy/future-perfect-futur-anterieur/"
-    kind: page
-    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page
@@ -57,6 +49,14 @@
     children: []
   - title: Reparations for mixed-race children abducted by Belgium's colonial administration
     target: "/mobilization/frances-colonial-violence-in-algeria-1-1/"
+    kind: page
+    children: []
+- title: Advocacy
+  target: "/advocacy/"
+  kind: page
+  children:
+  - title: Future Perfect | Futur Antérieur
+    target: "/advocacy/future-perfect-futur-anterieur/"
     kind: page
     children: []
 - title: News

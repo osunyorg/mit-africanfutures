@@ -63,16 +63,16 @@
   target: "/research/"
   kind: page
   children: []
-- title: News
-  target: "/news/"
-  kind: page
-  children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page
   children: []
 - title: Advocacy
   target: "/advocacy/"
+  kind: page
+  children: []
+- title: News
+  target: "/news/"
   kind: page
   children: []
 

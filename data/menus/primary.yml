@@ -59,12 +59,12 @@
       target: "/the-lab/how-to-get-involved/"
       kind: page
       children: []
-- title: News
-  target: "/news/"
-  kind: page
-  children: []
 - title: Research
   target: "/research/"
+  kind: page
+  children: []
+- title: News
+  target: "/news/"
   kind: page
   children: []
 

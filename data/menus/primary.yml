@@ -3,14 +3,6 @@
   target: ''
   kind: blank
   children:
-  - title: Advocacy
-    target: "/advocacy/"
-    kind: page
-    children:
-    - title: Future Perfect | Futur Antérieur
-      target: "/advocacy/future-perfect-futur-anterieur/"
-      kind: page
-      children: []
   - title: The lab
     target: "/the-lab/"
     kind: page
@@ -45,6 +37,14 @@
     children: []
   - title: Global Racial Inequality Dashboard
     target: "/research/global-racial-inequality-dashboard/"
+    kind: page
+    children: []
+- title: Advocacy
+  target: "/advocacy/"
+  kind: page
+  children:
+  - title: Future Perfect | Futur Antérieur
+    target: "/advocacy/future-perfect-futur-anterieur/"
     kind: page
     children: []
 - title: Mobilization

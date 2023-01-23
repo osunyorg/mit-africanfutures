@@ -63,4 +63,8 @@
   target: "/news/"
   kind: page
   children: []
+- title: Research
+  target: "/research/"
+  kind: page
+  children: []
 

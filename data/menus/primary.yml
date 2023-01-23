@@ -59,10 +59,6 @@
     target: "/mobilization/frances-colonial-violence-in-algeria-1-1/"
     kind: page
     children: []
-- title: Advocacy
-  target: "/advocacy/"
-  kind: page
-  children: []
 - title: News
   target: "/news/"
   kind: page

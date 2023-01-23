@@ -51,14 +51,14 @@
     target: "/the-lab/who-we-are/"
     kind: page
     children: []
+  - title: How To Get Involved
+    target: "/the-lab/how-to-get-involved/"
+    kind: page
+    children: []
   - title: The lab
     target: "/the-lab/"
     kind: page
-    children:
-    - title: How To Get Involved
-      target: "/the-lab/how-to-get-involved/"
-      kind: page
-      children: []
+    children: []
 - title: News
   target: "/news/"
   kind: page

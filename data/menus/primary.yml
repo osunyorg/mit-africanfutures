@@ -67,4 +67,8 @@
   target: "/news/"
   kind: page
   children: []
+- title: Mobilization
+  target: "/mobilization/"
+  kind: page
+  children: []
 

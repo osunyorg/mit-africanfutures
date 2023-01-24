@@ -39,6 +39,10 @@
     target: "/advocacy/media-interventions/"
     kind: page
     children: []
+- title: Publications
+  target: "/publications/"
+  kind: page
+  children: []
 - title: The Lab
   target: ''
   kind: blank

@@ -42,7 +42,11 @@
 - title: Publications
   target: "/publications/"
   kind: page
-  children: []
+  children:
+  - title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
+    target: "/publications/mit-opencourseware-reparations/"
+    kind: page
+    children: []
 - title: The Lab
   target: ''
   kind: blank
@@ -65,10 +69,6 @@
     children: []
 - title: News
   target: "/news/"
-  kind: page
-  children: []
-- title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
-  target: "/publications/mit-opencourseware-reparations/"
   kind: page
   children: []
 - title: 'Cultural Anthropology: Sustaining the Momentum'

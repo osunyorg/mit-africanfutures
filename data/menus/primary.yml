@@ -43,6 +43,10 @@
   target: "/publications/"
   kind: page
   children:
+  - title: 'Cultural Anthropology: Sustaining the Momentum'
+    target: "/publications/culanth-sustaining-the-momentum/"
+    kind: page
+    children: []
   - title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
     target: "/publications/mit-opencourseware-reparations/"
     kind: page
@@ -69,10 +73,6 @@
     children: []
 - title: News
   target: "/news/"
-  kind: page
-  children: []
-- title: 'Cultural Anthropology: Sustaining the Momentum'
-  target: "/publications/culanth-sustaining-the-momentum/"
   kind: page
   children: []
 

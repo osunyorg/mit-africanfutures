@@ -67,4 +67,8 @@
   target: "/news/"
   kind: page
   children: []
+- title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
+  target: "/publications/mit-opencourseware-reparations/"
+  kind: page
+  children: []
 

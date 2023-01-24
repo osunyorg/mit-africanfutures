@@ -71,4 +71,8 @@
   target: "/publications/mit-opencourseware-reparations/"
   kind: page
   children: []
+- title: 'Cultural Anthropology: Sustaining the Momentum'
+  target: "/publications/culanth-sustaining-the-momentum/"
+  kind: page
+  children: []
 

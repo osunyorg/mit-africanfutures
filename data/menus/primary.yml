@@ -79,4 +79,8 @@
   target: "/news/"
   kind: page
   children: []
+- title: Parce que les excuses ne suffisent pas — CBAI
+  target: "/publications/parce-que-les-excuses-ne-suffisent-pas/"
+  kind: page
+  children: []
 

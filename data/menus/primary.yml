@@ -39,6 +39,10 @@
     target: "/advocacy/future-perfect-futur-anterieur/"
     kind: page
     children: []
+  - title: Events
+    target: "/advocacy/events/"
+    kind: page
+    children: []
   - title: Media Interventions
     target: "/advocacy/media-interventions/"
     kind: page

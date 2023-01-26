@@ -35,6 +35,10 @@
     target: "/mobilization/frances-colonial-violence-in-algeria/"
     kind: page
     children: []
+  - title: About mobilization
+    target: "/mobilization/"
+    kind: page
+    children: []
 - title: Advocacy
   target: "/advocacy/"
   kind: page

@@ -43,6 +43,10 @@
   target: "/advocacy/"
   kind: page
   children:
+  - title: About our advocacy
+    target: "/advocacy/"
+    kind: page
+    children: []
   - title: Future Perfect | Futur Antérieur
     target: "/advocacy/future-perfect-futur-anterieur/"
     kind: page
@@ -53,10 +57,6 @@
     children: []
   - title: Media Interventions
     target: "/advocacy/media-interventions/"
-    kind: page
-    children: []
-  - title: About our advocacy
-    target: "/advocacy/"
     kind: page
     children: []
 - title: Publications

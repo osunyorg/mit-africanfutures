@@ -11,6 +11,10 @@
     target: "/research/global-racial-inequality-dashboard/"
     kind: page
     children: []
+  - title: About our research
+    target: "/research/"
+    kind: page
+    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page

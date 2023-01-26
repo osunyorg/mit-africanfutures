@@ -55,6 +55,10 @@
     target: "/advocacy/media-interventions/"
     kind: page
     children: []
+  - title: About our advocacy
+    target: "/advocacy/"
+    kind: page
+    children: []
 - title: Publications
   target: "/publications/"
   kind: page

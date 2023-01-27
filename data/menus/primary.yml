@@ -43,7 +43,7 @@
   target: "/advocacy/"
   kind: page
   children:
-  - title: About our advocacy
+  - title: 'Transforming public debate and policies '
     target: "/advocacy/"
     kind: page
     children: []

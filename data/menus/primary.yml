@@ -10,11 +10,11 @@
   - title: Projects
     target: "/research/"
     kind: page
-    children: []
-  - title: Pursuing an African Agenda for Reparations for Colonial Crimes and Slavery
-    target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
-    kind: page
-    children: []
+    children:
+    - title: Pursuing an African Agenda for Reparations for Colonial Crimes and Slavery
+      target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+      kind: page
+      children: []
   - title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
     target: "/publications/mit-opencourseware-reparations/"
     kind: page

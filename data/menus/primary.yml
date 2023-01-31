@@ -19,12 +19,12 @@
       target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
       kind: page
       children:
-      - title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
-        target: "/publications/mit-opencourseware-reparations/"
-        kind: page
-        children: []
       - title: 'Cultural Anthropology: Sustaining the Momentum'
         target: "/publications/culanth-sustaining-the-momentum/"
+        kind: page
+        children: []
+      - title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
+        target: "/publications/mit-opencourseware-reparations/"
         kind: page
         children: []
 - title: Mobilization

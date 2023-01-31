@@ -39,6 +39,10 @@
     target: "/mobilization/frances-colonial-violence-in-algeria/"
     kind: page
     children: []
+- title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
+  target: "/publications/mit-opencourseware-reparations/"
+  kind: page
+  children: []
 - title: Transform
   target: "/advocacy/"
   kind: page

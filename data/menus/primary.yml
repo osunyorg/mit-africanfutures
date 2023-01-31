@@ -11,6 +11,10 @@
     target: "/research/"
     kind: page
     children:
+    - title: Global Racial Inequality Dashboard
+      target: "/research/global-racial-inequality-dashboard/"
+      kind: page
+      children: []
     - title: Pursuing an African Agenda for Reparations for Colonial Crimes and Slavery
       target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
       kind: page
@@ -23,10 +27,6 @@
         target: "/publications/culanth-sustaining-the-momentum/"
         kind: page
         children: []
-    - title: Global Racial Inequality Dashboard
-      target: "/research/global-racial-inequality-dashboard/"
-      kind: page
-      children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page

@@ -59,22 +59,6 @@
     target: "/advocacy/media-interventions/"
     kind: page
     children: []
-- title: Publications
-  target: "/publications/"
-  kind: page
-  children:
-  - title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
-    target: "/publications/mit-opencourseware-reparations/"
-    kind: page
-    children: []
-  - title: 'Cultural Anthropology: Sustaining the Momentum'
-    target: "/publications/culanth-sustaining-the-momentum/"
-    kind: page
-    children: []
-  - title: Parce que les excuses ne suffisent pas — CBAI
-    target: "/publications/parce-que-les-excuses-ne-suffisent-pas/"
-    kind: page
-    children: []
 - title: The Lab
   target: ''
   kind: blank

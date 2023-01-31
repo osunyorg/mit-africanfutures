@@ -11,6 +11,10 @@
     target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
     kind: page
     children: []
+  - title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
+    target: "/publications/mit-opencourseware-reparations/"
+    kind: page
+    children: []
   - title: Global Racial Inequality Dashboard
     target: "/research/global-racial-inequality-dashboard/"
     kind: page
@@ -39,10 +43,6 @@
     target: "/mobilization/frances-colonial-violence-in-algeria/"
     kind: page
     children: []
-- title: 'MIT OpenCourseWare: Reparations For Slavery And Colonization'
-  target: "/publications/mit-opencourseware-reparations/"
-  kind: page
-  children: []
 - title: Transform
   target: "/advocacy/"
   kind: page

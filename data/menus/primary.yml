@@ -19,14 +19,14 @@
         target: "/publications/mit-opencourseware-reparations/"
         kind: page
         children: []
+      - title: 'Cultural Anthropology: Sustaining the Momentum'
+        target: "/publications/culanth-sustaining-the-momentum/"
+        kind: page
+        children: []
     - title: Global Racial Inequality Dashboard
       target: "/research/global-racial-inequality-dashboard/"
       kind: page
       children: []
-  - title: 'Cultural Anthropology: Sustaining the Momentum'
-    target: "/publications/culanth-sustaining-the-momentum/"
-    kind: page
-    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page

@@ -91,4 +91,8 @@
   target: "/news/"
   kind: page
   children: []
+- title: Project
+  target: "/research/"
+  kind: page
+  children: []
 

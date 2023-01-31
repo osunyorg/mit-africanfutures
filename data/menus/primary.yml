@@ -7,6 +7,10 @@
     target: "/research/"
     kind: page
     children: []
+  - title: Projects
+    target: "/research/"
+    kind: page
+    children: []
   - title: Pursuing an African Agenda for Reparations for Colonial Crimes and Slavery
     target: "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
     kind: page
@@ -89,10 +93,6 @@
     children: []
 - title: News
   target: "/news/"
-  kind: page
-  children: []
-- title: Project
-  target: "/research/"
   kind: page
   children: []
 

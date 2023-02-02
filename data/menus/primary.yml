@@ -19,6 +19,10 @@
   target: "/mobilization/"
   kind: page
   children:
+  - title: Publications
+    target: ''
+    kind: blank
+    children: []
   - title: About mobilization
     target: "/mobilization/"
     kind: page
@@ -82,9 +86,5 @@
 - title: News
   target: "/news/"
   kind: page
-  children: []
-- title: Publications
-  target: ''
-  kind: blank
   children: []
 

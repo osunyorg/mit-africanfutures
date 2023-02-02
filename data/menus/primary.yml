@@ -35,10 +35,10 @@
       target: "/mobilization/frances-colonial-violence-in-algeria-1-1/"
       kind: page
       children: []
-  - title: Transitional Justice and Belgium’s Colonial Past with CACOBURWA
-    target: "/mobilization/transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
-    kind: page
-    children: []
+    - title: Transitional Justice and Belgium’s Colonial Past with CACOBURWA
+      target: "/mobilization/transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+      kind: page
+      children: []
   - title: France's colonial violence in Algeria
     target: "/mobilization/frances-colonial-violence-in-algeria/"
     kind: page

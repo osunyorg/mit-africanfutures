@@ -3,9 +3,9 @@
   target: "/research/"
   kind: page
   children:
-  - title: About our research
-    target: "/research/"
-    kind: page
+  - title: Publications
+    target: ''
+    kind: blank
     children: []
   - title: Projects
     target: "/research/"

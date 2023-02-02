@@ -3,10 +3,6 @@
   target: "/research/"
   kind: page
   children:
-  - title: Publications
-    target: ''
-    kind: blank
-    children: []
   - title: Projects
     target: "/research/"
     kind: page
@@ -15,6 +11,10 @@
       target: "/research/global-racial-inequality-dashboard/"
       kind: page
       children: []
+  - title: Publications
+    target: ''
+    kind: blank
+    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page

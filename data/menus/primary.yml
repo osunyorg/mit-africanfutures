@@ -23,10 +23,6 @@
     target: ''
     kind: blank
     children: []
-  - title: About mobilization
-    target: "/mobilization/"
-    kind: page
-    children: []
   - title: MobLabs
     target: "/mobilization/moblabs/"
     kind: page

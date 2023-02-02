@@ -19,10 +19,6 @@
   target: "/mobilization/"
   kind: page
   children:
-  - title: Publications
-    target: ''
-    kind: blank
-    children: []
   - title: MobLabs
     target: "/mobilization/moblabs/"
     kind: page
@@ -39,6 +35,10 @@
       target: "/mobilization/frances-colonial-violence-in-algeria/"
       kind: page
       children: []
+  - title: Publications
+    target: ''
+    kind: blank
+    children: []
 - title: Transform
   target: "/advocacy/"
   kind: page

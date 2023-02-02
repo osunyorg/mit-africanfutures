@@ -47,10 +47,6 @@
     target: "/advocacy/future-perfect-futur-anterieur/"
     kind: page
     children: []
-  - title: 'Transforming public debate and policies '
-    target: "/advocacy/"
-    kind: page
-    children: []
   - title: Events
     target: "/advocacy/events/"
     kind: page

@@ -43,12 +43,12 @@
   target: "/advocacy/"
   kind: page
   children:
-  - title: 'Transforming public debate and policies '
-    target: "/advocacy/"
-    kind: page
-    children: []
   - title: Podcast
     target: "/advocacy/future-perfect-futur-anterieur/"
+    kind: page
+    children: []
+  - title: 'Transforming public debate and policies '
+    target: "/advocacy/"
     kind: page
     children: []
   - title: Events

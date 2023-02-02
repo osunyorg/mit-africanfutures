@@ -83,4 +83,8 @@
   target: "/news/"
   kind: page
   children: []
+- title: Publications
+  target: ''
+  kind: blank
+  children: []
 

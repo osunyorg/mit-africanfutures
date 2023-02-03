@@ -79,4 +79,8 @@
   target: "/news/"
   kind: page
   children: []
+- title: Our research
+  target: "/research/"
+  kind: page
+  children: []
 

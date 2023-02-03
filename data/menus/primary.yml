@@ -8,7 +8,7 @@
     kind: page
     children:
     - title: Global Racial Inequality Dashboard
-      target: "/research/global-racial-inequality-dashboard/"
+      target: "/global-racial-inequality-dashboard/"
       kind: page
       children: []
   - title: Publications

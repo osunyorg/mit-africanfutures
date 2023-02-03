@@ -3,6 +3,10 @@
   target: "/research/"
   kind: page
   children:
+  - title: Our research
+    target: "/research/"
+    kind: page
+    children: []
   - title: Projects
     target: "/research/research-projects/"
     kind: page
@@ -77,10 +81,6 @@
     children: []
 - title: News
   target: "/news/"
-  kind: page
-  children: []
-- title: Our research
-  target: "/research/"
   kind: page
   children: []
 

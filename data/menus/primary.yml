@@ -4,7 +4,7 @@
   kind: page
   children:
   - title: Projects
-    target: "/research/"
+    target: "/research/research-projectcs/"
     kind: page
     children:
     - title: Global Racial Inequality Dashboard

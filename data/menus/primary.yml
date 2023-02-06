@@ -10,15 +10,7 @@
   - title: Projects
     target: "/research/research-projects/"
     kind: page
-    children:
-    - title: Pursuing an African Agenda for Reparations for Colonial Crimes and Slavery
-      target: "/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
-      kind: page
-      children:
-      - title: 'Cultural Anthropology: Sustaining the Momentum'
-        target: "/research/publications/culanth-sustaining-the-momentum/"
-        kind: page
-        children: []
+    children: []
   - title: Publications
     target: "/research/publications/"
     kind: page

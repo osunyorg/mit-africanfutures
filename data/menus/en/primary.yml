@@ -19,7 +19,7 @@
   target: "/mobilization/"
   kind: page
   children:
-  - title: Mobilization
+  - title: Our mobilization
     target: "/mobilization/"
     kind: page
     children: []

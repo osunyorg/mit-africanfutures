@@ -19,6 +19,10 @@
   target: "/mobilization/"
   kind: page
   children:
+  - title: Our mobilization
+    target: "/mobilization/"
+    kind: page
+    children: []
   - title: MobLabs
     target: "/mobilization/moblabs/"
     kind: page
@@ -65,10 +69,6 @@
     children: []
 - title: News
   target: "/news/"
-  kind: page
-  children: []
-- title: Our mobilization
-  target: "/mobilization/"
   kind: page
   children: []
 

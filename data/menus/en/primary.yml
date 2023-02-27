@@ -1,4 +1,6 @@
 ---
+title: Primary
+items:
 - title: Research
   target: "/research/"
   kind: page

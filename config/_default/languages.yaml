@@ -10,3 +10,13 @@ en:
     posts: /news/:year-:month-:day-:slug/
     persons: /team/:slug/
     authors: /team/:slug/news/
+fr:
+  title: African Futures
+  contentDir: content/fr
+  languageCode: fr
+  languageName: Français
+  permalinks:
+    categories: /actualites/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    persons: /team/:slug/
+    authors: /team/:slug/actualites/

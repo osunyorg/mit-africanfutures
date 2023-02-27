@@ -2,31 +2,31 @@
 title: Primary
 items:
 - title: Research
-  target: "/research/"
+  target: "/en/research/"
   kind: page
   children:
   - title: Our research
-    target: "/research/"
+    target: "/en/research/"
     kind: page
     children: []
   - title: Projects
-    target: "/research/research-projects/"
+    target: "/en/research/research-projects/"
     kind: page
     children: []
   - title: Publications
-    target: "/research/publications/"
+    target: "/en/research/publications/"
     kind: page
     children: []
 - title: Mobilization
-  target: "/mobilization/"
+  target: "/en/mobilization/"
   kind: page
   children:
   - title: Our mobilization
-    target: "/mobilization/"
+    target: "/en/mobilization/"
     kind: page
     children: []
   - title: MobLabs
-    target: "/mobilization/moblabs/"
+    target: "/en/mobilization/moblabs/"
     kind: page
     children: []
   - title: Publications
@@ -34,19 +34,19 @@ items:
     kind: blank
     children: []
 - title: Transform
-  target: "/advocacy/"
+  target: "/en/advocacy/"
   kind: page
   children:
   - title: Podcast
-    target: "/advocacy/future-perfect-futur-anterieur/"
+    target: "/en/advocacy/future-perfect-futur-anterieur/"
     kind: page
     children: []
   - title: Events
-    target: "/advocacy/events/"
+    target: "/en/advocacy/events/"
     kind: page
     children: []
   - title: Media Interventions
-    target: "/advocacy/media-interventions/"
+    target: "/en/advocacy/media-interventions/"
     kind: page
     children: []
 - title: The Lab
@@ -54,23 +54,23 @@ items:
   kind: blank
   children:
   - title: Our mission
-    target: "/the-lab/our-mission/"
+    target: "/en/the-lab/our-mission/"
     kind: page
     children: []
   - title: How we work
-    target: "/the-lab/how-we-work/"
+    target: "/en/the-lab/how-we-work/"
     kind: page
     children: []
   - title: Who we are
-    target: "/the-lab/who-we-are/"
+    target: "/en/the-lab/who-we-are/"
     kind: page
     children: []
   - title: How To Get Involved
-    target: "/the-lab/how-to-get-involved/"
+    target: "/en/the-lab/how-to-get-involved/"
     kind: page
     children: []
 - title: News
-  target: "/news/"
+  target: "/en/news/"
   kind: page
   children: []
 

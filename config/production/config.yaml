@@ -4,4 +4,4 @@ baseURL: https://africanfutures.mit.edu
 
 ## LANGUAGE
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false

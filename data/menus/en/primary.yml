@@ -46,7 +46,7 @@ items:
     kind: page
     children: []
   - title: Media
-    target: "/advocacy/media-interventions/"
+    target: "/advocacy/media/"
     kind: page
     children: []
 - title: The Lab

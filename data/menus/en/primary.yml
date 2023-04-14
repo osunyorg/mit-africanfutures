@@ -45,7 +45,7 @@ items:
     target: "/advocacy/events/"
     kind: page
     children: []
-  - title: Media Interventions
+  - title: Media
     target: "/advocacy/media-interventions/"
     kind: page
     children: []

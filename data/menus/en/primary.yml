@@ -70,7 +70,7 @@ items:
     kind: page
     children: []
 - title: News
-  target: "/news/"
-  kind: page
+  target: ''
+  kind: blank
   children: []
 

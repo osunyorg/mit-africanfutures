@@ -25,10 +25,6 @@ items:
     target: "/mobilization/"
     kind: page
     children: []
-  - title: MobLabs
-    target: "/mobilization/moblabs/"
-    kind: page
-    children: []
   - title: Publications
     target: "/mobilization/publications-1/"
     kind: page

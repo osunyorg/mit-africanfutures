@@ -13,8 +13,4 @@ items:
   target: "/privacy-policy/"
   kind: page
   children: []
-- title: Accessibilité
-  target: "/accessibilite/"
-  kind: page
-  children: []
 

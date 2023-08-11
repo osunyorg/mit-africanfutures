@@ -10,7 +10,7 @@ items:
     kind: page
     children: []
   - title: How we work
-    target: "/the-lab/how-we-work/"
+    target: "/the-lab/what-we-do/"
     kind: page
     children: []
   - title: Who we are

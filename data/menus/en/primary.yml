@@ -1,22 +1,6 @@
 ---
 title: Primary
 items:
-- title: Transform
-  target: "/advocacy/"
-  kind: page
-  children:
-  - title: Podcast
-    target: "/advocacy/future-perfect-futur-anterieur/"
-    kind: page
-    children: []
-  - title: Events
-    target: "/advocacy/events/"
-    kind: page
-    children: []
-  - title: Media
-    target: "/advocacy/media/"
-    kind: page
-    children: []
 - title: Research
   target: "/research/"
   kind: page
@@ -31,6 +15,22 @@ items:
     children: []
   - title: Publications
     target: "/research/publications/"
+    kind: page
+    children: []
+- title: Transform
+  target: "/advocacy/"
+  kind: page
+  children:
+  - title: Podcast
+    target: "/advocacy/future-perfect-futur-anterieur/"
+    kind: page
+    children: []
+  - title: Events
+    target: "/advocacy/events/"
+    kind: page
+    children: []
+  - title: Media
+    target: "/advocacy/media/"
     kind: page
     children: []
 - title: Mobilization

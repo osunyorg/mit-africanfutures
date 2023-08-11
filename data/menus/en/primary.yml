@@ -17,6 +17,18 @@ items:
     target: "/research/publications/"
     kind: page
     children: []
+- title: Mobilization
+  target: "/mobilization/"
+  kind: page
+  children:
+  - title: Our mobilization
+    target: "/mobilization/"
+    kind: page
+    children: []
+  - title: Publications
+    target: "/mobilization/publications-1/"
+    kind: page
+    children: []
 - title: Transform
   target: "/advocacy/"
   kind: page
@@ -31,18 +43,6 @@ items:
     children: []
   - title: Media
     target: "/advocacy/media/"
-    kind: page
-    children: []
-- title: Mobilization
-  target: "/mobilization/"
-  kind: page
-  children:
-  - title: Our mobilization
-    target: "/mobilization/"
-    kind: page
-    children: []
-  - title: Publications
-    target: "/mobilization/publications-1/"
     kind: page
     children: []
 - title: The Lab

@@ -3,11 +3,26 @@
     color: $color-accent
 
 .menu
+    .nav-level-1
+        > .has-children
+            > .dropdown-menu
+                margin-top: px2rem(40)
+        > li:last-child a
+            background: $color-accent-alt
+            @include media-breakpoint-up(desktop)
+                padding-right: $spacing0
+                margin-left: $spacing0
+            @include media-breakpoint-down(desktop)
+                padding-left: $spacing0
+                padding-right: $spacing0
+                margin-bottom: $spacing1
+
     @include media-breakpoint-up(desktop)
         .nav-level-1
             > .has-children
                 > .dropdown-menu
                     margin-top: px2rem(40)
+
     .nav-level-2
         > li
             > a,

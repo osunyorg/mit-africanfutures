@@ -10,8 +10,14 @@ params:
       layout: grid
     list:
       show_categories: true
+  search: 
+    active: true
+    position: footer
+    appearance: both
   breadcrumb:
     position: after-hero
+  summary:
+    position: content
   image_sizes:
     design_system:
       hero:

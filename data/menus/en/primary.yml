@@ -37,6 +37,10 @@ items:
     target: "/research/publications/"
     kind: page
     children: []
+  - title: Reports and Policy briefs
+    target: "/reports-and-policy-briefs/"
+    kind: page
+    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page

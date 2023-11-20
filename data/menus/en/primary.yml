@@ -37,6 +37,10 @@ items:
     target: "/research/publications/"
     kind: page
     children: []
+  - title: Areas of action
+    target: "/research/areas-of-action/"
+    kind: page
+    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page

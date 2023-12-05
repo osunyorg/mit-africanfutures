@@ -10,3 +10,12 @@ en:
     posts: /news/:year-:month-:day-:slug/
     persons: /team/:slug/
     authors: /team/:slug/news/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers

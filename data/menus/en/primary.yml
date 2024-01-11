@@ -34,8 +34,8 @@ items:
     kind: page
     children: []
   - title: Publications
-    target: "/research/publications/"
-    kind: page
+    target: "/news/research-publications/"
+    kind: category
     children: []
 - title: Mobilization
   target: "/mobilization/"

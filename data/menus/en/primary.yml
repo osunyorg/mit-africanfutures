@@ -73,4 +73,8 @@ items:
   target: "/the-lab/donate/"
   kind: page
   children: []
+- title: Outreach
+  target: "/outreach/"
+  kind: page
+  children: []
 

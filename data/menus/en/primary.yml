@@ -21,6 +21,10 @@ items:
     target: "/the-lab/how-to-support-us-1/"
     kind: page
     children: []
+  - title: Our mission (new)
+    target: "/the-lab/our-mission-new/"
+    kind: page
+    children: []
 - title: Research
   target: "/research/"
   kind: page
@@ -63,10 +67,6 @@ items:
   children: []
 - title: Donate
   target: "/the-lab/donate/"
-  kind: page
-  children: []
-- title: Our mission (new)
-  target: "/the-lab/our-mission-new/"
   kind: page
   children: []
 

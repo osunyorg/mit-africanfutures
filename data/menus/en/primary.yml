@@ -65,4 +65,8 @@ items:
   target: "/the-lab/donate/"
   kind: page
   children: []
+- title: Our mission (new)
+  target: "/the-lab/our-mission-new/"
+  kind: page
+  children: []
 

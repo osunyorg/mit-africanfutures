@@ -1,28 +1,25 @@
-.hero .content > h1, 
-.hero .content > hgroup
+.hero .hero-text > h1, 
+.hero .hero-text > hgroup
     color: $color-accent
 
 .menu
     .nav-level-1
-        > .has-children
-            > .dropdown-menu
-                margin-top: px2rem(40)
         > li:last-of-type
             a
                 background: $color-accent-alt
                 @include media-breakpoint-up(desktop)
-                    padding-right: $spacing0
-                    margin-left: $spacing0
+                    padding-right: $spacing-2
+                    margin-left: $spacing-2
                 @include media-breakpoint-down(desktop)
-                    padding-left: $spacing0
-                    padding-right: $spacing0
-                    margin-bottom: $spacing1
+                    padding-left: $spacing-2
+                    padding-right: $spacing-2
+                    margin-bottom: $spacing-3
 
     @include media-breakpoint-up(desktop)
         .nav-level-1
             > .has-children
                 > .dropdown-menu
-                    margin-top: px2rem(40)
+                    margin-top: pxToRem(40)
 
     .nav-level-2
         > li
@@ -59,39 +56,47 @@
                 &:nth-of-type(3)
                     margin-left: 0
 
+// Remove space under hero for clean margins
+@include media-breakpoint-down(desktop)
+    .hero--with-image .content .hero-text
+        margin-top: $spacing-3
+        margin-bottom: 0
+    .block-summary
+        margin-top: $spacing-3
+    .page__home
+        .hero + .document-content
+            margin-top: $spacing-4
+
 .page__home, .pages__section, .posts_categories__term, .events_categories__term, .posts__section
     .hero
         background-color: white
-        margin-bottom: $spacing0
         padding-bottom: 0
         .content
-            display: block
+            display: flex
+            flex-direction: column
+            align-items: stretch
+            padding-top: 0
         .container
-            .content
-                display: flex
-                flex-direction: column
-                align-items: stretch
-                padding-top: 0
-                h1, hgroup, figure
-                    width: auto
+            h1, hgroup, figure
+                width: auto
+            .hero-text
+                order: 2
                 > h1, hgroup
-                    padding-top: $spacing2
                     margin-top: 0
-                    order: 2
-                figure
-                    @include media-breakpoint-up(desktop)
-                        margin: 0 -#{$grid-gutter} 0
-                    img
-                        aspect-ratio: 3 / 1
-                        object-fit: cover
-                    figcaption
-                        &::before
-                            display: none
-                        .credit-content
-                            display: block
-                            background: none
+            figure
+                img
+                    aspect-ratio: 3 / 1
+                    object-fit: cover
+                figcaption
+                    &::before
+                        display: none
+                    .credit-content
+                        display: block
+                        background: none
+                @include media-breakpoint-up(desktop)
+                    margin: 0 var(--grid-gutter-negative) 
         + .container
-            margin-top: $spacing0
+            margin-top: $spacing-2
         @include media-breakpoint-down(desktop)
             &--image-square
                 .container

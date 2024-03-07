@@ -30,7 +30,7 @@ items:
     kind: page
     children: []
   - title: Projects
-    target: "/research/research-and-policy-briefs/"
+    target: "/research/projects/"
     kind: page
     children: []
   - title: Publications

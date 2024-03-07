@@ -34,7 +34,7 @@ items:
     kind: page
     children: []
   - title: Publications
-    target: "/research/publications/"
+    target: "/research/reports-and-policy-briefs-1/"
     kind: page
     children: []
 - title: Mobilization

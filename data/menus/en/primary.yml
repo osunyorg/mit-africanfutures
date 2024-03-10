@@ -49,6 +49,14 @@ items:
     target: "/research/reports-and-policy-briefs-1/"
     kind: page
     children: []
+- title: Outreach
+  target: "/outreach/"
+  kind: page
+  children:
+  - title: 'Podcast: Future Perfect | Futur Antérieur'
+    target: "/outreach/podcast-future-perfect-futur-anterieur/"
+    kind: page
+    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page
@@ -69,12 +77,4 @@ items:
   target: "/the-lab/donate/"
   kind: page
   children: []
-- title: Outreach
-  target: "/outreach/"
-  kind: page
-  children:
-  - title: 'Podcast: Future Perfect | Futur Antérieur'
-    target: "/outreach/podcast-future-perfect-futur-anterieur/"
-    kind: page
-    children: []
 

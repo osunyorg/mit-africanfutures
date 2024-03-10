@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: 'About us '
-    target: "/the-lab/about-us-or-our-story/"
+    target: "/the-lab/about-us-1/"
     kind: page
     children: []
   - title: 'Our Mission '

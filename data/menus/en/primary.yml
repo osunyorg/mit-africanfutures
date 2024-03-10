@@ -85,6 +85,14 @@ items:
     target: "/strategies-building/building-strategies-1/"
     kind: page
     children: []
+  - title: Mobilization Labs
+    target: "/strategies-building/mobilization-labs/"
+    kind: page
+    children:
+    - title: The Métis of the Great Lakes MobLab
+      target: ''
+      kind: blank
+      children: []
   - title: Tools and Ressources
     target: ''
     kind: blank

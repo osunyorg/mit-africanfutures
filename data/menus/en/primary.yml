@@ -44,7 +44,15 @@ items:
   - title: 'Program Areas '
     target: "/research/program-areas/"
     kind: page
-    children: []
+    children:
+    - title: Environmental Violence
+      target: "/research/program-areas/environmental-violence/"
+      kind: page
+      children: []
+    - title: Gender Violence
+      target: "/research/program-areas/gender-violence/"
+      kind: page
+      children: []
   - title: Reports and Policy Briefs
     target: "/research/reports-and-policy-briefs-1/"
     kind: page

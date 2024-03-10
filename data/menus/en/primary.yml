@@ -81,14 +81,6 @@ items:
     target: "/outreach/blog/"
     kind: page
     children: []
-- title: News
-  target: "/news/"
-  kind: page
-  children: []
-- title: Donate
-  target: "/the-lab/donate/"
-  kind: page
-  children: []
 - title: 'Strategies Building '
   target: "/strategies-building/"
   kind: page
@@ -97,4 +89,12 @@ items:
     target: "/strategies-building/building-strategies-1/"
     kind: page
     children: []
+- title: News
+  target: "/news/"
+  kind: page
+  children: []
+- title: Donate
+  target: "/the-lab/donate/"
+  kind: page
+  children: []
 

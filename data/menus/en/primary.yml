@@ -13,6 +13,10 @@ items:
     target: "/the-lab/our-mission-1/"
     kind: page
     children: []
+  - title: What we do
+    target: "/the-lab/our-mission-new/"
+    kind: page
+    children: []
 - title: Research
   target: "/research/"
   kind: page

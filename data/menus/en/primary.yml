@@ -73,10 +73,6 @@ items:
     target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
     children: []
-  - title: Media
-    target: ''
-    kind: blank
-    children: []
 - title: 'Strategies Building '
   target: "/strategies-building/"
   kind: page
@@ -84,18 +80,6 @@ items:
   - title: Empowering
     target: "/strategies-building/building-strategies-1/"
     kind: page
-    children: []
-  - title: Mobilization Labs
-    target: "/strategies-building/mobilization-labs/"
-    kind: page
-    children:
-    - title: The Métis of the Great Lakes MobLab
-      target: ''
-      kind: blank
-      children: []
-  - title: Tools and Ressources
-    target: ''
-    kind: blank
     children: []
 - title: News
   target: "/news/"

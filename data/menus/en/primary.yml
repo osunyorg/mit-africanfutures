@@ -9,6 +9,10 @@ items:
     target: "/the-lab/about-us-or-our-story/"
     kind: page
     children: []
+  - title: 'Our Mission '
+    target: "/the-lab/our-mission-1/"
+    kind: page
+    children: []
 - title: Research
   target: "/research/"
   kind: page

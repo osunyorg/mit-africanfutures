@@ -100,5 +100,9 @@ items:
 - title: 'Strategies Building '
   target: "/strategies-building/"
   kind: page
-  children: []
+  children:
+  - title: Tools and Ressources
+    target: ''
+    kind: blank
+    children: []
 

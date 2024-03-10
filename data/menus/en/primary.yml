@@ -77,26 +77,6 @@ items:
     target: ''
     kind: blank
     children: []
-- title: Mobilization
-  target: "/mobilization/"
-  kind: page
-  children:
-  - title: Our mobilization
-    target: "/mobilization/"
-    kind: page
-    children: []
-  - title: Publications
-    target: "/mobilization/publications-1/"
-    kind: page
-    children: []
-- title: News
-  target: "/news/"
-  kind: page
-  children: []
-- title: Donate
-  target: "/the-lab/donate/"
-  kind: page
-  children: []
 - title: 'Strategies Building '
   target: "/strategies-building/"
   kind: page
@@ -109,4 +89,12 @@ items:
     target: ''
     kind: blank
     children: []
+- title: News
+  target: "/news/"
+  kind: page
+  children: []
+- title: Donate
+  target: "/the-lab/donate/"
+  kind: page
+  children: []
 

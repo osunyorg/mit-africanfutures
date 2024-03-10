@@ -29,6 +29,10 @@ items:
     target: "/the-lab/our-mission-1/"
     kind: page
     children: []
+  - title: What we do
+    target: "/the-lab/our-mission-new/"
+    kind: page
+    children: []
   - title: Work with us
     target: ''
     kind: blank

@@ -101,6 +101,10 @@ items:
   target: "/strategies-building/"
   kind: page
   children:
+  - title: Empowering
+    target: "/strategies-building/building-strategies-1/"
+    kind: page
+    children: []
   - title: Tools and Ressources
     target: ''
     kind: blank

@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: What we do
-    target: "/the-lab/our-mission-new/"
+    target: "/the-lab/our-mission-2/"
     kind: page
     children: []
   - title: Who we are

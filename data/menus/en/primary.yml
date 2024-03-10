@@ -81,18 +81,6 @@ items:
     target: "/outreach/blog/"
     kind: page
     children: []
-  - title: Blog
-    target: "/outreach/blog/"
-    kind: page
-    children: []
-- title: 'Strategies Building '
-  target: "/strategies-building/"
-  kind: page
-  children:
-  - title: Empowering
-    target: "/strategies-building/building-strategies-1/"
-    kind: page
-    children: []
 - title: News
   target: "/news/"
   kind: page

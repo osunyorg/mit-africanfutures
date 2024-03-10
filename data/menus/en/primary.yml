@@ -89,4 +89,8 @@ items:
   target: "/the-lab/donate/"
   kind: page
   children: []
+- title: 'Strategies Building '
+  target: "/strategies-building/"
+  kind: page
+  children: []
 

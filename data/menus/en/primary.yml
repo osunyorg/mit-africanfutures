@@ -21,6 +21,10 @@ items:
     target: "/the-lab/who-we-are/"
     kind: page
     children: []
+  - title: 'Contact us '
+    target: "/the-lab/lets-connect/"
+    kind: page
+    children: []
 - title: Research
   target: "/research/"
   kind: page

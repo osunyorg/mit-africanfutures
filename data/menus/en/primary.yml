@@ -1,46 +1,6 @@
 ---
 title: Primary
 items:
-- title: The Lab
-  target: ''
-  kind: blank
-  children:
-  - title: Our mission
-    target: "/the-lab/our-mission/"
-    kind: page
-    children: []
-  - title: How we work
-    target: "/the-lab/how-we-work/"
-    kind: page
-    children: []
-  - title: Who we are
-    target: "/the-lab/who-we-are/"
-    kind: page
-    children: []
-  - title: How to support us
-    target: "/the-lab/how-to-support-us-1/"
-    kind: page
-    children: []
-  - title: 'About us '
-    target: "/the-lab/about-us-or-our-story/"
-    kind: page
-    children: []
-  - title: 'Our Mission '
-    target: "/the-lab/our-mission-1/"
-    kind: page
-    children: []
-  - title: What we do
-    target: "/the-lab/our-mission-new/"
-    kind: page
-    children: []
-  - title: 'Contact us '
-    target: "/the-lab/lets-connect/"
-    kind: page
-    children: []
-  - title: Work with us
-    target: ''
-    kind: blank
-    children: []
 - title: Research
   target: "/research/"
   kind: page

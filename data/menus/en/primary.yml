@@ -33,6 +33,10 @@ items:
     target: "/the-lab/our-mission-new/"
     kind: page
     children: []
+  - title: 'Contact us '
+    target: "/the-lab/lets-connect/"
+    kind: page
+    children: []
   - title: Work with us
     target: ''
     kind: blank

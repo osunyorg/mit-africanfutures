@@ -25,6 +25,10 @@ items:
     target: "/the-lab/about-us-or-our-story/"
     kind: page
     children: []
+  - title: Work with us
+    target: ''
+    kind: blank
+    children: []
 - title: Research
   target: "/research/"
   kind: page

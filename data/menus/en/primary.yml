@@ -26,7 +26,7 @@ items:
     kind: page
     children: []
   - title: 'Contact us '
-    target: "/the-lab/lets-connect/"
+    target: "/the-lab/contact-us/"
     kind: page
     children: []
   - title: Work with us

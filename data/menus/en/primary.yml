@@ -37,10 +37,6 @@ items:
   target: "/research/"
   kind: page
   children:
-  - title: Our research
-    target: "/research/"
-    kind: page
-    children: []
   - title: Publications
     target: "/research/reports-and-policy-briefs-1/"
     kind: page

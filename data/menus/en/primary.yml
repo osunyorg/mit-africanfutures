@@ -41,11 +41,11 @@ items:
     target: "/research/"
     kind: page
     children: []
-  - title: Projects
-    target: "/research/projects/"
+  - title: Publications
+    target: "/research/reports-and-policy-briefs-1/"
     kind: page
     children: []
-  - title: Publications
+  - title: Reports and Policy Briefs
     target: "/research/reports-and-policy-briefs-1/"
     kind: page
     children: []

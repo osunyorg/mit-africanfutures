@@ -92,5 +92,9 @@ items:
 - title: 'Strategies Building '
   target: "/strategies-building/"
   kind: page
-  children: []
+  children:
+  - title: Empowering
+    target: "/strategies-building/building-strategies-1/"
+    kind: page
+    children: []
 

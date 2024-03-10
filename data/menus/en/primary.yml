@@ -73,6 +73,10 @@ items:
     target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
     children: []
+  - title: Media
+    target: ''
+    kind: blank
+    children: []
 - title: Mobilization
   target: "/mobilization/"
   kind: page

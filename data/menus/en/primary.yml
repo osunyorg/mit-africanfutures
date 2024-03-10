@@ -1,6 +1,14 @@
 ---
 title: Primary
 items:
+- title: The Lab
+  target: "/the-lab/"
+  kind: page
+  children:
+  - title: 'About us '
+    target: "/the-lab/about-us-or-our-story/"
+    kind: page
+    children: []
 - title: Research
   target: "/research/"
   kind: page

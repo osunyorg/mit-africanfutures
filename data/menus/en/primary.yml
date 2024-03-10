@@ -21,6 +21,10 @@ items:
     target: "/the-lab/who-we-are/"
     kind: page
     children: []
+  - title: 'How to support us '
+    target: "/the-lab/how-to-support-us-2/"
+    kind: page
+    children: []
   - title: 'Contact us '
     target: "/the-lab/lets-connect/"
     kind: page

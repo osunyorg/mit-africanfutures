@@ -53,6 +53,10 @@ items:
       target: "/research/program-areas/gender-violence/"
       kind: page
       children: []
+    - title: Socio-economic Violence
+      target: "/research/program-areas/socio-economic-violence/"
+      kind: page
+      children: []
   - title: Reports and Policy Briefs
     target: "/research/reports-and-policy-briefs-1/"
     kind: page

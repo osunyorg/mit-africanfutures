@@ -61,14 +61,6 @@ items:
     target: "/mobilization/publications-1/"
     kind: page
     children: []
-- title: Transform
-  target: "/advocacy/"
-  kind: page
-  children:
-  - title: Podcast
-    target: "/outreach/podcast-future-perfect-futur-anterieur/"
-    kind: page
-    children: []
 - title: News
   target: "/news/"
   kind: page
@@ -77,4 +69,12 @@ items:
   target: "/the-lab/donate/"
   kind: page
   children: []
+- title: Outreach
+  target: "/outreach/"
+  kind: page
+  children:
+  - title: 'Podcast: Future Perfect | Futur Antérieur'
+    target: "/outreach/podcast-future-perfect-futur-anterieur/"
+    kind: page
+    children: []
 

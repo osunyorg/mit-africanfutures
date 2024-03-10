@@ -73,6 +73,10 @@ items:
     target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
     children: []
+  - title: 'AfaLives '
+    target: "/outreach/afalives/"
+    kind: page
+    children: []
   - title: 'Blog '
     target: "/outreach/blog/"
     kind: page

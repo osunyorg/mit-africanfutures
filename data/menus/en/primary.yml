@@ -69,7 +69,7 @@ items:
   target: "/outreach/"
   kind: page
   children:
-  - title: 'Podcast: Future Perfect | Futur Antérieur'
+  - title: 'Podcast '
     target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
     children: []

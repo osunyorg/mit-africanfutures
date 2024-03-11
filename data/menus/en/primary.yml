@@ -1,7 +1,7 @@
 ---
 title: Primary
 items:
-- title: The lab
+- title: The Lab
   target: "/the-lab/"
   kind: page
   children:

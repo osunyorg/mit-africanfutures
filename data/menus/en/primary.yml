@@ -29,14 +29,6 @@ items:
     target: "/the-lab/connect-with-us/"
     kind: page
     children: []
-  - title: Work with us
-    target: "/the-lab/work-with-us/"
-    kind: page
-    children: []
-  - title: Connect with us
-    target: "/the-lab/connect-with-us/"
-    kind: page
-    children: []
 - title: Research
   target: "/research/"
   kind: page

@@ -53,10 +53,6 @@ items:
     target: "/outreach/afalives/"
     kind: page
     children: []
-  - title: 'Blog '
-    target: "/outreach/blog/"
-    kind: page
-    children: []
 - title: 'Strategies Building '
   target: "/strategies-building/"
   kind: page

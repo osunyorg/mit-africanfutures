@@ -25,11 +25,11 @@ items:
     target: "/the-lab/how-to-support-us-2/"
     kind: page
     children: []
-  - title: 'Contact us '
+  - title: Connect with us
     target: "/the-lab/connect-with-us/"
     kind: page
     children: []
-  - title: Connect with us
+  - title: 'Contact us '
     target: "/the-lab/connect-with-us/"
     kind: page
     children: []

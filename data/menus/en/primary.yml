@@ -22,7 +22,7 @@ items:
     kind: page
     children: []
   - title: 'How to support us '
-    target: "/the-lab/how-to-support-us-2/"
+    target: "/the-lab/how-to-support-us/"
     kind: page
     children: []
   - title: Connect with us

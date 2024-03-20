@@ -5,10 +5,6 @@ items:
   target: "/the-lab/"
   kind: page
   children:
-  - title: 'Our Mission '
-    target: "/the-lab/our-mission-1/"
-    kind: page
-    children: []
   - title: What we do
     target: "/the-lab/what-we-do/"
     kind: page
@@ -35,14 +31,6 @@ items:
     children: []
   - title: 'Publications '
     target: "/research/publications/"
-    kind: page
-    children: []
-  - title: Raising Awareness
-    target: "/research/raising-awareness/"
-    kind: page
-    children: []
-  - title: Reports and Policy Briefs
-    target: "/research/reports-and-policy-briefs-1/"
     kind: page
     children: []
 - title: Outreach

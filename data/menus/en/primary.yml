@@ -57,6 +57,10 @@ items:
     target: "/strategies-building/building-strategies-1/"
     kind: page
     children: []
+  - title: Mobilization Labs
+    target: "/mobilization/moblabs-1/"
+    kind: page
+    children: []
 - title: News
   target: "/news/"
   kind: page

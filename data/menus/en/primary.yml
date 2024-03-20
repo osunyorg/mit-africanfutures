@@ -37,10 +37,6 @@ items:
     target: "/research/reports-and-policy-briefs-1/"
     kind: page
     children: []
-  - title: Current Projects
-    target: "/research/current-projects/"
-    kind: page
-    children: []
 - title: Outreach
   target: "/outreach/"
   kind: page

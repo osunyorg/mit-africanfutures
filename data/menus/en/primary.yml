@@ -5,6 +5,10 @@ items:
   target: "/the-lab/"
   kind: page
   children:
+  - title: 'Our Mission '
+    target: "/the-lab/our-mission/"
+    kind: page
+    children: []
   - title: What we do
     target: "/the-lab/what-we-do/"
     kind: page

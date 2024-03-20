@@ -45,6 +45,10 @@ items:
     target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
     children: []
+  - title: Events
+    target: "/outreach/events/"
+    kind: page
+    children: []
 - title: 'Strategies Building '
   target: "/strategies-building/"
   kind: page

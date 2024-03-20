@@ -33,6 +33,10 @@ items:
     target: "/research/current-projects/"
     kind: page
     children: []
+  - title: 'Publications '
+    target: "/research/publications/"
+    kind: page
+    children: []
   - title: Raising Awareness
     target: "/research/raising-awareness/"
     kind: page

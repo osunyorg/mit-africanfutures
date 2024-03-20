@@ -29,16 +29,16 @@ items:
   target: "/research/"
   kind: page
   children:
+  - title: Current Projects
+    target: "/research/current-projects/"
+    kind: page
+    children: []
   - title: Raising Awareness
     target: "/research/raising-awareness/"
     kind: page
     children: []
   - title: Reports and Policy Briefs
     target: "/research/reports-and-policy-briefs-1/"
-    kind: page
-    children: []
-  - title: Current Projects
-    target: "/research/current-projects/"
     kind: page
     children: []
 - title: Outreach

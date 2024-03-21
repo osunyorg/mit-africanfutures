@@ -49,16 +49,16 @@ items:
     target: "/outreach/events/"
     kind: page
     children: []
+- title: Mobilization
+  target: "/mobilization/"
+  kind: page
+  children: []
 - title: News
   target: "/news/"
   kind: page
   children: []
 - title: Donate
   target: "/the-lab/donate/"
-  kind: page
-  children: []
-- title: Mobilization
-  target: "/mobilization/"
   kind: page
   children: []
 

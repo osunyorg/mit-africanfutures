@@ -52,7 +52,11 @@ items:
 - title: Mobilization
   target: "/mobilization/"
   kind: page
-  children: []
+  children:
+  - title: MobLabs
+    target: "/mobilization/moblabs-1/"
+    kind: page
+    children: []
 - title: News
   target: "/news/"
   kind: page

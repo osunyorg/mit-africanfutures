@@ -5,13 +5,11 @@ url: "/news/publications/"
 slug: "publications"
 aliases:
   - /en/news/publications/
-
-full_width: true
-design:
-  full_width: true
-  toc:
-    present: false
-    offcanvas: true
+hugo:
+  permalink: "/news/publications/"
+  file: "content/en/posts_categories/publications/_index.html"
+  path: "/publications/"
+  slug: "publications"
 
 breadcrumbs:
   - title: >-
@@ -22,6 +20,14 @@ breadcrumbs:
     path: "/news/"
   - title: >-
       Publications
+
+full_width: true
+design:
+  full_width: true
+  toc:
+    present: false
+    offcanvas: true
+
 children:
   - /publications/reports-and-policy-briefs/
   - /publications/annual-reports/

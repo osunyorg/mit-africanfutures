@@ -69,4 +69,8 @@ items:
   target: "/the-lab/donate/"
   kind: page
   children: []
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  children: []
 

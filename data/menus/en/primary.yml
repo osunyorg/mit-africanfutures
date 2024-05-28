@@ -57,10 +57,6 @@ items:
     target: "/en/mobilization/moblabs-1/"
     kind: page
     children: []
-  - title: Campaigns
-    target: "/en/mobilization/campaigns/"
-    kind: page
-    children: []
 - title: News
   target: "/en/news/"
   kind: page

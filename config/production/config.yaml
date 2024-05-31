@@ -4,7 +4,7 @@ baseURL: https://www.afalab.org
 
 ## LANGUAGE
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 ## CACHE
 deployment:

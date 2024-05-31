@@ -2,75 +2,75 @@
 title: Primary
 items:
 - title: The Lab
-  target: "/en/the-lab/"
+  target: "/the-lab/"
   kind: page
   children:
   - title: 'Our Mission '
-    target: "/en/the-lab/our-mission/"
+    target: "/the-lab/our-mission/"
     kind: page
     children: []
   - title: What we do
-    target: "/en/the-lab/what-we-do/"
+    target: "/the-lab/what-we-do/"
     kind: page
     children: []
   - title: Who we are
-    target: "/en/the-lab/who-we-are/"
+    target: "/the-lab/who-we-are/"
     kind: page
     children: []
   - title: 'How to support us '
-    target: "/en/the-lab/how-to-support-us/"
+    target: "/the-lab/how-to-support-us/"
     kind: page
     children: []
   - title: Connect with us
-    target: "/en/the-lab/connect-with-us/"
+    target: "/the-lab/connect-with-us/"
     kind: page
     children: []
 - title: Research
-  target: "/en/research/"
+  target: "/research/"
   kind: page
   children:
   - title: Current Projects
-    target: "/en/research/current-projects/"
+    target: "/research/current-projects/"
     kind: page
     children: []
   - title: 'Publications '
-    target: "/en/research/publications/"
+    target: "/research/publications/"
     kind: page
     children: []
 - title: Outreach
-  target: "/en/outreach/"
+  target: "/outreach/"
   kind: page
   children:
   - title: 'Podcast '
-    target: "/en/outreach/podcast-future-perfect-futur-anterieur/"
+    target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
     children: []
   - title: Events
-    target: "/en/outreach/events/"
+    target: "/outreach/events/"
     kind: page
     children: []
 - title: Mobilization
-  target: "/en/mobilization/"
+  target: "/mobilization/"
   kind: page
   children:
   - title: MobLabs
-    target: "/en/mobilization/moblabs-1/"
+    target: "/mobilization/moblabs-1/"
     kind: page
     children: []
   - title: Campaigns
-    target: "/en/mobilization/campaigns/"
+    target: "/mobilization/campaigns/"
     kind: page
     children: []
 - title: News
-  target: "/en/news/"
+  target: "/news/"
   kind: page
   children: []
 - title: Agenda
-  target: "/en/agenda/"
+  target: "/agenda/"
   kind: page
   children: []
 - title: Donate
-  target: "/en/the-lab/donate/"
+  target: "/the-lab/donate/"
   kind: page
   children: []
 

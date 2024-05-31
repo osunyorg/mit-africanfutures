@@ -2,15 +2,15 @@
 title: Legal
 items:
 - title: Legals mentions
-  target: "/en/legals-mentions/"
+  target: "/legals-mentions/"
   kind: page
   children: []
 - title: Sitemap
-  target: "/en/sitemap/"
+  target: "/sitemap/"
   kind: page
   children: []
 - title: Privacy policy
-  target: "/en/privacy-policy/"
+  target: "/privacy-policy/"
   kind: page
   children: []
 

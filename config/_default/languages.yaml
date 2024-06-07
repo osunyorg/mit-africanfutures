@@ -16,7 +16,7 @@ en:
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
     authors: /team/:slug/news/
   taxonomies:
     administrator: administrators

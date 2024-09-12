@@ -1,12 +1,4 @@
 ---
 title: Social
-items:
-- title: Twitter
-  target: https://twitter.com/_AFFALab_
-  kind: url
-  children: []
-- title: Linkedin
-  target: https://www.linkedin.com/company/african-futures-action-lab
-  kind: url
-  children: []
+items: []
 

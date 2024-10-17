@@ -2,7 +2,7 @@
 title: Social
 items:
 - title: 'Social Media '
-  target: "/social/"
-  kind: page
+  target: ''
+  kind: blank
   children: []
 

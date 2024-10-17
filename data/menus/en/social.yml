@@ -1,4 +1,8 @@
 ---
 title: Social
-items: []
+items:
+- title: Instagram
+  target: "/social/"
+  kind: page
+  children: []
 

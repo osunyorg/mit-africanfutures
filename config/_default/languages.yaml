@@ -8,10 +8,10 @@ en:
   languageName: English
   params:
     social:
-      x: >-
-        https://twitter.com/_AFFALab_
       linkedin: >-
         https://www.linkedin.com/company/african-futures-action-lab
+      instagram: >-
+        https://www.instagram.com/african_futures_lab/profilecard/?igsh=MWgzZDE0YjN3eHR0Zw==
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/

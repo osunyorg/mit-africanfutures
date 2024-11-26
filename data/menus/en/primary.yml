@@ -9,22 +9,28 @@ items:
     target: "/the-lab/our-mission/"
     kind: page
     children: []
+    file: content/en/pages/the-lab/our-mission/_index.html
   - title: What we do
     target: "/the-lab/what-we-do/"
     kind: page
     children: []
+    file: content/en/pages/the-lab/what-we-do/_index.html
   - title: Who we are
     target: "/the-lab/who-we-are/"
     kind: page
     children: []
+    file: content/en/pages/the-lab/who-we-are/_index.html
   - title: 'How to support us '
     target: "/the-lab/how-to-support-us/"
     kind: page
     children: []
+    file: content/en/pages/the-lab/how-to-support-us/_index.html
   - title: Connect with us
     target: "/the-lab/connect-with-us/"
     kind: page
     children: []
+    file: content/en/pages/the-lab/connect-with-us/_index.html
+  file: content/en/pages/the-lab/_index.html
 - title: Research
   target: "/research/"
   kind: page
@@ -33,10 +39,13 @@ items:
     target: "/research/current-projects/"
     kind: page
     children: []
+    file: content/en/pages/research/current-projects/_index.html
   - title: 'Publications '
     target: "/research/publications/"
     kind: page
     children: []
+    file: content/en/pages/research/publications/_index.html
+  file: content/en/pages/research/_index.html
 - title: Outreach
   target: "/outreach/"
   kind: page
@@ -45,10 +54,13 @@ items:
     target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
     children: []
+    file: content/en/pages/outreach/podcast-future-perfect-futur-anterieur/_index.html
   - title: Events
     target: "/outreach/events/"
     kind: page
     children: []
+    file: content/en/pages/outreach/events/_index.html
+  file: content/en/pages/outreach/_index.html
 - title: Mobilization
   target: "/mobilization/"
   kind: page
@@ -57,20 +69,26 @@ items:
     target: "/mobilization/moblabs-1/"
     kind: page
     children: []
+    file: content/en/pages/mobilization/moblabs-1/_index.html
   - title: Campaigns
     target: "/mobilization/campaigns/"
     kind: page
     children: []
+    file: content/en/pages/mobilization/campaigns/_index.html
+  file: content/en/pages/mobilization/_index.html
 - title: News
   target: "/news/"
   kind: page
   children: []
+  file: content/en/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  file: content/en/events/_index.html
 - title: Donate
   target: "/the-lab/donate/"
   kind: page
   children: []
+  file: content/en/pages/the-lab/donate/_index.html
 

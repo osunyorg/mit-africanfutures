@@ -1,3 +1,11 @@
+// Typography
+.page__home h1,
+.block-title
+    letter-spacing: 4px
+.posts__page
+    h1
+        text-transform: none
+
 .hero .hero-text > h1, 
 .hero .hero-text > hgroup
     color: $color-accent
@@ -28,6 +36,11 @@
                 text-align: left
                 @include meta
 .page__home
+    .block:first-child
+        &.block-chapter
+            .text
+                @include lead-hero
+                font-weight: normal
     .block-pages--grid
         article
             background-color: $color-accent-alt
@@ -46,7 +59,7 @@
                     &::after
                         display: block
             &:hover
-                background-color: $color-accent
+                background-color: $site-blue
                 .page-title
                     a
                         color: white

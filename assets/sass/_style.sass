@@ -27,6 +27,11 @@ h1
             .text
                 @include lead-hero
                 font-weight: normal
+            @include media-breakpoint-up(desktop)
+                &.block-chapter--accent_background
+                    align-items: center
+                    display: flex
+                    min-height: 45vh
     .block-pages--grid
         article
             background-color: $color-accent-alt

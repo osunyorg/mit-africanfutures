@@ -1,4 +1,6 @@
 // Typography
+h1
+    letter-spacing: -0.05rem
 .page__home h1,
 .block-title
     letter-spacing: 4px
@@ -10,31 +12,15 @@
 .hero .hero-text > hgroup
     color: $color-accent
 
+// header
 .menu
     .nav-level-1
-        > li:last-of-type
-            a
-                background: $color-accent-alt
-                @include media-breakpoint-up(desktop)
-                    padding-right: $spacing-2
-                    margin-left: $spacing-2
-                @include media-breakpoint-down(desktop)
-                    padding-left: $spacing-2
-                    padding-right: $spacing-2
-                    margin-bottom: $spacing-3
+        > .has-children
+            > .dropdown-menu
+                .dropdown-menu-title
+                    text-transform: none
 
-    @include media-breakpoint-up(desktop)
-        .nav-level-1
-            > .has-children
-                > .dropdown-menu
-                    margin-top: pxToRem(40)
-
-    .nav-level-2
-        > li
-            > a,
-            > span
-                text-align: left
-                @include meta
+// home
 .page__home
     .block:first-child
         &.block-chapter
@@ -116,3 +102,16 @@
                     margin-bottom: 0
                     figure
                         margin-bottom: 0
+
+// posts
+.block-posts--carousel .post,
+.post
+    .media
+        img
+            aspect-ratio: 4/3
+
+// footer
+footer#document-footer
+    .footer-logo
+        margin-left: auto
+        margin-right: auto

@@ -3,6 +3,11 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  logo:
+    footer: "/assets/images/logo_light.svg"
+  menu:
+    dropdown:
+      linkToLevel1: true
   posts:
     index:
       truncate_description: 200 # Set to 0 to disable truncate

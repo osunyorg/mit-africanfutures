@@ -7,11 +7,19 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      linkedin: >-
-        https://www.linkedin.com/company/african-futures-action-lab
-      instagram: >-
-        https://www.instagram.com/african_futures_lab/profilecard/?igsh=MWgzZDE0YjN3eHR0Zw==
+    contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            african_futures_labprofilecard?igsh=MWgzZDE0YjN3eHR0Zw==
+          value: >-
+            https://instagram.com/african_futures_labprofilecard?igsh=MWgzZDE0YjN3eHR0Zw==
+        linkedin:
+          label: >-
+            african-futures-action-lab
+          value: >-
+            https://www.linkedin.com/company/african-futures-action-lab
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/

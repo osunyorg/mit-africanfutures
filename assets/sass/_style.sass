@@ -1,3 +1,7 @@
+
+.block
+    --block-space-y: #{$block-space-y}
+
 // Typography
 h1
     letter-spacing: -0.05rem
@@ -7,13 +11,16 @@ h1
 .posts__page
     h1
         text-transform: none
+        @include media-breakpoint-up(desktop)
+            font-size: $h1-post-size
 
 .hero .hero-text > h1, 
 .hero .hero-text > hgroup
     color: $color-accent
 
 // header
-.menu
+header#document-header
+    .menu
     .nav-level-1
         > .has-children
             > .dropdown-menu
@@ -32,12 +39,18 @@ h1
         @include media-breakpoint-down(desktop)
             > li:nth-last-child(2)
                 border: none
+        @include media-breakpoint-up(desktop)
+            > li
+                a,
+                span
+                    font-weight: bold
             
 
 // home
 .page__home
     .block:first-child
         &.block-chapter
+            margin-top: $spacing-6
             .text
                 @include lead-hero
                 font-weight: normal
@@ -66,7 +79,7 @@ h1
                     &::after
                         display: block
             &:hover
-                background-color: $site-blue
+                background-color: $color-accent
                 .page-title
                     a
                         color: white
@@ -75,6 +88,9 @@ h1
                     margin-right: 0
                 &:nth-of-type(3)
                     margin-left: 0
+        @include media-breakpoint-up(desktop)
+            padding-top: $spacing-4
+            margin-bottom: $spacing-6
 
 // Remove space under hero for clean margins
 @include media-breakpoint-down(desktop)
@@ -130,6 +146,7 @@ h1
     .media
         img
             aspect-ratio: 4/3
+            object-position: left
 
 // footer
 footer#document-footer

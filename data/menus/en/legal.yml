@@ -4,18 +4,21 @@ items:
 - title: Legals mentions
   target: "/legals-mentions/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/legals-mentions"
   file: content/en/pages/legals-mentions/_index.html
 - title: Sitemap
   target: "/sitemap/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/sitemap"
   file: content/en/pages/sitemap/_index.html
 - title: Privacy policy
   target: "/privacy-policy/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html

@@ -4,34 +4,40 @@ items:
 - title: The Lab
   target: "/the-lab/"
   kind: page
+  new_tab: false
   children:
   - title: 'Our Mission '
     target: "/the-lab/our-mission/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-lab/our-mission"
     file: content/en/pages/the-lab/our-mission/_index.html
   - title: What we do
     target: "/the-lab/what-we-do/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-lab/what-we-do"
     file: content/en/pages/the-lab/what-we-do/_index.html
   - title: Who we are
     target: "/the-lab/who-we-are/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-lab/who-we-are"
     file: content/en/pages/the-lab/who-we-are/_index.html
   - title: 'How to support us '
     target: "/the-lab/how-to-support-us/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-lab/how-to-support-us"
     file: content/en/pages/the-lab/how-to-support-us/_index.html
   - title: Connect with us
     target: "/the-lab/connect-with-us/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-lab/connect-with-us"
     file: content/en/pages/the-lab/connect-with-us/_index.html
@@ -40,16 +46,19 @@ items:
 - title: Research
   target: "/research/"
   kind: page
+  new_tab: false
   children:
   - title: Current Projects
     target: "/research/current-projects/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/research/current-projects"
     file: content/en/pages/research/current-projects/_index.html
   - title: 'Publications '
     target: "/research/publications/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/research/publications"
     file: content/en/pages/research/publications/_index.html
@@ -58,16 +67,19 @@ items:
 - title: Outreach
   target: "/outreach/"
   kind: page
+  new_tab: false
   children:
   - title: 'Podcast '
     target: "/outreach/podcast-future-perfect-futur-anterieur/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/outreach/podcast-future-perfect-futur-anterieur"
     file: content/en/pages/outreach/podcast-future-perfect-futur-anterieur/_index.html
   - title: Events
     target: "/outreach/events/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/outreach/events"
     file: content/en/pages/outreach/events/_index.html
@@ -76,16 +88,19 @@ items:
 - title: Mobilization
   target: "/mobilization/"
   kind: page
+  new_tab: false
   children:
   - title: MobLabs
     target: "/mobilization/moblabs-1/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/mobilization/moblabs-1"
     file: content/en/pages/mobilization/moblabs-1/_index.html
   - title: Campaigns
     target: "/mobilization/campaigns/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/mobilization/campaigns"
     file: content/en/pages/mobilization/campaigns/_index.html
@@ -94,18 +109,21 @@ items:
 - title: News
   target: "/news/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/en/events/_index.html
 - title: Donate
   target: "/the-lab/donate/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/the-lab/donate"
   file: content/en/pages/the-lab/donate/_index.html

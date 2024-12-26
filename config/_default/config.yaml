@@ -18,8 +18,8 @@ params:
       show_categories: true
   search: 
     active: true
-    position: footer
-    appearance: both
+    positions:
+      - footer
   breadcrumb:
     position: after-hero
   summary:

@@ -86,12 +86,12 @@ items:
   path: "/pages/mobilization"
   file: content/en/pages/mobilization/_index.html
 - title: Podcast
-  target: "/outreach/podcast-future-perfect-futur-anterieur/"
+  target: "/podcast-future-perfect-futur-anterieur/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/outreach/podcast-future-perfect-futur-anterieur"
-  file: content/en/pages/outreach/podcast-future-perfect-futur-anterieur/_index.html
+  path: "/pages/podcast-future-perfect-futur-anterieur"
+  file: content/en/pages/podcast-future-perfect-futur-anterieur/_index.html
 - title: Events
   target: "/agenda/"
   kind: page

@@ -99,7 +99,7 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
-- title: Agenda
+- title: Events
   target: "/agenda/"
   kind: page
   new_tab: false

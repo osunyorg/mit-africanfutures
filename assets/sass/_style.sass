@@ -20,12 +20,14 @@ h1
 
 // header
 header#document-header
-    .menu
     .nav-level-1
         > .has-children
             > .dropdown-menu
                 .dropdown-menu-title
                     text-transform: none
+        > li
+            a, span
+                font-weight: bold
         > li:last-of-type
             a
                 background: $color-accent-alt
@@ -39,15 +41,13 @@ header#document-header
         @include media-breakpoint-down(desktop)
             > li:nth-last-child(2)
                 border: none
-        @include media-breakpoint-up(desktop)
-            > li
-                a,
-                span
-                    font-weight: bold
             
 
 // home
 .page__home
+    .hero
+        .hero-text
+            width: 100%
     .block:first-child
         &.block-chapter
             margin-top: $spacing-6
@@ -153,3 +153,5 @@ footer#document-footer
     .footer-logo
         margin-left: auto
         margin-right: auto
+    .container:first-of-type
+        padding-bottom: 0

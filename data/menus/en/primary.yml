@@ -64,27 +64,6 @@ items:
     file: content/en/pages/research/publications/_index.html
   path: "/pages/research"
   file: content/en/pages/research/_index.html
-- title: Outreach
-  target: "/outreach/"
-  kind: page
-  new_tab: false
-  children:
-  - title: 'Podcast '
-    target: "/outreach/podcast-future-perfect-futur-anterieur/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/outreach/podcast-future-perfect-futur-anterieur"
-    file: content/en/pages/outreach/podcast-future-perfect-futur-anterieur/_index.html
-  - title: Events
-    target: "/outreach/events/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/outreach/events"
-    file: content/en/pages/outreach/events/_index.html
-  path: "/pages/outreach"
-  file: content/en/pages/outreach/_index.html
 - title: Mobilization
   target: "/mobilization/"
   kind: page

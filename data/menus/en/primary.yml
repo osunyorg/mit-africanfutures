@@ -127,4 +127,11 @@ items:
   children: []
   path: "/pages/the-lab/donate"
   file: content/en/pages/the-lab/donate/_index.html
+- title: Podcast
+  target: "/outreach/podcast-future-perfect-futur-anterieur/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/outreach/podcast-future-perfect-futur-anterieur"
+  file: content/en/pages/outreach/podcast-future-perfect-futur-anterieur/_index.html
 

@@ -6,6 +6,7 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  buildFuture: true
   params:
     contact_details:
       social_networks:
@@ -21,7 +22,8 @@ en:
             https://www.linkedin.com/company/african-futures-action-lab
 
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
+    events: /agenda/:year/:slug/
+    exhibitions: /exhibitions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     projects: /projects-1/:year-:slug/

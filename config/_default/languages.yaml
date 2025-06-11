@@ -21,18 +21,6 @@ en:
           value: >-
             https://www.linkedin.com/company/african-futures-action-lab
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /exhibitions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    projects: /projects-1/:year-:slug/
-    projects_categories: /projects-1/:slug/
-    posts: /news/:year-:month-:day-:slug/
-    posts_categories: /news/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/categories/:slug/
-    authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors

@@ -1,9 +1,7 @@
 theme: osuny
-pagination:
-  pagerSize: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 params:
+  plausible: afalab.org
   logo:
     footer: "/assets/images/logo_light.svg"
   menu:

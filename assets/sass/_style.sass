@@ -1,157 +1,157 @@
 
-.block
-    --block-space-y: #{$block-space-y}
+// .block
+//     --block-space-y: #{$block-space-y}
 
-// Typography
-h1
-    letter-spacing: -0.05rem
-.page__home h1,
-.block-title
-    letter-spacing: 4px
-.posts__page
-    h1
-        text-transform: none
-        @include media-breakpoint-up(desktop)
-            font-size: $h1-post-size
+// // Typography
+// h1
+//     letter-spacing: -0.05rem
+// .page__home h1,
+// .block-title
+//     letter-spacing: 4px
+// .posts__page
+//     h1
+//         text-transform: none
+//         @include media-breakpoint-up(desktop)
+//             font-size: $h1-post-size
 
-.hero .hero-text > h1, 
-.hero .hero-text > hgroup
-    color: $color-accent
+// .hero .hero-text > h1, 
+// .hero .hero-text > hgroup
+//     color: $color-accent
 
-// header
-header#document-header
-    .nav-level-1
-        > .has-children
-            > .dropdown-menu
-                .dropdown-menu-title
-                    text-transform: none
-        > li
-            a, span
-                font-weight: bold
-        > li:last-of-type
-            a
-                background: $color-accent-alt
-                @include media-breakpoint-up(desktop)
-                    padding-right: $spacing-2
-                    margin-left: $spacing-2
-                @include media-breakpoint-down(desktop)
-                    padding-left: $spacing-2
-                    padding-right: $spacing-2
-                    margin-bottom: $spacing-3
-        @include media-breakpoint-down(desktop)
-            > li:nth-last-child(2)
-                border: none
+// // header
+// header#document-header
+//     .nav-level-1
+//         > .has-children
+//             > .dropdown-menu
+//                 .dropdown-menu-title
+//                     text-transform: none
+//         > li
+//             a, span
+//                 font-weight: bold
+//         > li:last-of-type
+//             a
+//                 background: $color-accent-alt
+//                 @include media-breakpoint-up(desktop)
+//                     padding-right: $spacing-2
+//                     margin-left: $spacing-2
+//                 @include media-breakpoint-down(desktop)
+//                     padding-left: $spacing-2
+//                     padding-right: $spacing-2
+//                     margin-bottom: $spacing-3
+//         @include media-breakpoint-down(desktop)
+//             > li:nth-last-child(2)
+//                 border: none
             
 
-// home
-.page__home
-    .hero
-        .hero-text
-            width: 100%
-    .block:first-child
-        &.block-chapter
-            margin-top: $spacing-6
-            .text
-                @include lead-hero
-                font-weight: normal
-            + .block-pages
-                margin-top: var(--heading-margin-top)
-            @include media-breakpoint-up(desktop)
-                &.block-chapter--accent_background
-                    align-items: center
-                    display: flex
-                    min-height: 45vh
-    .block-pages--grid
-        article
-            background-color: $color-accent-alt
-            border-radius: 100%
-            height: 250px
-            justify-content: center
-            margin-left: auto
-            margin-right: auto
-            transition: background-color 0.5s ease
-            text-align: center
-            width: 250px
-            .page-title
-                text-align: center
-                a
-                    transition: color 0.5s ease
-                    &::after
-                        display: block
-            &:hover
-                background-color: $color-accent
-                .page-title
-                    a
-                        color: white
-            @include media-breakpoint-up(desktop)
-                &:nth-of-type(1)
-                    margin-right: 0
-                &:nth-of-type(3)
-                    margin-left: 0
-        @include media-breakpoint-up(desktop)
-            padding-top: $spacing-4
-            margin-bottom: $spacing-6
+// // home
+// .page__home
+//     .hero
+//         .hero-text
+//             width: 100%
+//     .block:first-child
+//         &.block-chapter
+//             margin-top: $spacing-6
+//             .text
+//                 @include lead-hero
+//                 font-weight: normal
+//             + .block-pages
+//                 margin-top: var(--heading-margin-top)
+//             @include media-breakpoint-up(desktop)
+//                 &.block-chapter--accent_background
+//                     align-items: center
+//                     display: flex
+//                     min-height: 45vh
+//     .block-pages--grid
+//         article
+//             background-color: $color-accent-alt
+//             border-radius: 100%
+//             height: 250px
+//             justify-content: center
+//             margin-left: auto
+//             margin-right: auto
+//             transition: background-color 0.5s ease
+//             text-align: center
+//             width: 250px
+//             .page-title
+//                 text-align: center
+//                 a
+//                     transition: color 0.5s ease
+//                     &::after
+//                         display: block
+//             &:hover
+//                 background-color: $color-accent
+//                 .page-title
+//                     a
+//                         color: white
+//             @include media-breakpoint-up(desktop)
+//                 &:nth-of-type(1)
+//                     margin-right: 0
+//                 &:nth-of-type(3)
+//                     margin-left: 0
+//         @include media-breakpoint-up(desktop)
+//             padding-top: $spacing-4
+//             margin-bottom: $spacing-6
 
-// Remove space under hero for clean margins
-@include media-breakpoint-down(desktop)
-    .hero--with-image .content .hero-text
-        margin-top: $spacing-3
-        margin-bottom: 0
-    .block-summary
-        margin-top: $spacing-3
-    .page__home
-        .hero + .document-content
-            margin-top: $spacing-4
+// // Remove space under hero for clean margins
+// @include media-breakpoint-down(desktop)
+//     .hero--with-image .content .hero-text
+//         margin-top: $spacing-3
+//         margin-bottom: 0
+//     .block-summary
+//         margin-top: $spacing-3
+//     .page__home
+//         .hero + .document-content
+//             margin-top: $spacing-4
 
-.page__home, .pages__section, .posts_categories__term, .events_categories__term, .posts__section
-    .hero
-        background-color: white
-        padding-bottom: 0
-        .content
-            display: flex
-            flex-direction: column
-            align-items: stretch
-            padding-top: 0
-        .container
-            h1, hgroup, figure
-                width: auto
-            .hero-text
-                order: 2
-                > h1, hgroup
-                    margin-top: 0
-            figure
-                img
-                    aspect-ratio: 3 / 1
-                    object-fit: cover
-                figcaption
-                    &::before
-                        display: none
-                    .credit-content
-                        display: block
-                        background: none
-                @include media-breakpoint-up(desktop)
-                    margin: 0 var(--grid-gutter-negative) 
-        + .container
-            margin-top: $spacing-2
-        @include media-breakpoint-down(desktop)
-            &--image-square
-                .container
-                    margin-bottom: 0
-                    figure
-                        margin-bottom: 0
+// .page__home, .pages__section, .posts_categories__term, .events_categories__term, .posts__section
+//     .hero
+//         background-color: white
+//         padding-bottom: 0
+//         .content
+//             display: flex
+//             flex-direction: column
+//             align-items: stretch
+//             padding-top: 0
+//         .container
+//             h1, hgroup, figure
+//                 width: auto
+//             .hero-text
+//                 order: 2
+//                 > h1, hgroup
+//                     margin-top: 0
+//             figure
+//                 img
+//                     aspect-ratio: 3 / 1
+//                     object-fit: cover
+//                 figcaption
+//                     &::before
+//                         display: none
+//                     .credit-content
+//                         display: block
+//                         background: none
+//                 @include media-breakpoint-up(desktop)
+//                     margin: 0 var(--grid-gutter-negative) 
+//         + .container
+//             margin-top: $spacing-2
+//         @include media-breakpoint-down(desktop)
+//             &--image-square
+//                 .container
+//                     margin-bottom: 0
+//                     figure
+//                         margin-bottom: 0
 
-// posts
-.block-posts--carousel .post,
-.post
-    .media
-        img
-            aspect-ratio: 4/3
-            object-position: left
+// // posts
+// .block-posts--carousel .post,
+// .post
+//     .media
+//         img
+//             aspect-ratio: 4/3
+//             object-position: left
 
-// footer
-footer#document-footer
-    .footer-logo
-        margin-left: auto
-        margin-right: auto
-    .container:first-of-type
-        padding-bottom: 0
+// // footer
+// footer#document-footer
+//     .footer-logo
+//         margin-left: auto
+//         margin-right: auto
+//     .container:first-of-type
+//         padding-bottom: 0

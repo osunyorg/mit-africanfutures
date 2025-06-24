@@ -24,5 +24,14 @@
 
 //files
 .block-files
-    .files li::before
-        border-radius: 8px
+    .files 
+        li::before
+            border-radius: 8px
+            // $color-accent
+        li.with-image picture img 
+            aspect-ratio: 1 / 1
+            object-fit: cover
+            width: 100%
+        li:hover::before
+
+            background-color: $color-accent

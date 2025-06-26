@@ -64,6 +64,20 @@ items:
     file: content/en/pages/research/publications/_index.html
   path: "/pages/research"
   file: content/en/pages/research/_index.html
+- title: Mobilization
+  target: "/mobilization/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Campaigns
+    target: "/mobilization/campaigns/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/mobilization/campaigns"
+    file: content/en/pages/mobilization/campaigns/_index.html
+  path: "/pages/mobilization"
+  file: content/en/pages/mobilization/_index.html
 - title: Podcast
   target: "/podcast-future-perfect-futur-anterieur/"
   kind: page

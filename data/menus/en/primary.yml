@@ -100,12 +100,12 @@ items:
   path: "/pages/podcast-future-perfect-futur-anterieur"
   file: content/en/pages/podcast-future-perfect-futur-anterieur/_index.html
 - title: News
-  target: "/mobilization/afarise/"
+  target: "/news/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/mobilization/afarise"
-  file: content/en/pages/mobilization/afarise/_index.html
+  path: "/posts"
+  file: content/en/posts/_index.html
 - title: Events
   target: "/agenda/"
   kind: page

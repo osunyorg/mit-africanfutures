@@ -64,27 +64,6 @@ items:
     file: content/en/pages/research/publications/_index.html
   path: "/pages/research"
   file: content/en/pages/research/_index.html
-- title: Mobilization
-  target: "/mobilization/"
-  kind: page
-  new_tab: false
-  children:
-  - title: MobLabs
-    target: "/mobilization/moblabs-1/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/mobilization/moblabs-1"
-    file: content/en/pages/mobilization/moblabs-1/_index.html
-  - title: Campaigns
-    target: "/mobilization/campaigns/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/mobilization/campaigns"
-    file: content/en/pages/mobilization/campaigns/_index.html
-  path: "/pages/mobilization"
-  file: content/en/pages/mobilization/_index.html
 - title: Podcast
   target: "/podcast-future-perfect-futur-anterieur/"
   kind: page
@@ -92,13 +71,6 @@ items:
   children: []
   path: "/pages/podcast-future-perfect-futur-anterieur"
   file: content/en/pages/podcast-future-perfect-futur-anterieur/_index.html
-- title: Events
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/en/events/_index.html
 - title: News
   target: "/news/"
   kind: page
@@ -106,6 +78,13 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
+- title: Events
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/en/events/_index.html
 - title: Donate
   target: "/the-lab/donate/"
   kind: page

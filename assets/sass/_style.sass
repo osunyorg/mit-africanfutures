@@ -192,7 +192,20 @@ footer#document-footer
         figure figcaption::before
             background-color: var(--color-accent)
             color: var(--color-background)
-
+    .block-call_to_action--accent_background:not(.block-class-cta-mobilization)
+        .actions
+            a:first-child
+                --btn-background: #{$event-yellow}
+                --btn-border: 1px solid #{$event-yellow}
+            a:nth-child(2)
+                --btn-background: var(--color-accent)
+                --btn-border: 1px solid var(--color-accent)
+                --btn-color: var(--color-background)
+    &.full-width
+        .block-call_to_action--accent_background + .block-call_to_action--accent_background,
+        .block-call_to_action--accent_background + .block-chapter--alt_background,
+        .block-chapter--alt_background + .block-call_to_action--accent_background
+            margin-top: 0
 
 // SECTIONS
 
@@ -211,8 +224,16 @@ footer#document-footer
                 @include h1
             .description
                 @include lead
+                margin-top: $spacing-4
                 p
                     font-weight: normal
+    &.block-class-cta-mobilization
+        @include in-page-without-sidebar
+            background-color: $mobilizing-red
+        @include in-page-with-sidebar
+            .call_to_action > div
+                &, &::after
+                    background-color: $mobilizing-red
 // chapter
 .block-chapter
     &--alt_background

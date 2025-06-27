@@ -186,12 +186,32 @@ footer#document-footer
 
 // HOME
 .page__home
+    .breadcrumb 
+        li
+            &, &.active
+                span, a, &::before
+                    color: var(--color-background)
     .hero
         &, 
         figure figcaption .credit,
         figure figcaption::before
             background-color: var(--color-accent)
             color: var(--color-background)
+        @include media-breakpoint-up(desktop)
+            .hero-text,
+            figure
+                width: columns(6)
+        .hero-text
+            hgroup 
+                > p:first-of-type
+                    margin-top: $spacing-4
+                    b
+                        font-size: pxToRem(60)
+                        font-weight: normal
+                    + p
+                        margin-top: $spacing-4
+                > p:not(:first-of-type)
+                    @include body-text
     .block-call_to_action--accent_background:not(.block-class-cta-mobilization)
         .actions
             a:first-child
@@ -234,12 +254,14 @@ footer#document-footer
             .call_to_action > div
                 &, &::after
                     background-color: $mobilizing-red
+
 // chapter
 .block-chapter
     &--alt_background
         .page__home &
             .notes
                 @include h2
+
 //files
 .block-files
     .files 
@@ -252,6 +274,7 @@ footer#document-footer
             width: 100%
         &:hover::before
             background-color: $color-accent
+
 //agenda
 .block-agenda--list
     .event--with-image
@@ -260,3 +283,10 @@ footer#document-footer
             object-fit: cover
     .event-categories a
         color: $color-accent
+
+//pages
+.block-pages
+    &--grid
+        article
+            .media img
+                aspect-ratio: 1 !important

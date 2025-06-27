@@ -155,3 +155,87 @@
 //         margin-right: auto
 //     .container:first-of-type
 //         padding-bottom: 0
+
+// SYSTEM
+// hero
+header.hero
+    .content
+        .hero-text
+            margin-top: 0
+// footer
+footer#document-footer
+    .container:first-child
+        gap: var(--grid-gutter)
+        .footer-address
+            flex: 1
+            text-align: right
+            p:first-of-type
+                @include h3
+            p:not(:first-of-type)
+                @include signature
+            p + p 
+                margin-top: space()
+    .footer-logo
+        figure
+            align-items: center
+            display: flex
+            gap: $spacing-2
+            @include media-breakpoint-up(desktop)
+                figcaption
+                    max-width: columns(3)
+
+// HOME
+.page__home
+    .hero
+        &, 
+        figure figcaption .credit,
+        figure figcaption::before
+            background-color: var(--color-accent)
+            color: var(--color-background)
+
+
+// SECTIONS
+
+
+// BLOCKS
+// title
+.block.block-title
+    h2
+        @include h1
+
+// call to action
+.block-call_to_action
+    .call_to_action
+        .top
+            .block-title
+                @include h1
+            .description
+                @include lead
+                p
+                    font-weight: normal
+// chapter
+.block-chapter
+    &--alt_background
+        .page__home &
+            .notes
+                @include h2
+//files
+.block-files
+    .files 
+        li
+            &::before
+                border-radius: 8px
+        &.with-image picture img 
+            aspect-ratio: 1 / 1
+            object-fit: cover
+            width: 100%
+        &:hover::before
+            background-color: $color-accent
+//agenda
+.block-agenda--list
+    .event--with-image
+        .media img
+            aspect-ratio: 1 / 1
+            object-fit: cover
+    .event-categories a
+        color: $color-accent

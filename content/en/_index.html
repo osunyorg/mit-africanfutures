@@ -59,9 +59,9 @@ image:
 
 
 children:
-  - "pages/the-lab/_index.html"
-  - "pages/mobilization/_index.html"
   - "pages/research/_index.html"
+  - "pages/mobilization/_index.html"
+  - "pages/the-lab/_index.html"
   - "pages/podcast-future-perfect-futur-anterieur/_index.html"
   - "posts/_index.html"
   - "events/_index.html"
@@ -121,8 +121,109 @@ contents:
     top:
       active: false
     data:
-      mode: selection
+      options:
+        image: false
+        categories: false
+        main_summary: false
+        summary: false
+
       layout: grid
+      pages:
+        - permalink: "/the-lab/what-we-do/"
+          path: "/pages/the-lab/what-we-do"
+          slug: "what-we-do"
+          file: "content/en/pages/the-lab/what-we-do/_index.html"
+          name: >-
+            What we do
+        - permalink: "/the-lab/who-we-are/"
+          path: "/pages/the-lab/who-we-are"
+          slug: "who-we-are"
+          file: "content/en/pages/the-lab/who-we-are/_index.html"
+          name: >-
+            Who we are
+        - permalink: "/the-lab/our-mission/"
+          path: "/pages/the-lab/our-mission"
+          slug: "our-mission"
+          file: "content/en/pages/the-lab/our-mission/_index.html"
+          name: >-
+            Our Mission
+
+      quantity: 3
+
+
+  - kind: block
+    template: call_to_action
+    title: >-
+      How to support us ?
+    slug: >-
+      how-to-support-us
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          How to support us ?
+        heading: 2
+      description: >-
+        <p>Your donation supports our efforts to tackle global racial injustices across Africa and Europe. </p>
+    data:
+      layout: accent_background
+      text: >-
+        <p>Your donation supports our efforts to tackle global racial injustices across Africa and Europe. </p>
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+      buttons:
+        - title: >-
+            Donate!
+
+          url: >-
+            https://www.afalab.org/the-lab/donate/
+
+          target_blank: false
+
+
+  - kind: block
+    template: title
+    title: >-
+      Latest news
+    slug: >-
+      latest-news
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Latest news
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: posts
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+      children: 3
+    top:
+      active: false
+    data:
+      mode: all
+      all: true
+      layout: carousel
       options:
         author: true
         categories: true
@@ -133,121 +234,426 @@ contents:
         summary: true
 
       posts:
-        - permalink: "/news/2022-10-19-liepollo-lebohang-pheko/"
-          path: "/posts/2022/2022-10-19-liepollo-lebohang-pheko"
-          slug: "liepollo-lebohang-pheko"
-          file: "content/en/posts/2022/2022-10-19-liepollo-lebohang-pheko.html"
-        - permalink: "/news/2022-09-14-mame-fatou-niang/"
-          path: "/posts/2022/2022-09-14-mame-fatou-niang"
-          slug: "mame-fatou-niang"
-          file: "content/en/posts/2022/2022-09-14-mame-fatou-niang.html"
-        - permalink: "/news/2022-10-05-fania-no-l/"
-          path: "/posts/2022/2022-10-05-fania-no-l"
-          slug: "fania-no-l"
-          file: "content/en/posts/2022/2022-10-05-fania-no-l.html"
-
-      quantity: 3
-
-  - kind: block
-    template: call_to_action
-    title: >-
-      Our challenge: colonial legacies still drive racial and economic injustice between Europe & Africa, yet development debates ignore systemic racism.
-    slug: >-
-      
-    ranks:
-      base: 2
-    top:
-      active: true
-      description: >-
-        <p>We refuse to accept the status quo. African Futures Lab will:</p>
-        <p><b>Expose</b> hidden racial power plays.</p>
-        <p><b>Amplify</b> communities most affected.</p>
-        <p><b>Demand</b> bold policy reforms.</p>
-    data:
-      layout: accent_background
-      text: >-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-      buttons:
-        - title: >-
-            Join the Movement 
-
-          url: >-
-            #
-
-          target_blank: false
-        - title: >-
-            Annual Reports
-
-          url: >-
-            #
-
-          target_blank: false
-
-  - kind: block
-    template: posts
-    title: >-
-      Podcast – “Future Perfect” : Listen our latest Ep. 
-    slug: >-
-      
-    ranks:
-      base: 2
-      children: 2
-    top:
-      active: false
-    data:
-      mode: selection
-      layout: large
-      options:
-        author: false
-        categories: false
-        date: false
-        image: true
-        reading_time: false
-        subtitle: true
-        summary: true
-
-      posts:
-        - permalink: "/news/2022-10-19-liepollo-lebohang-pheko/"
-          path: "/posts/2022/2022-10-19-liepollo-lebohang-pheko"
-          slug: "liepollo-lebohang-pheko"
-          file: "content/en/posts/2022/2022-10-19-liepollo-lebohang-pheko.html"
-      quantity: 1
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      
-    slug: >-
-      
-    ranks:
-      base: 2
-    top:
-      active: false
-    data:
-      layout: alt_background
-      text: >-
-        <p>“Once upon a time — In just 50 years, we will have dismantled the global system of racial domination. What was once a banal, unquestioned status quo — where the lives of African and Afro-descendant people were devalued and oppression normalized — will be nothing more than a distant memory.</p>
-        <p>Instead, our dignity and rights will not only be protected but celebrated. We will be honored for the sacrifices we made to bring humanity to this pivotal moment, and we will receive the compassionate political and social support we deserve, around the world.”</p>
-
-      notes: >-
-        
-        <p>This future may sound utopian today, but every action—big or small—and the unwavering solidarity of our community make it possible.</p>
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-
-
+        - permalink: "/news/2025-06-27-afarise-fellowship-program/"
+          path: "/posts/2025/2025-06-27-afarise-fellowship-program"
+          slug: "afarise-fellowship-program"
+          file: "content/en/posts/2025/2025-06-27-afarise-fellowship-program.html"
+          name: >-
+            AfaRise Fellowship Program
+        - permalink: "/news/2025-06-19-afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere/"
+          path: "/posts/2025/2025-06-19-afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere"
+          slug: "afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere"
+          file: "content/en/posts/2025/2025-06-19-afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere.html"
+          name: >-
+            L’Afrique demande des « réparations » pour la colonisation et la traite négrière
+        - permalink: "/news/2025-06-16-new-research-project-in-gender-and-racial-justice/"
+          path: "/posts/2025/2025-06-16-new-research-project-in-gender-and-racial-justice"
+          slug: "new-research-project-in-gender-and-racial-justice"
+          file: "content/en/posts/2025/2025-06-16-new-research-project-in-gender-and-racial-justice.html"
+          name: >-
+            New Research Project in Gender and Racial Justice
+        - permalink: "/news/2025-05-29-african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1/"
+          path: "/posts/2025/2025-05-29-african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1"
+          slug: "african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1"
+          file: "content/en/posts/2025/2025-05-29-african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1.html"
+          name: >-
+            African-Caribbean Conference on Reparations
+        - permalink: "/news/2025-05-07-reparations-for-climate-and-biodiversity-loss/"
+          path: "/posts/2025/2025-05-07-reparations-for-climate-and-biodiversity-loss"
+          slug: "reparations-for-climate-and-biodiversity-loss"
+          file: "content/en/posts/2025/2025-05-07-reparations-for-climate-and-biodiversity-loss.html"
+          name: >-
+            Reparations for climate and biodiversity loss
+        - permalink: "/news/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+          path: "/posts/2025/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations"
+          slug: "communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations"
+          file: "content/en/posts/2025/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations.html"
+          name: >-
+            Communiqué sur la commission mixte pour Haïti et le cas des réparations
+        - permalink: "/news/2025-04-23-afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations/"
+          path: "/posts/2025/2025-04-23-afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations"
+          slug: "afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations"
+          file: "content/en/posts/2025/2025-04-23-afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations.html"
+          name: >-
+            Public statement on joint commission for Haiti and the case for reparations
+        - permalink: "/news/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations/"
+          path: "/posts/2025/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations"
+          slug: "joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations"
+          file: "content/en/posts/2025/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations.html"
+          name: >-
+            Joint submission to the UN Committee on the Elimination of Racial Discrimination (CERD) on reparations for the enslavement on Africans and  its ongoing harms
+        - permalink: "/news/2025-04-04-job-opening-administrative-finance-and-logistics-officer/"
+          path: "/posts/2025/2025-04-04-job-opening-administrative-finance-and-logistics-officer"
+          slug: "job-opening-administrative-finance-and-logistics-officer"
+          file: "content/en/posts/2025/2025-04-04-job-opening-administrative-finance-and-logistics-officer.html"
+          name: >-
+            Job Opening: Administrative, Finance, and Logistics Officer
+        - permalink: "/news/2025-03-27-reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions/"
+          path: "/posts/2025/2025-03-27-reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions"
+          slug: "reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions"
+          file: "content/en/posts/2025/2025-03-27-reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions.html"
+          name: >-
+            Reparations for climate and biodiversity loss
+        - permalink: "/news/2025-03-20-job-opening-events-assistant/"
+          path: "/posts/2025/2025-03-20-job-opening-events-assistant"
+          slug: "job-opening-events-assistant"
+          file: "content/en/posts/2025/2025-03-20-job-opening-events-assistant.html"
+          name: >-
+            Job Opening: Events Assistant
+        - permalink: "/news/2025-03-06-job-opening-event-intern/"
+          path: "/posts/2025/2025-03-06-job-opening-event-intern"
+          slug: "job-opening-event-intern"
+          file: "content/en/posts/2025/2025-03-06-job-opening-event-intern.html"
+          name: >-
+            Job Opening: Events Intern
+        - permalink: "/news/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante/"
+          path: "/posts/2025/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante"
+          slug: "chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante"
+          file: "content/en/posts/2025/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante.html"
+          name: >-
+            Annonce de recrutement: Chercheur·e dans le domaine de la justice raciale et de genre (consultant.e )
+        - permalink: "/news/2025-03-06-job-opening-gender-and-racial-justice-researcher/"
+          path: "/posts/2025/2025-03-06-job-opening-gender-and-racial-justice-researcher"
+          slug: "job-opening-gender-and-racial-justice-researcher"
+          file: "content/en/posts/2025/2025-03-06-job-opening-gender-and-racial-justice-researcher.html"
+          name: >-
+            Job Opening: Gender and Racial Justice Researcher
+        - permalink: "/news/2025-02-27-racial-justice-campaigner/"
+          path: "/posts/2025/2025-02-27-racial-justice-campaigner"
+          slug: "racial-justice-campaigner"
+          file: "content/en/posts/2025/2025-02-27-racial-justice-campaigner.html"
+          name: >-
+            Job Opening: Racial Justice Campaigner
+        - permalink: "/news/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice/"
+          path: "/posts/2025/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice"
+          slug: "afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice"
+          file: "content/en/posts/2025/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice.html"
+          name: >-
+            How realistic is the African Union’s call for reparatory justice?
+        - permalink: "/news/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s/"
+          path: "/posts/2025/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s"
+          slug: "afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s"
+          file: "content/en/posts/2025/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s.html"
+          name: >-
+            Thanks to Trump, it is now in Europe’s self-interest to compensate Africa for slavery
+        - permalink: "/news/2025-02-11-afalabs-2023-annual-report/"
+          path: "/posts/2025/2025-02-11-afalabs-2023-annual-report"
+          slug: "afalabs-2023-annual-report"
+          file: "content/en/posts/2025/2025-02-11-afalabs-2023-annual-report.html"
+          name: >-
+            AfaLab's 2023 Annual Report
+        - permalink: "/news/2024-12-16-belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great/"
+          path: "/posts/2024/2024-12-16-belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great"
+          slug: "belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great"
+          file: "content/en/posts/2024/2024-12-16-belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great.html"
+          name: >-
+            Belgium Condemned for Crimes Against Humanity
+        - permalink: "/news/2024-12-12-job-opening-climate-justice-research-an-policy-adviser/"
+          path: "/posts/2024/2024-12-12-job-opening-climate-justice-research-an-policy-adviser"
+          slug: "job-opening-climate-justice-research-an-policy-adviser"
+          file: "content/en/posts/2024/2024-12-12-job-opening-climate-justice-research-an-policy-adviser.html"
+          name: >-
+            Job Opening: Climate Justice Research an Policy Adviser
+        - permalink: "/news/2024-12-12-job-opening-communication-officer/"
+          path: "/posts/2024/2024-12-12-job-opening-communication-officer"
+          slug: "job-opening-communication-officer"
+          file: "content/en/posts/2024/2024-12-12-job-opening-communication-officer.html"
+          name: >-
+            Job Opening: Communication Officer
+        - permalink: "/news/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains/"
+          path: "/posts/2024/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains"
+          slug: "african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains"
+          file: "content/en/posts/2024/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains.html"
+          name: >-
+            African Futures Lab and  Amnesty International Joint Press Release
+        - permalink: "/news/2024-11-27-season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link/"
+          path: "/posts/2024/2024-11-27-season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link"
+          slug: "season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link"
+          file: "content/en/posts/2024/2024-11-27-season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link.html"
+          name: >-
+            International Financial Institutions Rooted in the Intrinsic Link between Colonialism and Capitalism
+        - permalink: "/news/2024-11-18-africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies/"
+          path: "/posts/2024/2024-11-18-africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies"
+          slug: "africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies"
+          file: "content/en/posts/2024/2024-11-18-africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies.html"
+          name: >-
+            Africans and people of African descent call on Europe to reckon with their  colonial legacies
+        - permalink: "/news/2024-11-06-season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna/"
+          path: "/posts/2024/2024-11-06-season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna"
+          slug: "season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna"
+          file: "content/en/posts/2024/2024-11-06-season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna.html"
+          name: >-
+            How to Finance Climate Reparations
+        - permalink: "/news/2024-11-05-climate-reparations-mobilisation-lab/"
+          path: "/posts/2024/2024-11-05-climate-reparations-mobilisation-lab"
+          slug: "climate-reparations-mobilisation-lab"
+          file: "content/en/posts/2024/2024-11-05-climate-reparations-mobilisation-lab.html"
+          name: >-
+            Climate Reparations MobLab
+        - permalink: "/news/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th/"
+          path: "/posts/2024/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th"
+          slug: "season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th"
+          file: "content/en/posts/2024/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th.html"
+          name: >-
+            International Law, Regulations & Negotiations
+        - permalink: "/news/2024-10-09-season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat/"
+          path: "/posts/2024/2024-10-09-season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat"
+          slug: "season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat"
+          file: "content/en/posts/2024/2024-10-09-season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat.html"
+          name: >-
+            Activism, Narratives & Media Representation:
+        - permalink: "/news/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis/"
+          path: "/posts/2024/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis"
+          slug: "season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis"
+          file: "content/en/posts/2024/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis.html"
+          name: >-
+            From responsibility to reparations of the climate crisis:
+        - permalink: "/news/2024-09-18-unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework/"
+          path: "/posts/2024/2024-09-18-unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework"
+          slug: "unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework"
+          file: "content/en/posts/2024/2024-09-18-unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework.html"
+          name: >-
+            Unlocking Climate Reparations
+        - permalink: "/news/2024-07-17-debt-cancellation-is-not-enough/"
+          path: "/posts/2024/2024-07-17-debt-cancellation-is-not-enough"
+          slug: "debt-cancellation-is-not-enough"
+          file: "content/en/posts/2024/2024-07-17-debt-cancellation-is-not-enough.html"
+          name: >-
+            Debt Cancellation Is Not Enough!
+        - permalink: "/news/2024-07-15-accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a/"
+          path: "/posts/2024/2024-07-15-accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a"
+          slug: "accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a"
+          file: "content/en/posts/2024/2024-07-15-accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a.html"
+          name: >-
+            Accra Roundtable Conference
+        - permalink: "/news/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+          path: "/posts/2024/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration"
+          slug: "conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration"
+          file: "content/en/posts/2024/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration.html"
+          name: >-
+            Brussels Conference
+        - permalink: "/news/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/"
+          path: "/posts/2024/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations"
+          slug: "geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations"
+          file: "content/en/posts/2024/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations.html"
+          name: >-
+            Geneva Conference
+        - permalink: "/news/2024-04-24-the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024/"
+          path: "/posts/2024/2024-04-24-the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024"
+          slug: "the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024"
+          file: "content/en/posts/2024/2024-04-24-the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024.html"
+          name: >-
+            The Third Session of the Permanent Forum of People of African Descent in Geneva, April 16-19, 2024
+        - permalink: "/news/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent/"
+          path: "/posts/2024/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent"
+          slug: "afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent"
+          file: "content/en/posts/2024/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent.html"
+          name: >-
+            AfaLab’s Recommendations
+        - permalink: "/news/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge/"
+          path: "/posts/2024/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge"
+          slug: "metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge"
+          file: "content/en/posts/2024/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge.html"
+          name: >-
+            Métis abandonnés dans la région des Grands Lacs par l'administration coloniale belge : des voix qui demandent à être entendues
+        - permalink: "/news/2024-04-04-70-years-of-fighting-for-justice-and-reparations/"
+          path: "/posts/2024/2024-04-04-70-years-of-fighting-for-justice-and-reparations"
+          slug: "70-years-of-fighting-for-justice-and-reparations"
+          file: "content/en/posts/2024/2024-04-04-70-years-of-fighting-for-justice-and-reparations.html"
+          name: >-
+            70 Years of Fighting for Justice and Reparations!
+        - permalink: "/news/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations/"
+          path: "/posts/2024/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations"
+          slug: "plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations"
+          file: "content/en/posts/2024/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations.html"
+          name: >-
+            Plus de 70 ans de lutte pour  la justice et les réparations !
+        - permalink: "/news/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers/"
+          path: "/posts/2024/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers"
+          slug: "a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers"
+          file: "content/en/posts/2024/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers.html"
+          name: >-
+            A global campaign for justice and reparations for the Métis and their African Mothers
+        - permalink: "/news/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts/"
+          path: "/posts/2024/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts"
+          slug: "african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts"
+          file: "content/en/posts/2024/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts.html"
+          name: >-
+            African voices in the restitution of human remains and cultural artefacts
+        - permalink: "/news/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy/"
+          path: "/posts/2024/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy"
+          slug: "sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy"
+          file: "content/en/posts/2024/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy.html"
+          name: >-
+            Sustaining racial justice: Black Tunisians seeking redress for slavery legacy
+        - permalink: "/news/2024-03-21-repairing-our-international-economic-order/"
+          path: "/posts/2024/2024-03-21-repairing-our-international-economic-order"
+          slug: "repairing-our-international-economic-order"
+          file: "content/en/posts/2024/2024-03-21-repairing-our-international-economic-order.html"
+          name: >-
+            Repairing our international economic order
+        - permalink: "/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+          path: "/posts/2024/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-"
+          slug: "meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-"
+          file: "content/en/posts/2024/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-.html"
+          name: >-
+            Meaningful participation of civil society and state actors in international negotiations concerning the climate reparations fund
+        - permalink: "/news/2024-03-20-metis-of-the-great-lakes-moblab/"
+          path: "/posts/2024/2024-03-20-metis-of-the-great-lakes-moblab"
+          slug: "metis-of-the-great-lakes-moblab"
+          file: "content/en/posts/2024/2024-03-20-metis-of-the-great-lakes-moblab.html"
+          name: >-
+            Métis of the Great Lakes MobLab
+        - permalink: "/news/2024-01-16-job-opening-program-assistant/"
+          path: "/posts/2024/2024-01-16-job-opening-program-assistant"
+          slug: "job-opening-program-assistant"
+          file: "content/en/posts/2024/2024-01-16-job-opening-program-assistant.html"
+          name: >-
+            Job Opening: Program Assistant
+        - permalink: "/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+          path: "/posts/2024/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g"
+          slug: "multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g"
+          file: "content/en/posts/2024/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g.html"
+          name: >-
+            Multiples mais invisibles
+        - permalink: "/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a/"
+          path: "/posts/2024/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a"
+          slug: "afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a"
+          file: "content/en/posts/2024/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a.html"
+          name: >-
+            AfaLab and Reform Initiatives: Forging a Transnational Partnership for Reparative Justice in Europe and Africa
+        - permalink: "/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+          path: "/posts/2023/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe"
+          slug: "decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe"
+          file: "content/en/posts/2023/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe.html"
+          name: >-
+            Decolonize Justice!
+        - permalink: "/news/2023-12-18-west-africa-mobilization-lab-on-reparations/"
+          path: "/posts/2023/2023-12-18-west-africa-mobilization-lab-on-reparations"
+          slug: "west-africa-mobilization-lab-on-reparations"
+          file: "content/en/posts/2023/2023-12-18-west-africa-mobilization-lab-on-reparations.html"
+          name: >-
+            West Africa Mobilization Lab on Reparations
+        - permalink: "/news/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+          path: "/posts/2023/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region"
+          slug: "multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region"
+          file: "content/en/posts/2023/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region.html"
+          name: >-
+            Multiple But Invisible:
+        - permalink: "/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa/"
+          path: "/posts/2023/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa"
+          slug: "afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa"
+          file: "content/en/posts/2023/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa.html"
+          name: >-
+            Europe's hollow apologies for colonial crimes stand in the way of genuine reparation
+        - permalink: "/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+          path: "/posts/2023/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou"
+          slug: "les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou"
+          file: "content/en/posts/2023/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou.html"
+          name: >-
+            Les réparations pour les crimes coloniaux de l’Europe en Afrique et pour l’esclavage :
+        - permalink: "/news/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine/"
+          path: "/posts/2023/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine"
+          slug: "statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine"
+          file: "content/en/posts/2023/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine.html"
+          name: >-
+            Statement on the outpouring of murderous violence in Israel and Palestine
+        - permalink: "/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+          path: "/posts/2023/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co"
+          slug: "reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co"
+          file: "content/en/posts/2023/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co.html"
+          name: >-
+            Reparations for Europe’s Colonial Crimes in Africa and Slavery:
+        - permalink: "/news/2023-10-02-post-opening-advocacy-and-policy-officer/"
+          path: "/posts/2023/2023-10-02-post-opening-advocacy-and-policy-officer"
+          slug: "post-opening-advocacy-and-policy-officer"
+          file: "content/en/posts/2023/2023-10-02-post-opening-advocacy-and-policy-officer.html"
+          name: >-
+            Job Opening: Advocacy and Policy Officer
+        - permalink: "/news/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa/"
+          path: "/posts/2023/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa"
+          slug: "post-opening-researcher-on-climate-reparations-in-east-africa"
+          file: "content/en/posts/2023/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa.html"
+          name: >-
+            Post opening: Researcher on climate reparations in East Africa
+        - permalink: "/news/2023-07-18-afalabs-2022-annual-report/"
+          path: "/posts/2023/2023-07-18-afalabs-2022-annual-report"
+          slug: "afalabs-2022-annual-report"
+          file: "content/en/posts/2023/2023-07-18-afalabs-2022-annual-report.html"
+          name: >-
+            AfaLab's 2022 Annual Report
+        - permalink: "/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la/"
+          path: "/posts/2023/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la"
+          slug: "saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la"
+          file: "content/en/posts/2023/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la.html"
+          name: >-
+            “La montagne qui a accouché d’une souris” :
+        - permalink: "/news/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+          path: "/posts/2023/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti"
+          slug: "season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti"
+          file: "content/en/posts/2023/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti.html"
+          name: >-
+            Onè ak jistis:
+        - permalink: "/news/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+          path: "/posts/2023/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon"
+          slug: "post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon"
+          file: "content/en/posts/2023/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon.html"
+          name: >-
+            Post opening: Researcher on reparations for colonial crimes in Cameroon
+        - permalink: "/news/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+          path: "/posts/2023/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun"
+          slug: "offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun"
+          file: "content/en/posts/2023/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun.html"
+          name: >-
+            Offre de poste : Chercheur.e sur les réparations pour les crimes coloniaux au Cameroun
+        - permalink: "/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+          path: "/posts/2023/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon"
+          slug: "saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon"
+          file: "content/en/posts/2023/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon.html"
+          name: >-
+            Le scandale du chlordécone et la continuité des violences coloniales en Martinique et en Guadeloupe
+        - permalink: "/news/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+          path: "/posts/2023/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia"
+          slug: "reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia"
+          file: "content/en/posts/2023/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia.html"
+          name: >-
+            Reparations to restore dignity:
+        - permalink: "/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
+          path: "/posts/2023/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis"
+          slug: "season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis"
+          file: "content/en/posts/2023/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis.html"
+          name: >-
+            The need for an intersectional approach to fighting racism in Italy
+        - permalink: "/news/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique/"
+          path: "/posts/2023/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique"
+          slug: "en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique"
+          file: "content/en/posts/2023/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique.html"
+          name: >-
+            En quête de respect et de justice :
+        - permalink: "/news/2023-04-13-litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ/"
+          path: "/posts/2023/2023-04-13-litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ"
+          slug: "litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ"
+          file: "content/en/posts/2023/2023-04-13-litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ.html"
+          name: >-
+            Litigating for reparations?
+        - permalink: "/news/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai/"
+          path: "/posts/2023/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai"
+          slug: "parce-que-les-excuses-ne-suffisent-pas-cbai"
+          file: "content/en/posts/2023/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai.html"
+          name: >-
+            Parce que les excuses ne suffisent pas - CBAI
+        - permalink: "/news/2022-12-15-sihem-bensedrine/"
+          path: "/posts/2022/2022-12-15-sihem-bensedrine"
+          slug: "sihem-bensedrine"
+          file: "content/en/posts/2022/2022-12-15-sihem-bensedrine.html"
+          name: >-
+            Sihem Bensedrine
+        - permalink: "/news/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+          path: "/posts/2022/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices"
+          slug: "menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices"
+          file: "content/en/posts/2022/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices.html"
+          name: >-
+            Reclaiming space and being guided by our foremothers’ voices
 
 
 

@@ -24,7 +24,7 @@ footer#document-footer
             gap: $spacing-2
             @include media-breakpoint-up(desktop)
                 figcaption
-                    max-width: columns(3)
+                    max-width: 20ch
 
 // HOME
 .page__home
@@ -70,7 +70,11 @@ footer#document-footer
             margin-top: 0
 
 // SECTIONS
-
+.block-title
+    &.block-class-moblab
+        h2::before
+            content: "MobLab / "
+            color: $mobilizing-red
 
 // BLOCKS
 // title

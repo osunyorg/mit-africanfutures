@@ -75,6 +75,10 @@ footer#document-footer
         h2::before
             content: "MobLab / "
             color: $mobilizing-red
+    &.block-class-campaign
+        h2::before
+            content: "Campaign / "
+            color: $mobilizing-red
 
 // BLOCKS
 // title
@@ -114,12 +118,12 @@ footer#document-footer
         li
             &::before
                 border-radius: 8px
-        &.with-image picture img 
-            aspect-ratio: 1 / 1
-            object-fit: cover
-            width: 100%
-        &:hover::before
-            background-color: $color-accent
+            &.with-image picture img 
+                aspect-ratio: 1 / 1
+                object-fit: cover
+                width: 100%
+            &:hover::before
+                background-color: $color-accent
 
 //agenda
 .block-agenda--list

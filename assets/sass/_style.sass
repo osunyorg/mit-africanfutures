@@ -139,6 +139,10 @@ footer#document-footer
 
 // call to action
 .block-call_to_action
+    .block-title + &:not(.block-titled)
+        @include in-page-with-or-without-sidebar
+            .block-content
+                padding-top: 0
     .call_to_action
         .top
             .block-title

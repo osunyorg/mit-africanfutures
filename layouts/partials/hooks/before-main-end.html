@@ -1,7 +1,7 @@
 {{ $menu := partial "GetMenu" "footer" }}
 
 {{ if $menu }}
-  <div class="container">
+  <div class="container footer-menu">
     {{ partial "commons/menu.html"
       (dict
         "kind" "legal"

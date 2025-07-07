@@ -26,6 +26,34 @@ footer#document-footer
                 figcaption
                     max-width: 20ch
 
+.footer-menu
+    ul
+        @include list-reset
+        display: flex
+        flex-wrap: wrap
+        gap: $spacing-3
+        span, a
+            @include meta
+            color: var(--color-accent)
+            text-decoration: none
+            &:hover
+                @include link(var(--color-accent))
+    body[class*="__section"] main.page-with-blocks &,
+    body[class*="__section"] &
+        margin-bottom: -$spacing-4
+    body[class*="__page"] main.page-with-blocks &,
+    .page__home &
+        margin-bottom: $spacing-2
+    .events__section &
+        margin-top: $spacing-4
+// subtitles
+.posts,
+.block-posts,
+.pages,
+.events
+    [class*="-subtitle"]
+        color: var(--color-accent)
+
 // HOME
 .page__home
     .breadcrumb 
@@ -43,6 +71,12 @@ footer#document-footer
             .hero-text,
             figure
                 width: columns(6)
+                max-height: pxToRem(576)
+            figure
+                @include media-breakpoint-up(xl)
+                    width: columns(5)
+                @include media-breakpoint-up(xxl)
+                    width: columns(4)
         .hero-text
             hgroup 
                 > p:first-of-type
@@ -79,6 +113,12 @@ footer#document-footer
         h2::before
             content: "Campaign / "
             color: $mobilizing-red
+
+.events
+    .event--with-image
+        .media img
+            aspect-ratio: 1
+            object-fit: cover
 
 // BLOCKS
 // title
@@ -194,3 +234,8 @@ footer#document-footer
         article
             .media img
                 aspect-ratio: 1 !important
+
+// key_figures
+.block-key_figures
+    ul li
+        @include meta

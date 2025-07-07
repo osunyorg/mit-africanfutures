@@ -57,8 +57,8 @@ footer#document-footer
     .block-call_to_action--accent_background:not(.block-class-cta-mobilization)
         .actions
             a:first-child
-                --btn-background: #{$event-yellow}
-                --btn-border: 1px solid #{$event-yellow}
+                --btn-background: #{$agenda-yellow}
+                --btn-border: 1px solid #{$agenda-yellow}
             a:nth-child(2)
                 --btn-background: var(--color-accent)
                 --btn-border: 1px solid var(--color-accent)
@@ -97,21 +97,68 @@ footer#document-footer
                 margin-top: $spacing-4
                 p
                     font-weight: normal
-    &.block-class-cta-mobilization
-        @include in-page-without-sidebar
-            background-color: $mobilizing-red
-        @include in-page-with-sidebar
-            .call_to_action > div
-                &, &::after
-                    background-color: $mobilizing-red
-
+    &--no_background
+        .actions a:not(:first-child)
+            --btn-background: var(--color-background)
+            --btn-hover-background: var(--btn-background)
+            --btn-color: var(--color-text)
+            --btn-border: none
+            --btn-hover-border: none
+            --btn-hover-color: var(--btn-color)
+            @include link
+    // red in mobilization + home with class
+    &.block-class-cta-mobilization,
+    .page-mobilization &,
+    .ancestor-mobilization &
+        &--no_background
+            .actions a:first-child
+                background: #{$mobilizing-red}
+    &.block-class-cta-mobilization,
+    .page-mobilization &,
+    .ancestor-mobilization &
+            --cta-background-color: #{$mobilizing-red}
+    // yellow in events
+    .events__section &
+        &--no_background
+            .actions a:first-child
+                background: #{$agenda-yellow}
+    .events__section &
+        &--accent_background
+            --cta-background-color: #{$agenda-yellow}
+    // orange in podcast
+    .page-podcast &,
+    .ancestor-podcast &
+        &--no_background
+            .actions a:first-child
+                background: #{$podcast-orange}
+    .page-podcast &,
+    .ancestor-podcast &
+        &--accent_background
+            --cta-background-color: #{$podcast-orange}
 // chapter
 .block-chapter
     &--alt_background
         .page__home &
             .notes
                 @include h2
-
+// organizations
+.block-organizations
+    &:not(.block-organizations--map),
+    &--grid
+        .organizations
+            @include grid(4, desktop)
+            margin-left: offset(2)
+            margin-right: offset(2)
+            .organization
+                .media
+                    background: none
+                    padding: 0
+            @include media-breakpoint-up(desktop)
+                .organization
+                    width: columns(2)
+        .page__home &
+            .organization-title
+                @extend .sr-only
 //files
 .block-files
     .files 
@@ -135,7 +182,8 @@ footer#document-footer
         color: $color-accent
 
 //pages
-.block-pages
+.block-pages,
+.block-posts
     &--grid
         article
             .media img

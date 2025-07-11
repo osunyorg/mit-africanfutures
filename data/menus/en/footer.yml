@@ -9,12 +9,12 @@ items:
   path: "/"
   file: content/en/_index.html
 - title: Research
-  target: "/research/"
+  target: "/research-and-impact/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/research"
-  file: content/en/pages/research/_index.html
+  path: "/pages/research-and-impact"
+  file: content/en/pages/research-and-impact/_index.html
 - title: Mobilization
   target: "/mobilization/"
   kind: page

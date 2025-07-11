@@ -283,20 +283,22 @@ footer#document-footer
 .block-organizations
     &:not(.block-organizations--map),
     &--grid
-        .organizations
-            @include grid(4, desktop)
-            margin-left: offset(2)
-            margin-right: offset(2)
-            .organization
-                .media
-                    background: none
-                    padding: 0
-            @include media-breakpoint-up(desktop)
-                .organization
-                    width: columns(2)
+        .organization
+            .media
+                background: none
+                padding: 0
         .page__home &
             .organization-title
                 @extend .sr-only
+        @include in-page-without-sidebar
+            .organizations
+                @include grid(4, desktop)
+                margin-left: offset(2)
+                margin-right: offset(2)
+                .organization
+                @include media-breakpoint-up(desktop)
+                    .organization
+                        width: columns(2)
 //files
 .block-files
     .files 

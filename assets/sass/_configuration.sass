@@ -1,65 +1,66 @@
-$color-accent: #eb2e00
-$color-accent-alt: #ffea00
-$color-text: #1D1C1D
-$color-background: #FFFFFF
-$color-background-alt: #D9D9D9
+// colors
+$color-accent: #1C1C8B
+$color-background-alt: #FFE9E7
 
-$site-blue: #0056b3
-// $site-purple: #B23A77
-// $site-green: #065b53
-// $site-light-blue: #00728F
+// site colors
+$light-pink: #FFE9E7 // also bg alt
+$pink: #FFD3D1
+$mobilizing-red: #FF4E47
+$investigation-purple: #AA47FF
+$podcast-orange: #FFAA48
+$agenda-yellow: #FEEA0C
 
 // TYPOGRAPHY
-// Headings
-$body-font-family: "Raleway", sans-serif
-$heading-font-family: "Josefin Sans", sans-serif
+$body-font-family: "Helvetica Neue", sans-serif
+$heading-font-family: $body-font-family
 $heading-font-weight: bold
 
-$h1-text-transform: uppercase
-$h2-text-transform: uppercase
+$h5-text-transform: none
 
-$h1-line-height: 130%
-$h2-line-height: 130%
-$h3-line-height: 130%
-$h4-line-height: 130%
-$h5-line-height: 130%
+// head
+$lead-sidebar-size-desktop: pxToRem(40)
+$lead-sidebar-line-height-desktop: pxToRem(48)
+$lead-sidebar-weight: normal
 
-$h1-post-size: pxToRem(44)
-
-$body-line-height: 150%
-$body-size-desktop: pxToRem(20)
-
-$header-border-bottom-width: 0
-$header-background: $color-background
-$header-dropdown-full: true
-$header-logo-height: 50px
-$header-logo-height-desktop: pxToRem(100)
-$footer-logo-height-desktop: pxToRem(116)
-$hero-background-color: $color-background
-$hero-height-desktop: 400px
-
-$meta-font-family: $body-font-family
+// meta
 $meta-weight: normal
 
+// signature
+$signature-weight: normal
+
+// COMPONENTS
+// header
+$header-background: $color-accent
+$header-color: var(--color-background)
+$header-sticky-background: $header-background
+$header-sticky-color: $header-color
+$header-sticky-dropdown-background: $header-background
+$header-sticky-dropdown-color: $header-color
+$header-logo-height-desktop: pxToRem(42)
+$header-border-bottom-width: 0
+
 // footer
-$footer-color: white
-$footer-background-color: $color-text
-$footer-logo-height-desktop: $header-logo-height-desktop
+$footer-background-color: $color-accent
+$footer-color: var(--color-background)
+$footer-logo-height: pxToRem(70)
+$footer-logo-height-desktop: pxToRem(94)
 
-// blocks
-$block-call-to-action-accent-background: $color-text
-$block-call-to-action-accent-color: white
-$block-call-to-action-accent-button-hover-background: $color-background-alt
-$block-call-to-action-accent-button-hover-color: $block-call-to-action-accent-background
+// hero
+$hero-background-color: var(--color-background)
 
-$block-chapter-layout-accent-background: $color-text
+// btn | button
+$btn-border-radius: pxToRem(8)
 
-$block-space-y: space(10)
-$block-space-y-desktop: space(10)
-$block-space-y-with-sidebar: space(10)
-$heading-margin-top: space(14)
-$heading-margin-bottom: space(8)
-$heading-margin-top-desktop: space(14)
-$heading-margin-bottom-desktop: space(8)
-$heading-margin-top-with-sidebar: space(14)
-$heading-margin-bottom-with-sidebar: space(8)
+// BLOCKS
+// cta | call to action
+$block-call-to-action-accent-background: $light-pink
+$block-call-to-action-accent-color: var(--color-text)
+$block-call-to-action-all-actions-as-buttons: true
+
+// chapter
+$block-chapter-layout-alt-background: $pink
+
+// key figures
+$block-key_figures-unit-font-weight: normal
+$block-key_figures-number-font-weight: normal
+$block-key_figures-font-size-lg: pxToRem(22)

@@ -249,6 +249,22 @@ footer#document-footer
         article
             .media img
                 aspect-ratio: 1 !important
+    &--large
+        .large
+            .page,
+            .post
+                .media 
+                    margin-bottom: 0
+                    picture
+                        &, &.is-svg
+                            img
+                                aspect-ratio: 16/9 !important
+                                object-fit: cover
+                @include in-page-without-sidebar
+                    [class$="-title"],
+                    [class$="-subtitle"]
+                        @include h2
+                        font-weight: normal
 
 // key_figures
 .block-key_figures

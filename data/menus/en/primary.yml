@@ -2,47 +2,47 @@
 title: Primary
 items:
 - title: The Lab
-  target: "/the-lab/"
+  target: "/about-us/how-the-lab-came-to-be/"
   kind: page
   new_tab: false
   children:
   - title: 'Our Mission '
-    target: "/the-lab/our-mission/"
+    target: "/about-us/how-the-lab-came-to-be/our-mission/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-lab/our-mission"
-    file: content/en/pages/the-lab/our-mission/_index.html
+    path: "/pages/about-us/how-the-lab-came-to-be/our-mission"
+    file: content/en/pages/about-us/how-the-lab-came-to-be/our-mission/_index.html
   - title: What we do
-    target: "/the-lab/what-we-do/"
+    target: "/about-us/how-the-lab-came-to-be/what-we-do/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-lab/what-we-do"
-    file: content/en/pages/the-lab/what-we-do/_index.html
+    path: "/pages/about-us/how-the-lab-came-to-be/what-we-do"
+    file: content/en/pages/about-us/how-the-lab-came-to-be/what-we-do/_index.html
   - title: Who we are
-    target: "/the-lab/who-we-are/"
+    target: "/about-us/how-the-lab-came-to-be/who-we-are/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-lab/who-we-are"
-    file: content/en/pages/the-lab/who-we-are/_index.html
+    path: "/pages/about-us/how-the-lab-came-to-be/who-we-are"
+    file: content/en/pages/about-us/how-the-lab-came-to-be/who-we-are/_index.html
   - title: 'How to support us '
-    target: "/the-lab/how-to-support-us/"
+    target: "/about-us/how-the-lab-came-to-be/how-to-support-us/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-lab/how-to-support-us"
-    file: content/en/pages/the-lab/how-to-support-us/_index.html
+    path: "/pages/about-us/how-the-lab-came-to-be/how-to-support-us"
+    file: content/en/pages/about-us/how-the-lab-came-to-be/how-to-support-us/_index.html
   - title: Connect with us
-    target: "/the-lab/connect-with-us/"
+    target: "/about-us/how-the-lab-came-to-be/connect-with-us/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-lab/connect-with-us"
-    file: content/en/pages/the-lab/connect-with-us/_index.html
-  path: "/pages/the-lab"
-  file: content/en/pages/the-lab/_index.html
+    path: "/pages/about-us/how-the-lab-came-to-be/connect-with-us"
+    file: content/en/pages/about-us/how-the-lab-came-to-be/connect-with-us/_index.html
+  path: "/pages/about-us/how-the-lab-came-to-be"
+  file: content/en/pages/about-us/how-the-lab-came-to-be/_index.html
 - title: Research
   target: "/research/"
   kind: page
@@ -114,10 +114,10 @@ items:
   path: "/events"
   file: content/en/events/_index.html
 - title: Donate
-  target: "/the-lab/donate/"
+  target: "/about-us/how-the-lab-came-to-be/donate/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/the-lab/donate"
-  file: content/en/pages/the-lab/donate/_index.html
+  path: "/pages/about-us/how-the-lab-came-to-be/donate"
+  file: content/en/pages/about-us/how-the-lab-came-to-be/donate/_index.html
 

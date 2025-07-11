@@ -20,13 +20,6 @@ items:
     children: []
     path: "/pages/about-us/how-the-lab-came-to-be/what-we-do"
     file: content/en/pages/about-us/how-the-lab-came-to-be/what-we-do/_index.html
-  - title: Who we are
-    target: "/about-us/how-the-lab-came-to-be/who-we-are/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about-us/how-the-lab-came-to-be/who-we-are"
-    file: content/en/pages/about-us/how-the-lab-came-to-be/who-we-are/_index.html
   - title: 'How to support us '
     target: "/about-us/how-the-lab-came-to-be/how-to-support-us/"
     kind: page

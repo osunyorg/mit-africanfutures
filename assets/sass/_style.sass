@@ -2,7 +2,8 @@
 // header's colors
 header#document-header
     .page-mobilization &,
-    .ancestor-mobilization &
+    .ancestor-mobilization &,
+    .category-campaigns &
         &, html.has-menu-opened &, 
             background-color: $mobilizing-red
             .dropdown-menu
@@ -105,6 +106,12 @@ footer#document-footer
 .events
     [class*="-subtitle"]
         color: var(--color-accent)
+.posts__page,
+.events__page,
+.projects__page
+    .hero
+        h1 span
+            color: var(--color-accent)
 
 // HOME
 .page__home
@@ -242,7 +249,8 @@ footer#document-footer
                     order: -1
     &.block-class-cta-mobilization,
     .page-mobilization &,
-    .ancestor-mobilization &
+    .ancestor-mobilization &,
+    .category-campaigns &
         --cta-background-color: #{$mobilizing-red}
     // yellow in events
     .events__section &,

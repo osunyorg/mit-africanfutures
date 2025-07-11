@@ -12,6 +12,7 @@ params:
   search: 
     active: true
     positions:
+      - primary
       - footer
   # posts:
   #   index:

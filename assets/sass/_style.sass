@@ -11,8 +11,14 @@ header#document-header
     .category-podcast &
         &, html.has-menu-opened &, 
             background-color: $podcast-orange
+            span, a, button
+                &, &:focus, &:hover
+                    color: var(--color-text)
             .dropdown-menu
                 background-color: $podcast-orange
+                span, a, button
+                    &, &:focus, &:hover
+                        color: var(--color-text)
     .page-research &,
     .ancestor-research &
         &, html.has-menu-opened &, 
@@ -68,6 +74,7 @@ footer#document-footer
             &:hover
                 @include link(var(--color-accent))
     body[class*="__section"] main.page-with-blocks &,
+    body[class*="_categories__term"] main.page-with-blocks &,
     body[class*="__section"] &
         margin-bottom: -$spacing-4
     body[class*="__page"] main.page-with-blocks &,
@@ -75,6 +82,7 @@ footer#document-footer
         margin-bottom: $spacing-2
     .events__section &
         margin-top: $spacing-4
+
 // subtitles
 .posts,
 .block-posts,
@@ -127,11 +135,6 @@ footer#document-footer
                     margin-bottom: $spacing-3
                     figure
                         margin-bottom: 0
-    .block-pages--grid
-        .media
-            background-color: #000000
-            picture.is-png
-                padding: $spacing-3
     .block-call_to_action--accent_background:not(.block-class-cta-mobilization)
         .actions
             a:first-child
@@ -169,6 +172,16 @@ footer#document-footer
             aspect-ratio: 1
             object-fit: cover
 
+.posts--list
+    .media img
+        aspect-ratio: 1 !important
+
+.block-pages--grid
+    .media
+        picture.is-png
+            background-color: $light-purple
+            padding: $spacing-3
+
 // BLOCKS
 // title
 .block.block-title
@@ -190,52 +203,66 @@ footer#document-footer
                 margin-top: $spacing-4
                 p
                     font-weight: normal
+        &--with-image
+            body.full-width:not(.page__home) &
+                figure
+                    grid-column: 10/13
+                    button, img
+                        width: 100%
     &--no_background
-        .actions a:not(:first-child)
-            --btn-background: var(--color-background)
-            --btn-hover-background: var(--btn-background)
-            --btn-color: var(--color-text)
-            --btn-border: none
-            --btn-hover-border: none
-            --btn-hover-color: var(--btn-color)
-            @include link
+        .actions
+            a:not(:first-child)
+                --btn-background: var(--color-background)
+                --btn-hover-background: var(--btn-background)
+                --btn-color: var(--color-text)
+                --btn-border: none
+                --btn-hover-border: none
+                --btn-hover-color: var(--btn-color)
+                @include link
         @include in-page-with-sidebar
             .call_to_action--with-image
                 flex-direction: column
                 figure
                     margin-left: 0
                     order: -1
-    // red in mobilization + home with class
     &.block-class-cta-mobilization,
     .page-mobilization &,
     .ancestor-mobilization &
-        &--no_background
-            .actions a:first-child
-                background: #{$mobilizing-red}
-    &.block-class-cta-mobilization,
-    .page-mobilization &,
-    .ancestor-mobilization &
-            --cta-background-color: #{$mobilizing-red}
+        --cta-background-color: #{$mobilizing-red}
     // yellow in events
     .events__section &
+    .page-about &,
+    .ancestor-about &
         &--no_background
             .actions a:first-child
-                background: #{$agenda-yellow}
+                --btn-background: #{$agenda-yellow}
+                --btn-color: var(--color-text)
+                --btn-border: 1px solid #{$agenda-yellow}
     .events__section &
         &--accent_background
             --cta-background-color: #{$agenda-yellow}
     // purple in researc
     .page-research &,
-    .ancestor-research &,
+    .ancestor-research &
         &--no_background
             .actions a:first-child
-                background: #{$investigation-purple}
+                --btn-background: #{$investigation-purple}
     .page-research &,
-    .ancestor-research &,
+    .ancestor-research &
         &--accent_background
             --cta-background-color: #{$investigation-purple}
             .call_to_action
                 color: var(--color-background)
+    .page-about &,
+    .ancestor-about &
+        &--accent_background
+            --cta-background-color: #{$light-purple}
+            .call_to_action
+                color: var(--color-accent)
+                .actions a
+                    --btn-background: var(--color-accent)
+                    --btn-border: 1px solid var(--color-accent)
+                    --btn-color: var(--color-background)
     // orange in podcast
     .page-podcast &,
     .ancestor-podcast &

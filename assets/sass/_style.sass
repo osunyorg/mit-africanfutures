@@ -1,9 +1,36 @@
 // SYSTEM
+// header's colors
+header#document-header
+    .page-mobilization &,
+    .ancestor-mobilization &
+        &, html.has-menu-opened &, 
+            background-color: $mobilizing-red
+            .dropdown-menu
+                background-color: $mobilizing-red
+    .page-podcast &,
+    .category-podcast &
+        &, html.has-menu-opened &, 
+            background-color: $podcast-orange
+            .dropdown-menu
+                background-color: $podcast-orange
+    .page-research &,
+    .ancestor-research &
+        &, html.has-menu-opened &, 
+            background-color: $investigation-purple
+            .dropdown-menu
+                background-color: $investigation-purple
 // hero
 header.hero
     .content
         .hero-text
             margin-top: 0
+    @include media-breakpoint-up(desktop)
+        body:not(.page__event, .page__home) &--with-image
+            .hero-text
+                width: columns(7)
+            figure
+                width: columns(5)
+
 // footer
 footer#document-footer
     .container:first-child
@@ -28,6 +55,7 @@ footer#document-footer
                     max-width: 20ch
 
 .footer-menu
+    padding-top: $spacing-2
     ul
         @include list-reset
         display: flex
@@ -196,6 +224,18 @@ footer#document-footer
     .events__section &
         &--accent_background
             --cta-background-color: #{$agenda-yellow}
+    // purple in researc
+    .page-research &,
+    .ancestor-research &,
+        &--no_background
+            .actions a:first-child
+                background: #{$investigation-purple}
+    .page-research &,
+    .ancestor-research &,
+        &--accent_background
+            --cta-background-color: #{$investigation-purple}
+            .call_to_action
+                color: var(--color-background)
     // orange in podcast
     .page-podcast &,
     .ancestor-podcast &

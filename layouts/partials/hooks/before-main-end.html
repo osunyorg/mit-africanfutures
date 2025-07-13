@@ -1,10 +1,10 @@
-{{ $menu := partial "GetMenu" "footer" }}
+{{ $menu := partial "GetMenu" "footer-horizontal" }}
 
 {{ if $menu }}
   <div class="container footer-menu">
     {{ partial "commons/menu.html"
       (dict
-        "kind" "legal"
+        "kind" "footer-horizontal"
         "level" 1
         "context" .
       )}}

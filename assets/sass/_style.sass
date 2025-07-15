@@ -353,9 +353,10 @@ footer#document-footer
             @include media-breakpoint-up(desktop)
                 .leaflet-popup
                     margin-bottom: $spacing-3
-                .leaflet-popup-content-wrapper
-                    width: columns(3)
-//files
+                @include media-breakpoint-down(xxl)
+                    .leaflet-popup-content-wrapper
+                        width: columns(3)
+    //files
 .block-files
     .files 
         li

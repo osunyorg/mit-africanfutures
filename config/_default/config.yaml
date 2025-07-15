@@ -14,26 +14,6 @@ params:
     positions:
       - primary
       - footer
-  # posts:
-  #   index:
-  #     layout: grid
-  #   list:
-  #     show_categories: true
-  # breadcrumb:
-  #   position: after-hero
-  # summary:
-  #   position: content
-  # image_sizes:
-  #   design_system:
-  #     hero:
-  #       desktop:  1920
-  #   sections:
-  #     categories:
-  #       hero_term:
-  #         desktop:  1920
-  #     home:
-  #       hero:
-  #         desktop:  1920
-  #     pages:
-  #       hero:
-  #         desktop:  1920
+  organizations:
+    single:
+      backlinks: true

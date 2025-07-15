@@ -324,6 +324,33 @@ footer#document-footer
                 @include media-breakpoint-up(desktop)
                     .organization
                         width: columns(2)
+    &--map
+        .page__home &
+            .leaflet-popup
+                border-radius: 8px
+                overflow: hidden
+            .organization
+                .organization-content
+                    display: flex
+                    flex-direction: column
+                    padding: 0
+                .organization-title
+                    order: 0
+                address
+                    @include h6
+                    background: $investigation-purple
+                    font-weight: normal
+                    color: var(--color-background)
+                    order: -1
+                    text-transform: none
+                    > *:not([itemprop="addressCountry"])
+                        display: none
+                .organization-title,
+                address
+                    padding: $spacing-1 $spacing-2
+                .logo
+                    order: -2
+
 //files
 .block-files
     .files 

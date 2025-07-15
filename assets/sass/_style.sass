@@ -350,7 +350,11 @@ footer#document-footer
                     padding: $spacing-1 $spacing-2
                 .logo
                     order: -2
-
+            @include media-breakpoint-up(desktop)
+                .leaflet-popup
+                    margin-bottom: $spacing-3
+                .leaflet-popup-content-wrapper
+                    width: columns(3)
 //files
 .block-files
     .files 

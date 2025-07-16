@@ -13,6 +13,13 @@ items:
     children: []
     path: "/pages/research-and-impact/publications"
     file: content/en/pages/research-and-impact/publications/_index.html
+  - title: Current Projects
+    target: "/projects-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/projects"
+    file: content/en/projects/_index.html
   - title: Our programs
     target: ''
     kind: blank
@@ -30,25 +37,11 @@ items:
       kind: blank
       new_tab: false
       children: []
-  - title: Current Projects
-    target: "/projects-1/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/projects"
-    file: content/en/projects/_index.html
 - title: Mobilize & Act
   target: "/mobilization/"
   kind: page
   new_tab: false
   children:
-  - title: Campaigns
-    target: "/mobilization/campaigns/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/mobilization/campaigns"
-    file: content/en/pages/mobilization/campaigns/_index.html
   - title: MobLabs
     target: "/mobilization/moblabs-1/"
     kind: page

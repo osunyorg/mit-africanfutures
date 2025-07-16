@@ -26,17 +26,19 @@ items:
     new_tab: false
     children:
     - title: Gender Justice and Reparations
-      target: ''
-      kind: blank
+      target: "/about-us/gender-justice/"
+      kind: page
       new_tab: false
       children: []
-      path: "/posts/2025/2025-06-16-new-research-project-in-gender-and-racial-justice"
-      file: content/en/posts/2025/2025-06-16-new-research-project-in-gender-and-racial-justice.html
+      path: "/pages/about-us/gender-justice"
+      file: content/en/pages/about-us/gender-justice/_index.html
     - title: Climate Justice and Reparations
-      target: ''
-      kind: blank
+      target: "/about-us/transformative-climate-justice/"
+      kind: page
       new_tab: false
       children: []
+      path: "/pages/about-us/transformative-climate-justice"
+      file: content/en/pages/about-us/transformative-climate-justice/_index.html
 - title: Mobilize & Act
   target: "/mobilization/"
   kind: page

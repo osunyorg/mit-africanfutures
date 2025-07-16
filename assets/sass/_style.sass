@@ -204,6 +204,23 @@ footer#document-footer
             background-color: $light-purple
             padding: $spacing-3
 
+.organizations__page
+    &.category-projects_organizations
+        .document-content > .container:first-child
+            display: none
+        .backlinks
+            .block-projects
+                .block-title
+                    font-size: 0
+                    &::before
+                        @include h5
+                        content: 'See full project'
+
+.projects__page
+    .block:first-child
+        &.block-organizations
+            display: none
+
 // BLOCKS
 // title
 .block.block-title

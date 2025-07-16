@@ -17,3 +17,6 @@ params:
   organizations:
     single:
       backlinks: true
+  projects:
+    index:
+      layout: list

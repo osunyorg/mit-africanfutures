@@ -78,10 +78,12 @@ items:
     path: "/posts_categories/news"
     file: content/en/posts_categories/news/_index.html
   - title: Events
-    target: ''
-    kind: blank
+    target: "/agenda/"
+    kind: page
     new_tab: false
     children: []
+    path: "/events"
+    file: content/en/events/_index.html
 - title: Podcast
   target: "/news/podcast/"
   kind: category

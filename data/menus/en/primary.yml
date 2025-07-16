@@ -80,7 +80,14 @@ items:
     target: "/about-us/afalab-team/"
     kind: page
     new_tab: false
-    children: []
+    children:
+    - title: Gender Justice and Reparations
+      target: "/about-us/gender-justice/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/about-us/gender-justice"
+      file: content/en/pages/about-us/gender-justice/_index.html
     path: "/pages/about-us/afalab-team"
     file: content/en/pages/about-us/afalab-team/_index.html
   path: "/pages/about-us"

@@ -15,6 +15,20 @@ items:
     file: content/en/pages/research-and-impact/publications/_index.html
   path: "/pages/research-and-impact"
   file: content/en/pages/research-and-impact/_index.html
+- title: Gender justice
+  target: "/about-us/afalab-team/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Gender Justice and Reparations
+    target: "/about-us/gender-justice/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/about-us/gender-justice"
+    file: content/en/pages/about-us/gender-justice/_index.html
+  path: "/pages/about-us/afalab-team"
+  file: content/en/pages/about-us/afalab-team/_index.html
 - title: Mobilize & Act
   target: "/mobilization/"
   kind: page
@@ -69,20 +83,6 @@ items:
     children: []
     path: "/pages/about-us/how-the-lab-came-to-be"
     file: content/en/pages/about-us/how-the-lab-came-to-be/_index.html
-  - title: Gender justice
-    target: "/about-us/afalab-team/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Gender Justice and Reparations
-      target: "/about-us/gender-justice/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/about-us/gender-justice"
-      file: content/en/pages/about-us/gender-justice/_index.html
-    path: "/pages/about-us/afalab-team"
-    file: content/en/pages/about-us/afalab-team/_index.html
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
 - title: Donate

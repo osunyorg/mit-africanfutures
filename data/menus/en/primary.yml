@@ -1,8 +1,8 @@
 ---
 title: Primary
 items:
-- title: Research & Impact
-  target: "/research-and-impact/"
+- title: Current Projects
+  target: "/research-and-impact/current-projects/"
   kind: page
   new_tab: false
   children:
@@ -13,22 +13,8 @@ items:
     children: []
     path: "/pages/research-and-impact/publications"
     file: content/en/pages/research-and-impact/publications/_index.html
-  path: "/pages/research-and-impact"
-  file: content/en/pages/research-and-impact/_index.html
-- title: Gender justice
-  target: "/about-us/afalab-team/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Gender Justice and Reparations
-    target: "/about-us/gender-justice/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about-us/gender-justice"
-    file: content/en/pages/about-us/gender-justice/_index.html
-  path: "/pages/about-us/afalab-team"
-  file: content/en/pages/about-us/afalab-team/_index.html
+  path: "/pages/research-and-impact/current-projects"
+  file: content/en/pages/research-and-impact/current-projects/_index.html
 - title: Mobilize & Act
   target: "/mobilization/"
   kind: page

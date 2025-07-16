@@ -44,13 +44,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Campaigns
-    target: "/news/mobilization/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/mobilization"
-    file: content/en/posts_categories/mobilization/_index.html
   - title: MobLabs
     target: "/mobilization/moblabs-1/"
     kind: page

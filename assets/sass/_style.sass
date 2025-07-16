@@ -326,36 +326,39 @@ footer#document-footer
                         width: columns(2)
     &--map
         .page__home &
-            .leaflet-popup
-                border-radius: 8px
-                overflow: hidden
-            .organization
-                .organization-content
-                    display: flex
-                    flex-direction: column
-                    padding: 0
-                .organization-title
-                    order: 0
-                address
-                    @include h6
-                    background: $investigation-purple
-                    font-weight: normal
-                    color: var(--color-background)
-                    order: -1
-                    text-transform: none
-                    > *:not([itemprop="addressCountry"])
-                        display: none
-                .organization-title,
-                address
-                    padding: $spacing-1 $spacing-2
-                .logo
-                    order: -2
-            @include media-breakpoint-up(desktop)
+            .map
                 .leaflet-popup
-                    margin-bottom: $spacing-3
-                @include media-breakpoint-down(xxl)
-                    .leaflet-popup-content-wrapper
-                        width: columns(3)
+                    border-radius: 8px
+                    overflow: hidden
+                    a.leaflet-popup-close-button
+                        color: var(--color-background)
+                .organization
+                    .organization-content
+                        display: flex
+                        flex-direction: column
+                        padding: 0
+                    .organization-title
+                        order: 0
+                    address
+                        @include h6
+                        background: $investigation-purple
+                        font-weight: normal
+                        color: var(--color-background)
+                        order: -1
+                        text-transform: none
+                    .organization-title,
+                    address
+                        padding: $spacing-1 $spacing-2
+                    .logo
+                        order: -2
+                @include media-breakpoint-up(desktop)
+                    .leaflet-popup
+                        margin-bottom: $spacing-3
+                    @include media-breakpoint-down(xxl)
+                        .leaflet-popup-content-wrapper
+                            width: columns(3)
+            address > *:not([itemprop="addressCountry"])
+                display: none
     //files
 .block-files
     .files 

@@ -82,8 +82,6 @@ items:
     kind: blank
     new_tab: false
     children: []
-  path: "/posts"
-  file: content/en/posts/_index.html
 - title: Podcast
   target: "/news/podcast/"
   kind: category

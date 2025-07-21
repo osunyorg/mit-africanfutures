@@ -226,13 +226,21 @@ footer#document-footer
         .document-content > .container:first-child
             display: none
         .backlinks
+            .block:first-child
+                margin-top: 0
             .block-projects
                 .block-title
-                    font-size: 0
-                    &::before
-                        @include h5
-                        content: 'See full project'
-
+                    display: none
+        .blocks
+            .block:first-child.block-title
+                h2
+                    @include h5
+                    text-transform: uppercase
+                @include media-breakpoint-up(desktop)
+                    margin-top: $spacing-6
+                    padding-top: $spacing-4
+            + .backlinks
+                margin-top: 0
 .projects__page
     .block:first-child
         &.block-organizations

@@ -266,6 +266,7 @@ footer#document-footer
                 @include h1
             .description
                 @include lead
+                font-weight: normal
                 margin-top: $spacing-4
                 p
                     font-weight: normal
@@ -291,6 +292,9 @@ footer#document-footer
                 figure
                     margin-left: 0
                     order: -1
+    .page__home &:not(.block-class-cta-mobilization)
+        .description
+            @include lead-hero
     &.block-class-cta-mobilization,
     .page-mobilization &,
     .ancestor-mobilization &,

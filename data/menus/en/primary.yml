@@ -89,7 +89,7 @@ items:
     path: "/posts_categories/news"
     file: content/en/posts_categories/news/_index.html
   - title: Events
-    target: "/the-latest/news/events-1/"
+    target: "/the-latest/events-1/"
     kind: page
     new_tab: false
     children: []

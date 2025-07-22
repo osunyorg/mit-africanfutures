@@ -14,36 +14,45 @@ items:
     path: "/pages/research-and-impact/publications"
     file: content/en/pages/research-and-impact/publications/_index.html
   - title: Current Projects
-    target: "/projects-1/"
+    target: "/research-and-impact/current-projects/"
     kind: page
     new_tab: false
     children: []
     path: "/projects"
     file: content/en/projects/_index.html
   - title: Our programs
-    target: ''
-    kind: blank
+    target: "/research-and-impact/our-programs/"
+    kind: page
     new_tab: false
     children:
     - title: Gender Justice and Reparations
-      target: "/about-us/gender-justice/"
+      target: "/research-and-impact/our-programs/gender-justice/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/about-us/gender-justice"
-      file: content/en/pages/about-us/gender-justice/_index.html
+      path: "/pages/research-and-impact/our-programs/gender-justice"
+      file: content/en/pages/research-and-impact/our-programs/gender-justice/_index.html
     - title: Climate Justice and Reparations
-      target: "/about-us/transformative-climate-justice/"
+      target: "/research-and-impact/our-programs/transformative-climate-justice/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/about-us/transformative-climate-justice"
-      file: content/en/pages/about-us/transformative-climate-justice/_index.html
+      path: "/pages/research-and-impact/our-programs/transformative-climate-justice"
+      file: content/en/pages/research-and-impact/our-programs/transformative-climate-justice/_index.html
+    path: "/pages/research-and-impact/our-programs"
+    file: content/en/pages/research-and-impact/our-programs/_index.html
 - title: Mobilize & Act
   target: "/mobilization/"
   kind: page
   new_tab: false
   children:
+  - title: Campaigns
+    target: "/mobilization/campaigns/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/mobilization/campaigns"
+    file: content/en/pages/mobilization/campaigns/_index.html
   - title: MobLabs
     target: "/mobilization/moblabs-1/"
     kind: page

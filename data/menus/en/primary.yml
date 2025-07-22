@@ -25,20 +25,27 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Gender Justice and Reparations
-      target: "/research-and-impact/our-programs/gender-justice/"
+    - title: Gender justice and reparations
+      target: "/research-and-impact/our-programs/gender-justice-and-reparations/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/research-and-impact/our-programs/gender-justice"
-      file: content/en/pages/research-and-impact/our-programs/gender-justice/_index.html
-    - title: Climate Justice and Reparations
-      target: "/research-and-impact/our-programs/transformative-climate-justice/"
+      path: "/pages/research-and-impact/our-programs/gender-justice-and-reparations"
+      file: content/en/pages/research-and-impact/our-programs/gender-justice-and-reparations/_index.html
+    - title: Climate justice and reparations
+      target: "/research-and-impact/our-programs/climate-justice-and-reparations-1/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/research-and-impact/our-programs/transformative-climate-justice"
-      file: content/en/pages/research-and-impact/our-programs/transformative-climate-justice/_index.html
+      path: "/pages/research-and-impact/our-programs/climate-justice-and-reparations-1"
+      file: content/en/pages/research-and-impact/our-programs/climate-justice-and-reparations-1/_index.html
+    - title: Intersectional approach to reparations
+      target: "/research-and-impact/our-programs/intersectional-reparations/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/research-and-impact/our-programs/intersectional-reparations"
+      file: content/en/pages/research-and-impact/our-programs/intersectional-reparations/_index.html
     path: "/pages/research-and-impact/our-programs"
     file: content/en/pages/research-and-impact/our-programs/_index.html
 - title: Mobilize & Act

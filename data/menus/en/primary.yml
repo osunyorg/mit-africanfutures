@@ -96,12 +96,12 @@ items:
     path: "/events"
     file: content/en/events/_index.html
 - title: Podcast
-  target: "/the-latest/news/types/podcast/"
-  kind: category
+  target: "/podcasts/"
+  kind: page
   new_tab: false
   children: []
-  path: "/posts_categories/types/podcast"
-  file: content/en/posts_categories/types/podcast/_index.html
+  path: "/pages/podcasts"
+  file: content/en/pages/podcasts/_index.html
 - title: About us
   target: "/about-us/"
   kind: page
@@ -128,20 +128,20 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Subcribe to our newsletter
-    target: "/about-us/how-the-lab-came-to-be/how-to-support-us/"
+  - title: How to support us
+    target: "/support-us/how-to-support-us/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/about-us/how-the-lab-came-to-be/how-to-support-us"
-    file: content/en/pages/about-us/how-the-lab-came-to-be/how-to-support-us/_index.html
+    path: "/pages/support-us/how-to-support-us"
+    file: content/en/pages/support-us/how-to-support-us/_index.html
   - title: Donate
-    target: "/about-us/how-the-lab-came-to-be/donate/"
+    target: "/support-us/donate/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/about-us/how-the-lab-came-to-be/donate"
-    file: content/en/pages/about-us/how-the-lab-came-to-be/donate/_index.html
-  path: "/pages/about-us/how-the-lab-came-to-be/how-to-support-us"
-  file: content/en/pages/about-us/how-the-lab-came-to-be/how-to-support-us/_index.html
+    path: "/pages/support-us/donate"
+    file: content/en/pages/support-us/donate/_index.html
+  path: "/pages/support-us/how-to-support-us"
+  file: content/en/pages/support-us/how-to-support-us/_index.html
 

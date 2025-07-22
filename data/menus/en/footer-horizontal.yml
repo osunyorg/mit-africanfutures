@@ -23,12 +23,12 @@ items:
   path: "/pages/mobilization"
   file: content/en/pages/mobilization/_index.html
 - title: Podcast
-  target: "/the-latest/news/podcast/"
+  target: "/the-latest/news/types/podcast/"
   kind: category
   new_tab: false
   children: []
-  path: "/posts_categories/podcast"
-  file: content/en/posts_categories/podcast/_index.html
+  path: "/posts_categories/types/podcast"
+  file: content/en/posts_categories/types/podcast/_index.html
 - title: About us
   target: "/about-us/"
   kind: page
@@ -37,7 +37,7 @@ items:
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
 - title: Agenda
-  target: "/the-latest/events-1/"
+  target: "/the-latest/events/"
   kind: page
   new_tab: false
   children: []

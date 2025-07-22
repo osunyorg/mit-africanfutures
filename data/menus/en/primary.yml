@@ -82,26 +82,26 @@ items:
     path: "/pages/the-latest/afalab-in-the-media"
     file: content/en/pages/the-latest/afalab-in-the-media/_index.html
   - title: News
-    target: "/the-latest/news/news/"
+    target: "/the-latest/news/types/afalab-news/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/news"
-    file: content/en/posts_categories/news/_index.html
+    path: "/posts_categories/types/afalab-news"
+    file: content/en/posts_categories/types/afalab-news/_index.html
   - title: Events
-    target: "/the-latest/events-1/"
+    target: "/the-latest/events/"
     kind: page
     new_tab: false
     children: []
     path: "/events"
     file: content/en/events/_index.html
 - title: Podcast
-  target: "/the-latest/news/podcast/"
+  target: "/the-latest/news/types/podcast/"
   kind: category
   new_tab: false
   children: []
-  path: "/posts_categories/podcast"
-  file: content/en/posts_categories/podcast/_index.html
+  path: "/posts_categories/types/podcast"
+  file: content/en/posts_categories/types/podcast/_index.html
 - title: About us
   target: "/about-us/"
   kind: page

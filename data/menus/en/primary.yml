@@ -75,12 +75,12 @@ items:
   new_tab: false
   children:
   - title: AfaLab in the Media
-    target: "/the-latest/news/afalab-in-the-media/"
-    kind: category
+    target: "/the-latest/afalab-in-the-media/"
+    kind: page
     new_tab: false
     children: []
-    path: "/posts_categories/afalab-in-the-media"
-    file: content/en/posts_categories/afalab-in-the-media/_index.html
+    path: "/pages/the-latest/afalab-in-the-media"
+    file: content/en/pages/the-latest/afalab-in-the-media/_index.html
   - title: News
     target: "/the-latest/news/news/"
     kind: category

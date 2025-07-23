@@ -39,13 +39,6 @@ items:
       children: []
       path: "/pages/research-and-impact/our-programs/climate-justice-and-reparations-1"
       file: content/en/pages/research-and-impact/our-programs/climate-justice-and-reparations-1/_index.html
-    - title: Intersectional approach to reparations
-      target: "/research-and-impact/our-programs/intersectional-reparations/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/research-and-impact/our-programs/intersectional-reparations"
-      file: content/en/pages/research-and-impact/our-programs/intersectional-reparations/_index.html
     path: "/pages/research-and-impact/our-programs"
     file: content/en/pages/research-and-impact/our-programs/_index.html
 - title: Mobilize & Act

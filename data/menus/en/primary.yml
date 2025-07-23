@@ -42,33 +42,26 @@ items:
     path: "/pages/research-and-impact/our-programs"
     file: content/en/pages/research-and-impact/our-programs/_index.html
 - title: Mobilize & Act
-  target: "/mobilization/"
+  target: "/mobilize-and-act/"
   kind: page
   new_tab: false
   children:
   - title: Campaigns
-    target: "/mobilization/campaigns/"
+    target: "/mobilize-and-act/campaigns/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/mobilization/campaigns"
-    file: content/en/pages/mobilization/campaigns/_index.html
-  - title: MobLabs
-    target: "/mobilization/moblabs-1/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/mobilization/moblabs-1"
-    file: content/en/pages/mobilization/moblabs-1/_index.html
+    path: "/pages/mobilize-and-act/campaigns"
+    file: content/en/pages/mobilize-and-act/campaigns/_index.html
   - title: AfaRise
-    target: "/mobilization/afarise/"
+    target: "/mobilize-and-act/afarise/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/mobilization/afarise"
-    file: content/en/pages/mobilization/afarise/_index.html
-  path: "/pages/mobilization"
-  file: content/en/pages/mobilization/_index.html
+    path: "/pages/mobilize-and-act/afarise"
+    file: content/en/pages/mobilize-and-act/afarise/_index.html
+  path: "/pages/mobilize-and-act"
+  file: content/en/pages/mobilize-and-act/_index.html
 - title: The Latest
   target: ''
   kind: blank

@@ -16,12 +16,12 @@ items:
   path: "/pages/research-and-impact"
   file: content/en/pages/research-and-impact/_index.html
 - title: Mobilize & Act
-  target: "/mobilization/"
+  target: "/mobilize-and-act/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/mobilization"
-  file: content/en/pages/mobilization/_index.html
+  path: "/pages/mobilize-and-act"
+  file: content/en/pages/mobilize-and-act/_index.html
 - title: The Latest
   target: "/the-latest/"
   kind: page

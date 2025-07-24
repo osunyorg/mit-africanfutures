@@ -353,13 +353,15 @@ footer#document-footer
             .notes
                 @include h2
 // organizations
-.block-organizations
+.block-organization--grid,
+.organizations.grid
+    .organization
+        .media
+            background: none
+            padding: 0
+.block-organization
     &:not(.block-organizations--map),
     &--grid
-        .organization
-            .media
-                background: none
-                padding: 0
         .page__home &
             .organization-title
                 @extend .sr-only

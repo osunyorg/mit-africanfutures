@@ -6,13 +6,6 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Publications
-    target: "/research-and-impact/publications/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/research-and-impact/publications"
-    file: content/en/pages/research-and-impact/publications/_index.html
   - title: Current Projects
     target: "/research-and-impact/current-projects/"
     kind: page
@@ -48,18 +41,18 @@ items:
       file: content/en/pages/research-and-impact/our-programs/intersectional-reparations/_index.html
     path: "/pages/research-and-impact/our-programs"
     file: content/en/pages/research-and-impact/our-programs/_index.html
+  - title: Publications
+    target: "/research-and-impact/publications/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/research-and-impact/publications"
+    file: content/en/pages/research-and-impact/publications/_index.html
 - title: Mobilize & Act
   target: "/mobilize-and-act/"
   kind: page
   new_tab: false
   children:
-  - title: Campaigns
-    target: "/mobilize-and-act/campaigns/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/mobilize-and-act/campaigns"
-    file: content/en/pages/mobilize-and-act/campaigns/_index.html
   - title: MobLabs
     target: "/mobilize-and-act/moblabs/"
     kind: page
@@ -67,6 +60,13 @@ items:
     children: []
     path: "/pages/mobilize-and-act/moblabs"
     file: content/en/pages/mobilize-and-act/moblabs/_index.html
+  - title: Campaigns
+    target: "/mobilize-and-act/campaigns/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/mobilize-and-act/campaigns"
+    file: content/en/pages/mobilize-and-act/campaigns/_index.html
   - title: AfaRise
     target: "/mobilize-and-act/afarise/"
     kind: page

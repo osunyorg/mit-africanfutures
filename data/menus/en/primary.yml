@@ -53,6 +53,13 @@ items:
     children: []
     path: "/pages/mobilize-and-act/campaigns"
     file: content/en/pages/mobilize-and-act/campaigns/_index.html
+  - title: MobLabs
+    target: "/mobilize-and-act/moblabs/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/mobilize-and-act/moblabs"
+    file: content/en/pages/mobilize-and-act/moblabs/_index.html
   - title: AfaRise
     target: "/mobilize-and-act/afarise/"
     kind: page

@@ -135,20 +135,20 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: How to support us
-    target: "/support-us/how-to-support-us/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/support-us/how-to-support-us"
-    file: content/en/pages/support-us/how-to-support-us/_index.html
   - title: Donate
-    target: "/support-us/donate/"
+    target: "/how-to-support-us/donate/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/support-us/donate"
-    file: content/en/pages/support-us/donate/_index.html
-  path: "/pages/support-us/how-to-support-us"
-  file: content/en/pages/support-us/how-to-support-us/_index.html
+    path: "/pages/how-to-support-us/donate"
+    file: content/en/pages/how-to-support-us/donate/_index.html
+  - title: Subscribe to our newsletter
+    target: "/how-to-support-us/subscribe-to-our-newsletter/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/how-to-support-us/subscribe-to-our-newsletter"
+    file: content/en/pages/how-to-support-us/subscribe-to-our-newsletter/_index.html
+  path: "/pages/how-to-support-us/donate"
+  file: content/en/pages/how-to-support-us/donate/_index.html
 

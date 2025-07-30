@@ -268,13 +268,14 @@ footer#document-footer
                 padding-top: 0
     .call_to_action
         .top
-            .block-title
-                @include media-breakpoint-down(xxl)
-                    font-size: Min(Max(5vw, $h1-size), 58px) !important
-                @include media-breakpoint-down(xl)
-                    font-size: Min(Max(5vw, $h1-size), 50px) !important
-                @include media-breakpoint-down(xl)
-                    font-size: Min(Max(5vw, $h1-size), 40px) !important
+            @include in-page-with-or-without-sidebar
+                .block-title
+                    @include media-breakpoint-down(xxl)
+                        font-size: Min(Max(5vw, $h1-size), 52px) !important
+                    @include media-breakpoint-down(xl)
+                        font-size: Min(Max(5vw, $h1-size), 48px) !important
+                    @include media-breakpoint-down(xl)
+                        font-size: Min(Max(5vw, $h1-size), 44px) !important
             .description
                 margin-top: $spacing-4
                 p

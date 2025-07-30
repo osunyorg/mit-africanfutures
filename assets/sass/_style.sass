@@ -8,7 +8,8 @@ header#document-header
             background-color: $mobilizing-red
             .dropdown-menu
                 background-color: $mobilizing-red
-    .page-podcast &,
+    .page-podcast &,,
+    .ancestor-podcast &,
     .category-podcast &
         &, &.is-sticky, html.has-menu-opened &, 
             background-color: $podcast-orange
@@ -48,6 +49,11 @@ header.hero
             margin-top: 0
     body:not(.page__home) &
         padding-bottom: 0
+    hgroup > p
+        @include media-breakpoint-down(xxl)
+            font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
+        @include media-breakpoint-down(xl)
+            font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(28)) !important
     @include media-breakpoint-up(desktop)
         body:not(.page__event, .page__home) &--with-image
             .hero-text
@@ -263,12 +269,20 @@ footer#document-footer
     .call_to_action
         .top
             .block-title
-                @include h1
+                @include media-breakpoint-down(xxl)
+                    font-size: Min(Max(5vw, $h1-size), 58px) !important
+                @include media-breakpoint-down(xl)
+                    font-size: Min(Max(5vw, $h1-size), 50px) !important
+                @include media-breakpoint-down(xl)
+                    font-size: Min(Max(5vw, $h1-size), 40px) !important
             .description
-                @include lead
-                font-weight: normal
                 margin-top: $spacing-4
                 p
+                    @include lead-hero
+                    @include media-breakpoint-down(xxl)
+                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
+                    @include media-breakpoint-down(xl)
+                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(28)) !important
                     font-weight: normal
         &--with-image
             body.full-width:not(.page__home) &
@@ -316,7 +330,8 @@ footer#document-footer
             --cta-background-color: #{$agenda-yellow}
     // purple in researc
     .page-research &,
-    .ancestor-research &
+    .ancestor-research &,
+    .projects__page &
         &--no_background
             .actions a:first-child
                 --btn-background: #{$investigation-purple}
@@ -429,6 +444,16 @@ footer#document-footer
                     border-color: $agenda-yellow
 
 //agenda
+.events__section
+    .blocks
+        .block:last-child
+            margin-bottom: 0
+            &.block-call_to_action--no_background
+                .block-content
+                    padding-bottom: $spacing-5
+        + .events-programme
+            margin-top: 0
+            padding-top: 0
 .block-agenda--list
     .event--with-image
         .media img
@@ -437,6 +462,13 @@ footer#document-footer
     .event-categories a
         color: $color-accent
 
+// posts
+.posts__section .posts--grid, .posts_categories__term .posts--grid, .persons__page .posts--grid, .administrators__term .posts--grid, .authors__term .posts--grid, .researchers__term .posts--grid, .teachers__term .posts--grid
+    @include grid($posts-grid-columns, desktop)
+.post 
+    .media picture
+        img
+            aspect-ratio: 1
 //pages
 .block-pages,
 .block-posts

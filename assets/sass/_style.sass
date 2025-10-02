@@ -140,7 +140,6 @@ footer#document-footer
             background-color: var(--color-accent)
             color: var(--color-background)
         @include media-breakpoint-up(desktop)
-            .hero-text,
             figure
                 width: columns(6)
                 max-height: pxToRem(576)
@@ -163,6 +162,8 @@ footer#document-footer
                 > p:not(:first-of-type)
                     @include h3
                     font-weight: normal
+                a
+                    color: inherit
         @include media-breakpoint-down(desktop)
             &--image
                 &-portrait:where(:not(.has-breadcrumb-hero-end)), 

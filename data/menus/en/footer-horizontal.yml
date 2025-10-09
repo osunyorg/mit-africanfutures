@@ -30,7 +30,7 @@ items:
   path: "/pages/the-latest"
   file: content/en/pages/the-latest/_index.html
 - title: Podcast
-  target: "/the-latest/news/types/podcast/"
+  target: "/the-latest/types/podcast/"
   kind: category
   new_tab: false
   children: []

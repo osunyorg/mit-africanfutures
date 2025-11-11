@@ -8,6 +8,7 @@ header#document-header
             background-color: $mobilizing-red
             .dropdown-menu
                 background-color: $mobilizing-red
+    
     .page-podcast &,,
     .ancestor-podcast &,
     .category-podcast &
@@ -21,6 +22,7 @@ header#document-header
                 span, a, button
                     &, &:focus, &:hover
                         color: var(--color-text)
+    
     .events__section &,
     .events__page &,
     .events_categories__term &
@@ -36,12 +38,17 @@ header#document-header
                 span, a, button
                     &, &:focus, &:hover
                         color: var(--color-text)
+    
     .page-research &,
     .ancestor-research &
         &, html.has-menu-opened &, 
             background-color: $investigation-purple
             .dropdown-menu
                 background-color: $investigation-purple
+
+    @include media-breakpoint-down(md)
+        .menu .nav-level-1 > li:not(:last-child) 
+            border-bottom: var(--border-width) solid alphaColor(var(--color-background), 0.3)
 // hero
 header.hero
     .content
@@ -164,6 +171,9 @@ footer#document-footer
                     font-weight: normal
                 a
                     color: inherit
+        --btn-color: var(--color-background)
+        --btn-border: 1px solid #{alphaColor(var(--color-background), 0.3)}
+        
         @include media-breakpoint-down(desktop)
             &--image
                 &-portrait:where(:not(.has-breadcrumb-hero-end)), 
@@ -171,6 +181,7 @@ footer#document-footer
                     margin-bottom: $spacing-3
                     figure
                         margin-bottom: 0
+                        
     .block-call_to_action--accent_background:not(.block-class-cta-mobilization, :first-child)
         .actions
             a:first-child

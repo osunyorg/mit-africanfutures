@@ -61,6 +61,7 @@ header.hero
             font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
         @include media-breakpoint-down(xl)
             font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(28)) !important
+    
     @include media-breakpoint-up(desktop)
         body:not(.page__event, .page__home) &--with-image
             .hero-text
@@ -85,6 +86,7 @@ footer#document-footer
                 margin-top: space()
             @include media-breakpoint-up(desktop)
                 text-align: right
+    
     .footer-logo
         figure
             align-items: center
@@ -93,6 +95,7 @@ footer#document-footer
             @include media-breakpoint-up(desktop)
                 figcaption
                     max-width: 20ch
+    
     .search-button
         align-items: baseline
 
@@ -109,13 +112,16 @@ footer#document-footer
             text-decoration: none
             &:hover
                 @include link(var(--color-accent))
+    
     body[class*="__section"] main.page-with-blocks &,
     body[class*="_categories__term"] main.page-with-blocks &,
     body[class*="__section"] &
         margin-bottom: -$spacing-4
+    
     body[class*="__page"] main.page-with-blocks &,
     .page__home &
         margin-bottom: $spacing-2
+
     .events__section &
         margin-top: $spacing-4
 
@@ -126,6 +132,7 @@ footer#document-footer
 .events
     [class*="-subtitle"]
         color: var(--color-accent)
+
 .posts__page,
 .events__page,
 .projects__page
@@ -140,12 +147,16 @@ footer#document-footer
             &, &.active
                 span, a, &::before
                     color: var(--color-background)
+    
     .hero
+        --btn-color: var(--color-background)
+        --btn-border: 1px solid #{alphaColor(var(--color-background), 0.3)}
         &, 
         figure figcaption .credit,
         figure figcaption::before
             background-color: var(--color-accent)
             color: var(--color-background)
+        
         @include media-breakpoint-up(desktop)
             figure
                 width: columns(6)
@@ -155,6 +166,7 @@ footer#document-footer
                     width: columns(5)
                 @include media-breakpoint-up(xxl)
                     width: columns(4)
+
         .hero-text
             hgroup 
                 > p:first-of-type
@@ -171,8 +183,6 @@ footer#document-footer
                     font-weight: normal
                 a
                     color: inherit
-        --btn-color: var(--color-background)
-        --btn-border: 1px solid #{alphaColor(var(--color-background), 0.3)}
         
         @include media-breakpoint-down(desktop)
             &--image
@@ -191,11 +201,13 @@ footer#document-footer
                 --btn-background: var(--color-accent)
                 --btn-border: 1px solid var(--color-accent)
                 --btn-color: var(--color-background)
+    
     &.full-width
         .block-call_to_action--accent_background + .block-call_to_action--accent_background,
         .block-call_to_action--accent_background + .block-chapter--alt_background,
         .block-chapter--alt_background + .block-call_to_action--accent_background
             margin-top: 0
+    
     .block-class-cta-mobilization
         .call_to_action .top
             .block-title
@@ -280,6 +292,16 @@ footer#document-footer
                 padding-top: 0
     .call_to_action
         .top
+            .description
+                margin-top: $spacing-4
+                p
+                    @include lead-hero
+                    @include media-breakpoint-down(xxl)
+                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
+                    @include media-breakpoint-down(xl)
+                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(28)) !important
+                    font-weight: normal
+            
             @include in-page-with-or-without-sidebar
                 .block-title
                     @include media-breakpoint-up(xxl)
@@ -290,21 +312,14 @@ footer#document-footer
                         font-size: Min(Max(5vw, $h1-size), 48px) !important
                     @include media-breakpoint-down(xl)
                         font-size: Min(Max(5vw, $h1-size), 44px) !important
-            .description
-                margin-top: $spacing-4
-                p
-                    @include lead-hero
-                    @include media-breakpoint-down(xxl)
-                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
-                    @include media-breakpoint-down(xl)
-                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(28)) !important
-                    font-weight: normal
+        
         &--with-image
             body.full-width:not(.page__home) &
                 figure
                     grid-column: 10/13
                     button, img
                         width: 100%
+    
     &--no_background
         .actions
             a:not(:first-child)
@@ -315,20 +330,24 @@ footer#document-footer
                 --btn-hover-border: none
                 --btn-hover-color: var(--btn-color)
                 @include link
+        
         @include in-page-with-sidebar
             .call_to_action--with-image
                 flex-direction: column
                 figure
                     margin-left: 0
                     order: -1
+    
     .page__home &:not(.block-class-cta-mobilization)
         .description
             @include lead-hero
+    
     &.block-class-cta-mobilization,
     .page-mobilization &,
     .ancestor-mobilization &,
     .category-campaigns &
         --cta-background-color: #{$mobilizing-red}
+    
     // yellow in events
     .events__section &,
     .events__page &,
@@ -339,10 +358,12 @@ footer#document-footer
                 --btn-background: #{$agenda-yellow}
                 --btn-color: var(--color-text)
                 --btn-border: 1px solid #{$agenda-yellow}
+    
     .events__section &,
     .events__page &
         &--accent_background
             --cta-background-color: #{$agenda-yellow}
+    
     // purple in researc
     .page-research &,
     .ancestor-research &,
@@ -366,6 +387,7 @@ footer#document-footer
                     --btn-background: var(--color-accent)
                     --btn-border: 1px solid var(--color-accent)
                     --btn-color: var(--color-background)
+    
     // orange in podcast
     .page-podcast &,
     .ancestor-podcast &
@@ -376,12 +398,14 @@ footer#document-footer
     .ancestor-podcast &
         &--accent_background
             --cta-background-color: #{$podcast-orange}
+
 // chapter
 .block-chapter
     &--alt_background
         .page__home &
             .notes
                 @include h2
+
 // organizations
 .block-organization--grid,
 .organizations.grid
@@ -389,12 +413,14 @@ footer#document-footer
         .media
             background: none
             padding: 0
+
 .block-organization
     &:not(.block-organizations--map),
     &--grid
         .page__home &
             .organization-title
                 @extend .sr-only
+        
         @include in-page-without-sidebar
             .organizations
                 @include grid(4, desktop)
@@ -404,6 +430,7 @@ footer#document-footer
                 @include media-breakpoint-up(desktop)
                     .organization
                         width: columns(2)
+    
     &--map
         .projects__section &
             .map
@@ -431,15 +458,19 @@ footer#document-footer
                         padding: $spacing-1 $spacing-2
                     .logo
                         order: -2
+                
                 @include media-breakpoint-up(desktop)
                     .leaflet-popup
                         margin-bottom: $spacing-3
+
                     @include media-breakpoint-down(xxl)
                         .leaflet-popup-content-wrapper
                             width: columns(3)
+            
             address > *:not([itemprop="addressCountry"])
                 display: none
-    //files
+
+//files
 .block-files
     .files 
         li
@@ -469,6 +500,7 @@ footer#document-footer
         + .events-programme
             margin-top: 0
             padding-top: 0
+
 .block-agenda--list
     .event--with-image
         .media img
@@ -480,6 +512,7 @@ footer#document-footer
 // posts
 .posts__section .posts--grid, .posts_categories__term .posts--grid, .persons__page .posts--grid, .administrators__term .posts--grid, .authors__term .posts--grid, .researchers__term .posts--grid, .teachers__term .posts--grid
     @include grid($posts-grid-columns, desktop)
+
 .post 
     .media picture
         img
@@ -491,6 +524,7 @@ footer#document-footer
         article
             .media img
                 aspect-ratio: 1 !important
+    
     &--large
         .large
             .page,

@@ -27,19 +27,21 @@ header.hero
 
 // footer
 footer#document-footer
-    .container:first-child
-        gap: var(--grid-gutter)
-        .footer-address
-            flex: 1
-            p:first-of-type
-                @include h3
-            p:not(:first-of-type)
-                @include signature
-            p + p 
-                margin-top: space()
-            @include media-breakpoint-up(desktop)
-                text-align: right
-    
+    .container
+        &:first-child
+            gap: var(--grid-gutter)
+            .footer-address
+                flex: 1
+                p:first-of-type
+                    @include h3
+                p:not(:first-of-type)
+                    @include signature
+                p + p 
+                    margin-top: space()
+                @include media-breakpoint-up(desktop)
+                    text-align: right
+        &:last-child
+            padding-bottom: 0
     .footer-logo
         figure
             align-items: center

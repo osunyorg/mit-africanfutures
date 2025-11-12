@@ -19,12 +19,14 @@
         @include in-page-with-or-without-sidebar
             .block-content
                 padding-top: 0
+    
     .call_to_action
         .top
             .description
                 margin-top: $spacing-4
                 p
                     @include lead-hero
+                    
                     @include media-breakpoint-down(xxl)
                         font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
                     @include media-breakpoint-down(xl)

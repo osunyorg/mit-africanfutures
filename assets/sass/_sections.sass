@@ -1,0 +1,43 @@
+// SECTIONS
+
+.events
+    .event--with-image
+        .media img
+            aspect-ratio: 1
+            object-fit: cover
+
+.posts--list
+    .media img
+        aspect-ratio: 1 !important
+
+.block-pages--grid
+    .media
+        picture.is-png
+            background-color: $light-purple
+            padding: $spacing-3
+
+.organizations__page
+    &.category-projects_organizations
+        .document-content > .container:first-child
+            display: none
+        .backlinks
+            .block:first-child
+                margin-top: 0
+            .block-projects
+                .block-title
+                    display: none
+        .blocks
+            .block:first-child.block-title
+                h2
+                    @include h5
+                    text-transform: uppercase
+                @include media-breakpoint-up(desktop)
+                    margin-top: $spacing-6
+                    padding-top: $spacing-4
+            + .backlinks
+                margin-top: 0
+
+.projects__page
+    .block:first-child
+        &.block-organizations
+            display: none

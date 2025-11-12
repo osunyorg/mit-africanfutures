@@ -1,0 +1,51 @@
+// SYSTEM
+// header's colors
+header#document-header
+    .page-mobilization &,
+    .ancestor-mobilization &,
+    .category-campaigns &
+        &, html.has-menu-opened &, 
+            background-color: $mobilizing-red
+            .dropdown-menu
+                background-color: $mobilizing-red
+    
+    .page-podcast &,,
+    .ancestor-podcast &,
+    .category-podcast &
+        &, &.is-sticky, html.has-menu-opened &, 
+            background-color: $podcast-orange
+            span, a, button
+                &, &:focus, &:hover
+                    color: var(--color-text)
+            .dropdown-menu
+                background-color: $podcast-orange
+                span, a, button
+                    &, &:focus, &:hover
+                        color: var(--color-text)
+    
+    .events__section &,
+    .events__page &,
+    .events_categories__term &
+        .logo
+            filter: invert(1)
+        &, &.is-sticky, html.has-menu-opened &, 
+            background-color: $agenda-yellow
+            span, a, button
+                &, &:focus, &:hover
+                    color: var(--color-text)
+            .dropdown-menu
+                background-color: $agenda-yellow
+                span, a, button
+                    &, &:focus, &:hover
+                        color: var(--color-text)
+    
+    .page-research &,
+    .ancestor-research &
+        &, html.has-menu-opened &, 
+            background-color: $investigation-purple
+            .dropdown-menu
+                background-color: $investigation-purple
+
+    @include media-breakpoint-down(md)
+        .menu .nav-level-1 > li:not(:last-child) 
+            border-bottom: var(--border-width) solid alphaColor(var(--color-background), 0.3)

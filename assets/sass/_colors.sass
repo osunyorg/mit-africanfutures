@@ -97,6 +97,17 @@ header#document-header
             --cta-background-color: #{$investigation-purple}
             .call_to_action
                 color: var(--color-background)
+    // orange: podcast
+    .page-podcast &,
+    .ancestor-podcast &
+        &--no_background
+            .actions a:first-child
+                background: #{$podcast-orange}
+    
+    .page-podcast &,
+    .ancestor-podcast &
+        &--accent_background
+            --cta-background-color: #{$podcast-orange}
     
     // light purple background and deep blue text for 'about' section
     .page-about &,
@@ -109,15 +120,3 @@ header#document-header
                     --btn-background: var(--color-accent)
                     --btn-border: 1px solid var(--color-accent)
                     --btn-color: var(--color-background)
-    
-    // orange in podcast
-    .page-podcast &,
-    .ancestor-podcast &
-        &--no_background
-            .actions a:first-child
-                background: #{$podcast-orange}
-    
-    .page-podcast &,
-    .ancestor-podcast &
-        &--accent_background
-            --cta-background-color: #{$podcast-orange}

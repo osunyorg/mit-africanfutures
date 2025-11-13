@@ -2,15 +2,6 @@
 // HOME
 .page__home
     .hero
-        --color-text: var(--color-background)
-        --btn-color: var(--color-text)
-        --btn-border: 1px solid #{alphaColor(var(--btn-color), 0.3)}
-
-        &, 
-        figure figcaption .credit,
-        figure figcaption::before
-            background-color: var(--color-accent)
-
         .hero-text
             hgroup 
                 > p:first-of-type
@@ -47,36 +38,19 @@
                     figure
                         margin-bottom: 0
                         
-    .block-call_to_action--accent_background:not(.block-class-cta-mobilization, :first-child)
-        .actions
-            a:first-child
-                --btn-background: #{$agenda-yellow}
-                --btn-border: 1px solid #{$agenda-yellow}
-            a:nth-child(2)
-                --btn-background: var(--color-accent)
-                --btn-border: 1px solid var(--color-accent)
+    .block-call_to_action
+        figure img
+            aspect-ratio: 1
+            object-fit: cover
+    
+    .blocks .block:first-child
+        &.block-call_to_action--accent_background
+            @include media-breakpoint-up(desktop)
+                margin-top: -($spacing-5)
     
     &.full-width
         .block-call_to_action--accent_background + .block-call_to_action--accent_background,
         .block-call_to_action--accent_background + .block-chapter--alt_background,
         .block-chapter--alt_background + .block-call_to_action--accent_background
             margin-top: 0
-    
-    .block-class-cta-mobilization
-        .call_to_action .top
-            .block-title
-                @include h5
-                text-transform: uppercase
-    .blocks .block:first-child
-        &.block-call_to_action--accent_background
-            --cta-background-color: #{$light-purple}
-            margin-top: -($spacing-3)
-            .call_to_action
-                color: var(--color-accent)
-                .actions a
-                    --btn-background: var(--color-accent)
-                    --btn-border: 1px solid var(--color-accent)
-                    // --btn-color: var(--color-background)
-            @include media-breakpoint-up(desktop)
-                margin-top: -($spacing-5)
             

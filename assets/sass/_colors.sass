@@ -54,7 +54,77 @@ header#document-header
             border-bottom: var(--border-width) solid alphaColor(var(--color-background), 0.3)
 
 
-// call to action block
+// hero
+@mixin hero-colors($background: transparent, $color: $color-background)
+    .hero
+        --color-background: #{$background}
+        &,
+        figure figcaption .credit,
+        figure figcaption::before
+            --color-text: #{$color}
+            --btn-color: var(--color-text)
+            --btn-border: 1px solid #{alphaColor(var(--btn-color), 0.3)}
+
+.page-background_blue,
+.page__home
+    @include hero-colors($color-accent, $color-background)
+
+.page-background_green
+    @include hero-colors($climate-green, $color-background)
+
+.page-background_red
+    @include hero-colors($mobilizing-red, $color-background)
+
+.page-background_yellow
+    @include hero-colors($agenda-yellow, $color-accent)
+
+.page-background_orange
+    @include hero-colors($podcast-orange, $color-text)
+
+.page-background_purple
+    @include hero-colors($light-purple, $color-accent)
+
+
+
+@mixin block-colors($background: $color-accent, $color: $color-background)
+    --cta-background-color: #{$background}
+    --color-text: #{$color}
+    background-color: var(--cta-background-color)
+    .rich-text,
+    .notes
+        color: var(--color-text)
+
+@mixin button-colors($btn-background: $color-background, $btn-color: $color-text, $btn-hover-color: $color-background)
+    --color-background: #{$btn-background}
+    --btn-color: #{$btn-color}
+    --btn-hover-color: #{$btn-hover-color}
+
+
+// blocks with classes for colors
+.block[class*="block-class-background"]
+    .actions a
+        --btn-color: #{$color-text}
+
+.block.block-class-background_green
+    @include block-colors($climate-green, var(--color-background))
+    .actions a:first-child
+        @include button-colors($agenda-yellow, var(--color-accent))
+
+.block.block-class-background_red
+    @include block-colors($mobilizing-red, var(--color-background))
+
+.block.block-class-background_yellow
+    @include block-colors($agenda-yellow, var(--color-accent))
+    .actions a:first-child
+        @include button-colors(var(--color-accent),$color-background, var(--btn-color))
+
+.block.block-class-background_purple
+    @include block-colors($light-purple, var(--color-accent))
+    .actions a
+        @include button-colors(var(--color-accent), $color-background, var(--btn-color))
+
+.block.block-class-background_orange
+    @include block-colors($podcast-orange, $color-text)
 
 // call to action
 .block-call_to_action
@@ -108,15 +178,3 @@ header#document-header
     .ancestor-podcast &
         &--accent_background
             --cta-background-color: #{$podcast-orange}
-    
-    // light purple background and deep blue text for 'about' section
-    .page-about &,
-    .ancestor-about &
-        &--accent_background
-            --cta-background-color: #{$light-purple}
-            .call_to_action
-                color: var(--color-accent)
-                .actions a
-                    --btn-background: var(--color-accent)
-                    --btn-border: 1px solid var(--color-accent)
-                    --btn-color: var(--color-background)

@@ -25,12 +25,6 @@
             .description
                 margin-top: $spacing-4
                 p
-                    @include lead-hero
-                    
-                    @include media-breakpoint-down(xxl)
-                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
-                    @include media-breakpoint-down(xl)
-                        font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(28)) !important
                     font-weight: normal
             
             @include in-page-with-or-without-sidebar
@@ -51,7 +45,18 @@
                     button, img
                         width: 100%
     
+    &--accent_background
+        .top .description p
+            @include lead-hero
+            @include media-breakpoint-down(xxl)
+                font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(34)) !important
+            @include media-breakpoint-down(xl)
+                font-size: Min(Max(5vw, $lead-sidebar-size), pxToRem(28)) !important
+    
     &--no_background
+        .top .description p
+            @include h3
+        
         .actions
             a:not(:first-child)
                 --btn-background: var(--color-background)
@@ -62,6 +67,12 @@
                 --btn-hover-color: var(--btn-color)
                 @include link
         
+        @include in-page-without-sidebar
+            .call_to_action--with-image
+                > div 
+                    grid-column: 1 / 8
+                figure
+                    grid-column: 8/13
         @include in-page-with-sidebar
             .call_to_action--with-image
                 flex-direction: column

@@ -5,7 +5,7 @@ header.hero
             .hero-text
                 margin-top: 0
 
-    body:not(.page__home) &
+    body:not(.page__home, [class*="page-"]) &
         padding-bottom: 0
     
     hgroup > p
@@ -24,20 +24,6 @@ header.hero
                     max-height: 50vh
                     width: auto
                     margin-left: auto
-
-
-// add space at top when hero is colored
-.page-blue,
-.page__home,
-.page-green,
-.page-red,
-.page-yellow,
-.page-orange,
-.page-purple
-    @include media-breakpoint-down(desktop)
-        .hero
-            > .container
-                padding-top: var(--grid-gutter)
 
 // footer
 footer#document-footer

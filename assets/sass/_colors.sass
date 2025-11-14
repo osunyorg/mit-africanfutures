@@ -58,6 +58,10 @@ header#document-header
 @mixin hero-colors($background: transparent, $color: $color-background)
     .hero
         --color-background: #{$background}
+        
+        .breadcrumb-nav
+            --color-text-alt: #{alphaColor($color, 0.8)}
+            --color-border: #{alphaColor($color, 0.5)}
         &,
         figure figcaption .credit,
         figure figcaption::before

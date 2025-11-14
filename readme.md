@@ -19,5 +19,5 @@ Pour ajouter un fond de couleur à la bannière en haut de page (fond blanc par 
 Pour ajouter un fond de couleur à un de ces deux blocs, il faut 2 choses :
 
 - Utiliser la mise en forme "forte mise en avant";
-- Cliquer sur le rouage tout en bas à gauche et ajouter la couleur ci-dessus dans le champ "classe spécifique".
+- Cliquer sur "Réglages avancés" (le rouage) tout en bas à gauche et ajouter la couleur ci-dessus dans le champ "classe spécifique".
 

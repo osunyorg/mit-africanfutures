@@ -65,23 +65,23 @@ header#document-header
             --btn-color: var(--color-text)
             --btn-border: 1px solid #{alphaColor(var(--btn-color), 0.3)}
 
-.page-background_blue,
+.page-blue,
 .page__home
     @include hero-colors($color-accent, $color-background)
 
-.page-background_green
+.page-green
     @include hero-colors($climate-green, $color-background)
 
-.page-background_red
+.page-red
     @include hero-colors($mobilizing-red, $color-background)
 
-.page-background_yellow
+.page-yellow
     @include hero-colors($agenda-yellow, $color-accent)
 
-.page-background_orange
+.page-orange
     @include hero-colors($podcast-orange, $color-text)
 
-.page-background_purple
+.page-purple
     @include hero-colors($light-purple, $color-accent)
 
 
@@ -101,29 +101,27 @@ header#document-header
 
 
 // blocks with classes for colors
-.block[class*="block-class-background"]
-    .actions a
-        --btn-color: #{$color-text}
-
-.block.block-class-background_green
+.block.block-class-green
     @include block-colors($climate-green, var(--color-background))
     .actions a:first-child
         @include button-colors($agenda-yellow, var(--color-accent))
 
-.block.block-class-background_red
+.block.block-class-red
     @include block-colors($mobilizing-red, var(--color-background))
+    .actions a
+        @include button-colors
 
-.block.block-class-background_yellow
+.block.block-class-yellow
     @include block-colors($agenda-yellow, var(--color-accent))
     .actions a:first-child
         @include button-colors(var(--color-accent),$color-background, var(--btn-color))
 
-.block.block-class-background_purple
+.block.block-class-purple
     @include block-colors($light-purple, var(--color-accent))
     .actions a
         @include button-colors(var(--color-accent), $color-background, var(--btn-color))
 
-.block.block-class-background_orange
+.block.block-class-orange
     @include block-colors($podcast-orange, $color-text)
 
 // call to action

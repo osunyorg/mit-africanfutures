@@ -25,6 +25,20 @@ header.hero
                     width: auto
                     margin-left: auto
 
+
+// add space at top when hero is colored
+.page-blue,
+.page__home,
+.page-green,
+.page-red,
+.page-yellow,
+.page-orange,
+.page-purple
+    @include media-breakpoint-down(desktop)
+        .hero
+            > .container
+                padding-top: var(--grid-gutter)
+
 // footer
 footer#document-footer
     .container

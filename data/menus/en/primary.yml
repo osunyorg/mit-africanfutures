@@ -68,12 +68,12 @@ items:
     path: "/pages/the-latest/afalab-in-the-media"
     file: content/en/pages/the-latest/afalab-in-the-media/_index.html
   - title: News
-    target: "/the-latest/afalab-news/"
+    target: "/afalab-news/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/the-latest/afalab-news"
-    file: content/en/pages/the-latest/afalab-news/_index.html
+    path: "/pages/afalab-news"
+    file: content/en/pages/afalab-news/_index.html
   - title: Events
     target: "/the-latest/events/"
     kind: page

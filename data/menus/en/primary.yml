@@ -1,6 +1,13 @@
 ---
 title: Primary
 items:
+- title: Job Offers
+  target: "/job-offers/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/jobs"
+  file: content/en/jobs/_index.html
 - title: Research & Impact
   target: ''
   kind: blank

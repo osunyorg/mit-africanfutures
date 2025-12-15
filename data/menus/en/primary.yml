@@ -94,7 +94,7 @@ items:
   new_tab: false
   children:
   - title: Join Our Team
-    target: "/"
+    target: "/about-us/job-offers/"
     kind: page
     new_tab: false
     children: []

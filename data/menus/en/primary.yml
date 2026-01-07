@@ -46,13 +46,6 @@ items:
     children: []
     path: "/pages/mobilize-and-act/campaigns"
     file: content/en/pages/mobilize-and-act/campaigns/_index.html
-  - title: AfaRise
-    target: "/mobilize-and-act/afarise/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/mobilize-and-act/afarise"
-    file: content/en/pages/mobilize-and-act/afarise/_index.html
   path: "/pages/mobilize-and-act"
   file: content/en/pages/mobilize-and-act/_index.html
 - title: The Latest

@@ -107,13 +107,6 @@ items:
     children: []
     path: "/pages/about-us/annual-reports"
     file: content/en/pages/about-us/annual-reports/_index.html
-  - title: AfaRise Fellows
-    target: "/about-us/afarise-fellows/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about-us/afarise-fellows"
-    file: content/en/pages/about-us/afarise-fellows/_index.html
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
 - title: Support us

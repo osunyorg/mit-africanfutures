@@ -2,52 +2,66 @@
 title: Footer (horizontal)
 items:
 - title: Home
+  slug: home
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/"
   file: content/en/_index.html
 - title: Research & Impact
+  slug: research-impact
   target: "/research-and-impact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/research-and-impact"
   file: content/en/pages/research-and-impact/_index.html
 - title: Mobilize & Act
+  slug: mobilize-act
   target: "/mobilize-and-act/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mobilize-and-act"
   file: content/en/pages/mobilize-and-act/_index.html
 - title: The Latest
+  slug: the-latest
   target: "/the-latest/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/the-latest"
   file: content/en/pages/the-latest/_index.html
 - title: Podcast
+  slug: podcast
   target: "/the-latest/types/podcast/"
   kind: category
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts_categories/types/podcast"
   file: content/en/posts_categories/types/podcast/_index.html
 - title: About us
+  slug: about-us
   target: "/about-us/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
 - title: Support us
+  slug: support-us
   target: "/how-to-support-us/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/how-to-support-us"
   file: content/en/pages/how-to-support-us/_index.html
 

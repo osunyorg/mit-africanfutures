@@ -24,18 +24,9 @@ params:
       layout: list
   menu:
     primary:
-      level_1:
-        summary:
-          active: false
-          source: "Summary" # "Summary" | "meta_description"
-          truncate: 125
       level_2:
-        summary:
-          active: false
-          source: "Summary" # "Summary" | "meta_description"
-          truncate: 125
         title:
-          active: false
+          active: true
           summary:
             active: false
             source: "Summary" # "Summary" | "meta_description"

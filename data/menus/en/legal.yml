@@ -2,24 +2,30 @@
 title: Legal
 items:
 - title: Legals mentions
+  slug: legals-mentions
   target: "/legals-mentions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/legals-mentions"
   file: content/en/pages/legals-mentions/_index.html
 - title: Sitemap
+  slug: sitemap
   target: "/sitemap/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/sitemap"
   file: content/en/pages/sitemap/_index.html
 - title: Privacy policy
+  slug: privacy-policy
   target: "/privacy-policy/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/privacy-policy"
   file: content/en/pages/privacy-policy/_index.html
 

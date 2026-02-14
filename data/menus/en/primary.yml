@@ -2,132 +2,183 @@
 title: Primary
 items:
 - title: Research & Impact
+  slug: research-impact
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Current Projects
+    slug: current-projects
     target: "/research-and-impact/current-projects/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/projects"
     file: content/en/projects/_index.html
   - title: Our programs
+    slug: our-programs
     target: "/research-and-impact/our-programs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/research-and-impact/our-programs"
     file: content/en/pages/research-and-impact/our-programs/_index.html
   - title: Publications
+    slug: publications
     target: "/research-and-impact/publications/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/research-and-impact/publications"
     file: content/en/pages/research-and-impact/publications/_index.html
+  descendants_targets:
+  - "/research-and-impact/current-projects/"
+  - "/research-and-impact/our-programs/"
+  - "/research-and-impact/publications/"
 - title: Mobilize & Act
+  slug: mobilize-act
   target: "/mobilize-and-act/"
   kind: page
   new_tab: false
   children:
   - title: MobLabs
+    slug: moblabs
     target: "/mobilize-and-act/moblabs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mobilize-and-act/moblabs"
     file: content/en/pages/mobilize-and-act/moblabs/_index.html
   - title: Campaigns
+    slug: campaigns
     target: "/mobilize-and-act/campaigns/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mobilize-and-act/campaigns"
     file: content/en/pages/mobilize-and-act/campaigns/_index.html
+  descendants_targets:
+  - "/mobilize-and-act/campaigns/"
+  - "/mobilize-and-act/moblabs/"
   path: "/pages/mobilize-and-act"
   file: content/en/pages/mobilize-and-act/_index.html
 - title: The Latest
+  slug: the-latest
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: AfaLab in the Media
+    slug: afalab-in-the-media
     target: "/the-latest/afalab-in-the-media/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/the-latest/afalab-in-the-media"
     file: content/en/pages/the-latest/afalab-in-the-media/_index.html
   - title: News
+    slug: news
     target: "/afalab-news/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/afalab-news"
     file: content/en/pages/afalab-news/_index.html
   - title: Events
+    slug: events
     target: "/the-latest/events/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/events"
     file: content/en/events/_index.html
+  descendants_targets:
+  - "/afalab-news/"
+  - "/the-latest/afalab-in-the-media/"
+  - "/the-latest/events/"
 - title: Podcast
+  slug: podcast
   target: "/podcasts/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/podcasts"
   file: content/en/pages/podcasts/_index.html
 - title: About us
+  slug: about-us
   target: "/about-us/"
   kind: page
   new_tab: false
   children:
   - title: How the Lab came to be
+    slug: how-the-lab-came-to-be
     target: "/about-us/how-the-lab-came-to-be/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about-us/how-the-lab-came-to-be"
     file: content/en/pages/about-us/how-the-lab-came-to-be/_index.html
   - title: Meet the team
+    slug: meet-the-team
     target: "/about-us/afalab-team/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about-us/afalab-team"
     file: content/en/pages/about-us/afalab-team/_index.html
   - title: Annual reports
+    slug: annual-reports
     target: "/about-us/annual-reports/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about-us/annual-reports"
     file: content/en/pages/about-us/annual-reports/_index.html
+  descendants_targets:
+  - "/about-us/afalab-team/"
+  - "/about-us/annual-reports/"
+  - "/about-us/how-the-lab-came-to-be/"
   path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
 - title: Support us
+  slug: support-us
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Donate
+    slug: donate
     target: "/how-to-support-us/donate/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/how-to-support-us/donate"
     file: content/en/pages/how-to-support-us/donate/_index.html
   - title: Subscribe to our newsletter
+    slug: subscribe-to-our-newsletter
     target: "/how-to-support-us/subscribe-to-our-newsletter/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/how-to-support-us/subscribe-to-our-newsletter"
     file: content/en/pages/how-to-support-us/subscribe-to-our-newsletter/_index.html
+  descendants_targets:
+  - "/how-to-support-us/donate/"
+  - "/how-to-support-us/subscribe-to-our-newsletter/"
   path: "/pages/how-to-support-us/donate"
   file: content/en/pages/how-to-support-us/donate/_index.html
 

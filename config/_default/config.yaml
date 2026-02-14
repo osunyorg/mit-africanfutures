@@ -21,4 +21,22 @@ params:
       layout: list
   posts:
     index:
-      layout: grid
+      layout: list
+  menu:
+    primary:
+      level_1:
+        summary:
+          active: false
+          source: "Summary" # "Summary" | "meta_description"
+          truncate: 125
+      level_2:
+        summary:
+          active: false
+          source: "Summary" # "Summary" | "meta_description"
+          truncate: 125
+        title:
+          active: false
+          summary:
+            active: false
+            source: "Summary" # "Summary" | "meta_description"
+            truncate: 125

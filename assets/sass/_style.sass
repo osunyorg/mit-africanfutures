@@ -1,0 +1,65 @@
+.hero
+    .content
+        h1
+            > span
+                color: $color-background
+                font-weight: normal
+                // opacity: 0.8
+        figure
+            @include media-breakpoint-up(desktop)
+                figcaption
+                    color: $color-background
+                    .credit
+                        color: $color-background !important
+.page__home
+    @include media-breakpoint-up(desktop)
+        .hero
+            .content
+                figure
+                    order: -1
+                    margin-left: pxToRem(-100)
+                    figcaption
+                        // position: absolute
+                        // top: pxToRem(-200)
+                        // right: pxToRem(0)
+                        // transform: rotate(90deg)
+                        // transform-origin: left
+                        .credit
+                            display: block !important
+
+.footer-menu
+    padding-bottom: $spacing-2
+    padding-top: $spacing-4
+    ul
+        @include list-reset
+        display: flex
+        flex-wrap: wrap
+        gap: $spacing-1 $spacing-3
+        span, a
+            @include meta
+            color: var(--color-accent)
+            text-decoration: none
+            &:hover
+                @include link(var(--color-accent))
+    
+footer#document-footer
+    .container
+        &:first-child
+            gap: var(--grid-gutter)
+            .footer-address
+                flex: 1
+                p:first-of-type
+                    @include h3
+                p:not(:first-of-type)
+                    @include signature
+                p + p 
+                    margin-top: space()
+                @include media-breakpoint-up(desktop)
+                    text-align: right
+        &:last-child
+            padding-bottom: 0
+    .footer-logo
+        figure
+            figcaption
+                margin-top: $spacing-3
+                max-width: pxToRem(350)

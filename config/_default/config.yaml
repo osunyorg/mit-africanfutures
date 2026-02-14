@@ -4,11 +4,10 @@ params:
   plausible: afalab.org
   logo:
     footer: "/assets/images/logo.svg"
-  # menu:
-  #   primary:
-  #     level_2:
-  #       title:
-  #         active: true
+  breadcrumb:
+    position: after-hero
+  summary:
+    position: content
   search: 
     active: true
     positions:

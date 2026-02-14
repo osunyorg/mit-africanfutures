@@ -1,0 +1,73 @@
+.hero
+    .content
+        h1
+            > span
+                color: $color-background
+                font-weight: normal
+        figure
+            @include media-breakpoint-up(desktop)
+                figcaption
+                    color: $color-background
+                    .credit
+                        color: $color-background !important
+.page__home
+    @include media-breakpoint-up(desktop)
+        .hero
+            background-color: $color-accent
+            color: $color-background
+            padding-bottom: 0
+            .content
+                padding-top: 0
+                align-items: center
+                figure
+                    width: columns(5)
+                    order: -1
+                    figcaption
+                        margin-top: pxToRem(-50)
+                        text-align: left
+                        display: inline-table
+                        .credit
+                            display: block !important
+.organization
+    .media
+        background: none
+        padding: 0
+.block-summary
+    .lead
+        color: $color-accent
+.footer-menu
+    padding-bottom: $spacing-3
+    padding-top: $spacing-4
+    ul
+        @include list-reset
+        display: flex
+        flex-wrap: wrap
+        gap: $spacing-1 $spacing-3
+        span, a
+            @include meta
+            color: var(--color-accent)
+            text-decoration: none
+            &:hover
+                @include link(var(--color-accent))
+    
+footer#document-footer
+    .container
+        &:first-child
+            gap: var(--grid-gutter)
+            .footer-address
+                flex: 1
+                p:first-of-type
+                    @include h3
+                p:not(:first-of-type)
+                    @include signature
+                p + p 
+                    margin-top: space()
+                @include media-breakpoint-up(desktop)
+                    text-align: right
+        &:last-child
+            padding-bottom: 0
+    .footer-logo
+        figure
+            figcaption
+                margin-top: $spacing-3
+                max-width: pxToRem(350)

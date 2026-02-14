@@ -4,11 +4,10 @@ params:
   plausible: afalab.org
   logo:
     footer: "/assets/images/logo.svg"
-  # menu:
-  #   primary:
-  #     level_2:
-  #       title:
-  #         active: true
+  breadcrumb:
+    position: after-hero
+  summary:
+    position: content
   search: 
     active: true
     positions:
@@ -22,4 +21,13 @@ params:
       layout: list
   posts:
     index:
-      layout: grid
+      layout: list
+  menu:
+    primary:
+      level_2:
+        title:
+          active: true
+          summary:
+            active: false
+            source: "Summary" # "Summary" | "meta_description"
+            truncate: 125

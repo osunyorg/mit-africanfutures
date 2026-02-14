@@ -1,5 +1,6 @@
-{{ $menu := partial "GetMenu" "footer-horizontal" }}
+{{ partial "footer/contents.html" . }}
 
+{{ $menu := partial "GetMenu" "footer-horizontal" }}
 {{ if $menu }}
   <div class="container footer-menu">
     {{ partial "commons/menu.html"
@@ -10,3 +11,7 @@
       )}}
   {{ end }}
   </div>
+
+<footer id="document-footer" role="contentinfo">
+  {{ partial "footer/footer-simple.html" . }}
+</footer>

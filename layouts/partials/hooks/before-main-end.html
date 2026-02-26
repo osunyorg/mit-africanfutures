@@ -2,11 +2,10 @@
 
 {{ if $menu }}
   <div class="container footer-menu">
-    {{ partial "commons/menu.html"
-      (dict
-        "kind" "footer-horizontal"
-        "level" 1
-        "context" .
-      )}}
+    {{ partial "commons/menu.html" (dict
+      "kind" "footer-horizontal"
+      "level" 1
+      "context" .
+    ) }}
   {{ end }}
   </div>

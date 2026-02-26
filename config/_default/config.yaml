@@ -1,14 +1,11 @@
 theme: osuny
 _merge: deep
 params:
+  debug:
+    productionUrl: https://www.afalab.org
   plausible: afalab.org
   logo:
     footer: "/assets/images/logo.svg"
-  # menu:
-  #   primary:
-  #     level_2:
-  #       title:
-  #         active: true
   search: 
     active: true
     positions:

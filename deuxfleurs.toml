@@ -13,3 +13,3792 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/the-latest/2022-09-28-building-a-global-african-movement-for-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-09-28-building-a-global-african-movement-for-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/research-and-impact/current-projects/2025-black-women-in-contemporary-european-and-african-societies-challenging-colonial-representations/"
+to = "/research-and-impact/current-projects/2025-unfinished-freedom-the-continuity-of-colonial-violence-without-accountability/"
+
+[[redirects]]
+from = "/publications/"
+to = "/research/reports-and-policy-briefs-1/"
+
+[[redirects]]
+from = "/news/past-events/"
+to = "/the-latest/news/types/conferences/"
+
+[[redirects]]
+from = "/research-and-impact/program-areas/climate-justice-and-reparations/"
+to = "/archives-drafts/program-areas/climate-justice-and-reparations/"
+
+[[redirects]]
+from = "/the-latest/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s/"
+to = "/the-latest/news/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s/"
+
+[[redirects]]
+from = "/team/liliane-umubyeyi/"
+to = "/team/liliane-umubyeyi-phd/"
+
+[[redirects]]
+from = "/news/2025-03-06-job-opening-gender-and-racial-justice-researcher/"
+to = "/the-latest/2025-03-06-job-opening-gender-and-racial-justice-researcher/"
+
+[[redirects]]
+from = "/news/reports-and-policy-briefs/"
+to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/news/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers/"
+to = "/the-latest/news/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-why-imprison-contemporary-incarceration-policies-from-a-post-colonial-perspective/"
+to = "/the-latest/news/2021-12-22-why-imprison-contemporary-incarceration-policies-from-a-post-colonial-perspective/"
+
+[[redirects]]
+from = "/team/sihem-bensedrine/news/"
+to = "/sihem-bensedrine/news/"
+
+[[redirects]]
+from = "/news/2021-12-22-reparations-claims-for-slavery-in-france-the-need-for-a-paradigm-shift/"
+to = "/the-latest/news/2021-12-22-reparations-claims-for-slavery-in-france-the-need-for-a-paradigm-shift/"
+
+[[redirects]]
+from = "/en/sitemap/"
+to = "/sitemap/"
+
+[[redirects]]
+from = "/en/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-reparation/"
+to = "/the-latest/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa/"
+
+[[redirects]]
+from = "/yasmine-abdilahi/"
+to = "/team/yasmine-abdilahi/"
+
+[[redirects]]
+from = "/the-latest/themes/climate-justice-and-reparations/"
+to = "/the-latest/news/themes/climate-justice-and-reparations/"
+
+[[redirects]]
+from = "/news/2024-11-06-season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna/"
+to = "/the-latest/news/2024-11-06-season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna/"
+
+[[redirects]]
+from = "/support-us-/support-us/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/the-latest/2025-08-08-wakati-wetu-festival-kenya/"
+to = "/the-latest/news/2025-08-08-wakati-wetu-festival-kenya/"
+
+[[redirects]]
+from = "/team/fania-noel/"
+to = "/fania-noel/"
+
+[[redirects]]
+from = "/the-latest/2025-12-02-can-former-colonial-powers-be-held-accountable-for-past-atrocities-inside-story-al-jazeera/"
+to = "/the-latest/news/2025-12-02-can-former-colonial-powers-be-held-accountable-for-past-atrocities-inside-story-al-jazeera/"
+
+[[redirects]]
+from = "/nabeelah-shabbir/"
+to = "/team/nabeelah-shabbir/"
+
+[[redirects]]
+from = "/the-latest/types/podcast/season-2/"
+to = "/the-latest/news/types/podcast/season-2/"
+
+[[redirects]]
+from = "/news/2025-06-16-new-research-project-in-gender-and-racial-justice/"
+to = "/the-latest/news/2025-06-16-new-research-project-in-gender-and-racial-justice/"
+
+[[redirects]]
+from = "/team/matt-dann/"
+to = "/en/team/matt-dann/"
+
+[[redirects]]
+from = "/social/"
+to = "/social-media/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-transitional-justice-to-address-colonial-legacies-decolonizing-transitional-justice-first/"
+to = "/the-latest/news/2021-12-22-transitional-justice-to-address-colonial-legacies-decolonizing-transitional-justice-first/"
+
+[[redirects]]
+from = "/en/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+to = "/the-latest/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+
+[[redirects]]
+from = "/news/2024-04-24-the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024/"
+to = "/the-latest/news/2024-04-24-the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024/"
+
+[[redirects]]
+from = "/research/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/archives-drafts/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/the-latest/news/2025-09-01-we-must-move-beyond-the-model-of-aid-and-embrace-the-paradigm-of-reparations/"
+to = "/the-latest/news/2025-08-22-we-must-move-beyond-the-model-of-aid-and-embrace-the-paradigm-of-reparations/"
+
+[[redirects]]
+from = "/mobilization/"
+to = "/mobilize-and-act/moblabs/"
+
+[[redirects]]
+from = "/the-latest/2025-06-19-afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere/"
+to = "/the-latest/news/2025-06-19-afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere/"
+
+[[redirects]]
+from = "/team/liepollo-lebohang-pheko/"
+to = "/liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/lionel-zevounou/"
+to = "/team/lionel-zevounou/"
+
+[[redirects]]
+from = "/en/research/publications/"
+to = "/research/reports-and-policy-briefs-1/"
+
+[[redirects]]
+from = "/news/2022/06/14/whats-to-be-repaired-postcolonial-justice-in-postcolonial-europe-symposium-event/"
+to = "/news/2022-06-14-whats-to-be-repaired-postcolonial-justice-in-postcolonial-europe-symposium-event/"
+
+[[redirects]]
+from = "/en/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+to = "/the-latest/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+
+[[redirects]]
+from = "/news/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+to = "/the-latest/news/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+
+[[redirects]]
+from = "/team/martin-mavenjina/actualites/"
+to = "/team/martin-mavenjina/news/"
+
+[[redirects]]
+from = "/en/team/noureddine-amara/"
+to = "/noureddine-amara/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-slavery-as-ecocide-beyond-the-double-fracture-of-modernity/"
+to = "/the-latest/news/2021-12-22-slavery-as-ecocide-beyond-the-double-fracture-of-modernity/"
+
+[[redirects]]
+from = "/news/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis/"
+to = "/the-latest/news/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis/"
+
+[[redirects]]
+from = "/en/team/nabeelah-shabbir/news/"
+to = "/team/nabeelah-shabbir/news/"
+
+[[redirects]]
+from = "/research/program-areas/environmental-violence/"
+to = "/archives-drafts/program-areas/climate-justice-and-reparations/"
+
+[[redirects]]
+from = "/research/program-areas/socio-economic-violence/"
+to = "/archives-drafts/program-areas/socio-economic-violence/"
+
+[[redirects]]
+from = "/fr/team/cacoburwa-collective/actualites/"
+to = "/team/cacoburwa-collective/news/"
+
+[[redirects]]
+from = "/news/research-publications/"
+to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+to = "/archives-drafts/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+
+[[redirects]]
+from = "/2025/head-of-operations-and-finance/"
+to = "/about-us/job-offers/2025/head-of-operations-and-finance/"
+
+[[redirects]]
+from = "/the-latest/news/2025-09-16-public-statement-on-the-draft-addis-ababa-declaration-from-the-second-africa-climate-summit-1/"
+to = "/the-latest/news/2025-09-16-public-statement-on-the-addis-ababa-declaration-from-the-second-africa-climate-summit-1/"
+
+[[redirects]]
+from = "/the-latest/2025-03-27-reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions/"
+to = "/the-latest/news/2025-03-27-reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions/"
+
+[[redirects]]
+from = "/outreach/afalives/"
+to = "/archives-drafts/outreach/events-draft/afalives/"
+
+[[redirects]]
+from = "/news/2022/09/14/fellows-spotlight-mamefatou-niang/"
+to = "/the-latest/news/2022-09-14-mame-fatou-niang/"
+
+[[redirects]]
+from = "/news/jobs-opportunities/"
+to = "/the-latest/news/types/job-opportunities/"
+
+[[redirects]]
+from = "/en/news/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/en/research/publications/parce-que-les-excuses-ne-suffisent-pas/"
+to = "/archives-drafts/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+
+[[redirects]]
+from = "/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-contemporary-challenges/"
+to = "/the-latest/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/the-lab/connect-with-us/"
+to = "/about-us/how-the-lab-came-to-be/connect-with-us/"
+
+[[redirects]]
+from = "/news/2025-03-07-job-opening-gender-and-racial-justice-researcher/"
+to = "/the-latest/2025-03-06-job-opening-gender-and-racial-justice-researcher/"
+
+[[redirects]]
+from = "/fr/team/lionel-zevounou/"
+to = "/team/lionel-zevounou/"
+
+[[redirects]]
+from = "/news/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations-a/"
+to = "/the-latest/news/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/"
+
+[[redirects]]
+from = "/news/2022/08/31/reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+to = "/the-latest/news/2022-08-31-reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+
+[[redirects]]
+from = "/news/mobilization/"
+to = "/the-latest/news/themes/mobilization/"
+
+[[redirects]]
+from = "/about-us/2025/head-of-operations-and-finance/"
+to = "/about-us/job-offers/2025/head-of-operations-and-finance/"
+
+[[redirects]]
+from = "/news/2024-03-21-repairing-our-international-economic-order/"
+to = "/the-latest/news/2024-03-21-repairing-our-international-economic-order/"
+
+[[redirects]]
+from = "/the-latest/2021-10-01-violences-coloniales-en-algerie-quelles-possibilites-dactions-judiciaires-mit-opencourseware/"
+to = "/the-latest/news/2021-10-01-violences-coloniales-en-algerie-quelles-possibilites-dactions-judiciaires-mit-opencourseware/"
+
+[[redirects]]
+from = "/anita-munyaneza/"
+to = "/team/anita-munyaneza/"
+
+[[redirects]]
+from = "/the-latest/themes/moblabs/2023-2024-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2023-2024-moblabs-series/"
+
+[[redirects]]
+from = "/news/conferences/"
+to = "/the-latest/news/types/conferences/"
+
+[[redirects]]
+from = "/nabeelah-shabbir/news/"
+to = "/team/nabeelah-shabbir/news/"
+
+[[redirects]]
+from = "/research-and-impact/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+to = "/archives-drafts/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+
+[[redirects]]
+from = "/news/2025-03-07-job-opening-1/"
+to = "/news/2025-03-07-gender-and-racial-justice-researcher-2/"
+
+[[redirects]]
+from = "/en/team/anita-munyaneza/"
+to = "/team/anita-munyaneza/"
+
+[[redirects]]
+from = "/fr/team/sihem-bensedrine/actualites/"
+to = "/sihem-bensedrine/news/"
+
+[[redirects]]
+from = "/amnesty-international/"
+to = "/organisations/amnesty-international/"
+
+[[redirects]]
+from = "/the-latest/types/press-releases/"
+to = "/the-latest/news/types/press-releases/"
+
+[[redirects]]
+from = "/news/2023-10-02-post-opening-advocacy-and-policy-officer/"
+to = "/the-latest/2023-10-02-post-opening-advocacy-and-policy-officer/"
+
+[[redirects]]
+from = "/team/shaany-n-sonde/news/"
+to = ""
+
+[[redirects]]
+from = "/olivia-umurerwa-rutazibwa/"
+to = "/team/olivia-umurerwa-rutazibwa/"
+
+[[redirects]]
+from = "/en/news/mobilization/moblabs/2023-2024-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2023-2024-moblabs-series/"
+
+[[redirects]]
+from = "/news/2022-08-31-accra-declaration-on-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-08-31-accra-declaration-on-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/en/team/shaany-n-sonde/news/"
+to = ""
+
+[[redirects]]
+from = "/agenda/2024/online-debate-3-advancing-climate-justice/"
+to = "/the-latest/events/2024/online-debate-3-advancing-climate-justice/"
+
+[[redirects]]
+from = "/en/agenda/upcoming-events/"
+to = "/the-latest/events/upcoming-events/"
+
+[[redirects]]
+from = "/the-latest/types/campaigns/"
+to = "/the-latest/news/types/campaigns/"
+
+[[redirects]]
+from = "/en/news/2024-03-21-repairing-our-international-economic-order/"
+to = "/the-latest/news/2024-03-21-repairing-our-international-economic-order/"
+
+[[redirects]]
+from = "/organisations/sciences-po/"
+to = "/sciences-po/"
+
+[[redirects]]
+from = "/news/2021/04/06/crisis-group-podcast/"
+to = "/news/2021-04-06-crisis-group-podcast/"
+
+[[redirects]]
+from = "/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/archives-drafts/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/news/2022/04/19/parce-que-les-excuses-ne-suffisent-pas/"
+to = "/news/2022-04-19-parce-que-les-excuses-ne-suffisent-pas/"
+
+[[redirects]]
+from = "/the-latest/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+to = "/the-latest/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/en/mobilization/campaigns/"
+to = "/mobilize-and-act/campaigns/"
+
+[[redirects]]
+from = "/news/2022-09-28-building-a-global-african-movement-for-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-09-28-building-a-global-african-movement-for-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/en/news/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+to = "/the-latest/news/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+
+[[redirects]]
+from = "/en/team/anita-munyaneza/news/"
+to = "/team/anita-munyaneza/news/"
+
+[[redirects]]
+from = "/en/the-lab/what-we-do/"
+to = "/about-us/how-the-lab-came-to-be/what-we-do/"
+
+[[redirects]]
+from = "/research/research-projects/global-racial-inequality-dashboard/"
+to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
+
+[[redirects]]
+from = "/organisations/university-of-victoria/"
+to = "/university-of-victoria/"
+
+[[redirects]]
+from = "/news/2023-06-05-consultant-opening-researcher-on-reparations-demands-in-cameroon/"
+to = "/the-latest/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+
+[[redirects]]
+from = "/news/2022-10-05-fellows-feature-fania-noel/"
+to = "/the-latest/news/2022-10-05-fania-no-l/"
+
+[[redirects]]
+from = "/agenda/2023-03-23-afalive-1-tunisie/"
+to = "/the-latest/events/2023/afalive-1-tunisie/"
+
+[[redirects]]
+from = "/advancing-climate-reparations-human-rights-and-gender-justice-through-climate-finance/"
+to = "/mobilize-and-act/campaigns/climate-justice-and-reparations-2/advancing-climate-reparations-human-rights-and-gender-justice-through-climate-finance/"
+
+[[redirects]]
+from = "/the-lab/our-mission-2/"
+to = "/about-us/how-the-lab-came-to-be/what-we-do/"
+
+[[redirects]]
+from = "/malcom-ferdinand-1/"
+to = "/team/malcom-ferdinand-1/"
+
+[[redirects]]
+from = "/the-latest/2022-11-02-magali-bessone/"
+to = "/the-latest/news/2022-11-02-magali-bessone/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-slavery-as-ecocide-beyond-the-double-fracture-of-modernity/"
+to = "/the-latest/news/2021-12-22-slavery-as-ecocide-beyond-the-double-fracture-of-modernity/"
+
+[[redirects]]
+from = "/en/the-lab/how-to-support-us/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/news/2021-12-06-utiliser-les-archives-dans-la-reconnaissance-du-passe-colonial-de-la-belgique-mit-opencourseware/"
+to = "/the-latest/news/2021-12-06-utiliser-les-archives-dans-la-reconnaissance-du-passe-colonial-de-la-belgique-mit-opencourseware/"
+
+[[redirects]]
+from = "/about-us/afarise-fellows/"
+to = "/the-latest/afarise-fellows/"
+
+[[redirects]]
+from = "/research/program-areas/gender-violence/"
+to = "/archives-drafts/program-areas/gender-violence/"
+
+[[redirects]]
+from = "/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
+to = "/the-latest/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
+
+[[redirects]]
+from = "/team/elisa-novic/actualites/"
+to = ""
+
+[[redirects]]
+from = "/team/fania-noel/news/"
+to = "/fania-noel/news/"
+
+[[redirects]]
+from = "/en/news/2021-10-12-frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-12-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/the-latest/2023-12-18-west-africa-mobilization-lab-on-reparations/"
+to = "/the-latest/news/2023-12-18-west-africa-mobilization-lab-on-reparations/"
+
+[[redirects]]
+from = "/news/afalab-in-the-media/"
+to = "/the-latest/news/types/afalab-in-the-media/"
+
+[[redirects]]
+from = "/the-latest/2024-11-18-africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies/"
+to = "/the-latest/news/2024-11-18-africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies/"
+
+[[redirects]]
+from = "/en/team/sihem-bensedrine/"
+to = "/sihem-bensedrine/"
+
+[[redirects]]
+from = "/news/2021/11/30/workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+to = "/the-latest/news/2021-11-30-workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+
+[[redirects]]
+from = "/actualites/advocacy/building-bridges/"
+to = "/fr/actualites/advocacy/building-bridges/"
+
+[[redirects]]
+from = "/news/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/"
+to = "/the-latest/news/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/"
+
+[[redirects]]
+from = "/the-latest/2024-03-21-repairing-our-international-economic-order/"
+to = "/the-latest/news/2024-03-21-repairing-our-international-economic-order/"
+
+[[redirects]]
+from = "/research-and-impact/our-programs/transformative-climate-justice/"
+to = "/research-and-impact/our-programs/climate-justice-and-reparations-1/"
+
+[[redirects]]
+from = "/organisations/global-black/"
+to = "/global-black/"
+
+[[redirects]]
+from = "/en/team/adele-frise/"
+to = "/team/nyambura-njoroge/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+to = "/archives-drafts/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+
+[[redirects]]
+from = "/the-latest/2022-12-15-sihem-bensedrine/"
+to = "/the-latest/news/2022-12-15-sihem-bensedrine/"
+
+[[redirects]]
+from = "/the-latest/2026-01-19-2024-annual-report/"
+to = "/the-latest/news/2026-01-19-2024-annual-report/"
+
+[[redirects]]
+from = "/cacoburwa-collective/news/"
+to = "/team/cacoburwa-collective/news/"
+
+[[redirects]]
+from = "/the-latest/2022-02-23-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+to = "/the-latest/news/2022-02-23-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+
+[[redirects]]
+from = "/team/mireille-tsheusi-robert/"
+to = "/mireille-tsheusi-robert/"
+
+[[redirects]]
+from = "/the-lab/what-we-do/"
+to = "/the-lab/how-we-work/"
+
+[[redirects]]
+from = "/the-latest/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+to = "/the-latest/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+
+[[redirects]]
+from = "/agenda/2024/01/"
+to = "/the-latest/events/2024/01/"
+
+[[redirects]]
+from = "/news/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine/"
+to = "/the-latest/news/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine/"
+
+[[redirects]]
+from = "/publications/mit-opencourseware-reparations/"
+to = "/research/publications/mit-opencourseware-reparations/"
+
+[[redirects]]
+from = "/the-latest/types/afalab-in-the-media/"
+to = "/the-latest/news/types/afalab-in-the-media/"
+
+[[redirects]]
+from = "/en/news/metis-of-the-great-lakes/"
+to = "/the-latest/news/themes/metis-of-the-great-lakes/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-the-pursuit-of-justice-against-colonial-repression-by-the-mau-mau-in-kenya/"
+to = "/the-latest/news/2021-12-22-the-pursuit-of-justice-against-colonial-repression-by-the-mau-mau-in-kenya/"
+
+[[redirects]]
+from = "/the-latest/2025-06-16-new-research-project-in-gender-and-racial-justice/"
+to = "/the-latest/news/2025-06-16-new-research-project-in-gender-and-racial-justice/"
+
+[[redirects]]
+from = "/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-reparation/"
+to = "/the-latest/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa/"
+
+[[redirects]]
+from = "/global-racial-inequality-dashboard/"
+to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
+
+[[redirects]]
+from = "/advocacy/events/"
+to = "/outreach/events/"
+
+[[redirects]]
+from = "/team/liliane-umubyeyi/actualites/"
+to = "/team/liliane-umubyeyi-phd/news/"
+
+[[redirects]]
+from = "/en/about-us/how-we-work/"
+to = "/the-lab/how-we-work/"
+
+[[redirects]]
+from = "/news/2021-03-01-justice-now-symposium/"
+to = "/the-latest/news/2021-03-01-justice-now-symposium/"
+
+[[redirects]]
+from = "/team/adele-frise/"
+to = "/team/nyambura-njoroge/"
+
+[[redirects]]
+from = "/en/the-lab/our-mission/"
+to = "/about-us/how-the-lab-came-to-be/our-mission/"
+
+[[redirects]]
+from = "/news/2021/06/17/a-conversation-with-liliane-umubyeyi-and-amah-edoh-on-reparations/"
+to = "/news/2021-06-17-a-conversation-with-liliane-umubyeyi-and-amah-edoh-on-reparations/"
+
+[[redirects]]
+from = "/news/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice/"
+to = "/the-latest/news/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice/"
+
+[[redirects]]
+from = "/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present-1/"
+to = "/the-latest/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
+
+[[redirects]]
+from = "/agenda/2024/08/"
+to = "/the-latest/events/2024/08/"
+
+[[redirects]]
+from = "/en/news/2021-04-06-crisis-group-podcast/"
+to = "/news/2021-04-06-crisis-group-podcast/"
+
+[[redirects]]
+from = "/news/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+to = "/the-latest/news/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+
+[[redirects]]
+from = "/research/"
+to = "/research-and-impact/"
+
+[[redirects]]
+from = "/projects-1/2025-african-futures-lab-support-to-the-au-working-group-ethiopia/"
+to = "/research-and-impact/current-projects/2025-african-futures-lab-support-to-the-au-working-group-ethiopia/"
+
+[[redirects]]
+from = "/how-the-lab-came-to-be/"
+to = "/about-us/how-the-lab-came-to-be/"
+
+[[redirects]]
+from = "/lab/our-mission/"
+to = "/about-us/how-the-lab-came-to-be/our-mission/"
+
+[[redirects]]
+from = "/en/team/cacoburwa-collective/news/"
+to = "/team/cacoburwa-collective/news/"
+
+[[redirects]]
+from = "/en/news/2023-12-18-west-africa-mobilization-lab-on-reparations/"
+to = "/the-latest/news/2023-12-18-west-africa-mobilization-lab-on-reparations/"
+
+[[redirects]]
+from = "/the-lab/how-to-support-us/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/fr/team/michel-degraff/"
+to = "/michel-degraff/"
+
+[[redirects]]
+from = "/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa/"
+to = "/the-latest/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa/"
+
+[[redirects]]
+from = "/events-1/"
+to = "/the-latest/events/"
+
+[[redirects]]
+from = "/news/2023-07-18-afalabs-annual-report-2022/"
+to = "/the-latest/news/2023-07-18-afalabs-2022-annual-report/"
+
+[[redirects]]
+from = "/en/news/fellows-spotlight/"
+to = "/the-latest/news/themes/fellows-spotlight/"
+
+[[redirects]]
+from = "/news/2022/06/17/release/"
+to = "/news/2022-06-17-release/"
+
+[[redirects]]
+from = "/the-latest/2025-05-07-reparations-for-climate-and-biodiversity-loss/"
+to = "/the-latest/news/2025-05-07-reparations-for-climate-and-biodiversity-loss/"
+
+[[redirects]]
+from = "/team/magali-bessone/actualites/"
+to = "/team/magali-bessone/news/"
+
+[[redirects]]
+from = "/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+to = "/the-latest/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+
+[[redirects]]
+from = "/en/research/"
+to = "/research-and-impact/"
+
+[[redirects]]
+from = "/research/projects/global-racial-inequality-dashboard/"
+to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
+
+[[redirects]]
+from = "/the-latest/2024-12-16-belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great/"
+to = "/the-latest/news/2024-12-16-belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great/"
+
+[[redirects]]
+from = "/the-lab/about-us-1/"
+to = "/the-lab/our-story/"
+
+[[redirects]]
+from = "/en/news/publications/annual-reports/"
+to = "/the-latest/news/types/annual-reports/"
+
+[[redirects]]
+from = "/news/2024-04-04-70-years-of-fighting-for-justice-and-reparations/"
+to = "/the-latest/news/2024-04-04-70-years-of-fighting-for-justice-and-reparations/"
+
+[[redirects]]
+from = "/news/2025-06-19-afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere/"
+to = "/the-latest/news/2025-06-19-afalab-dans-le-monde-lafrique-demande-des-reparations-pour-la-colonisation-et-la-traite-negriere/"
+
+[[redirects]]
+from = "/research/publications/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administration/"
+to = "/archives-drafts/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+
+[[redirects]]
+from = "/en/team/lionel-zevounou/"
+to = "/team/lionel-zevounou/"
+
+[[redirects]]
+from = "/en/news/2021-10-30-workshop-on-frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-30-workshop-on-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/en/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-contemporary-challenges/"
+to = "/the-latest/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/the-latest/2024-03-20-metis-of-the-great-lakes-moblab/"
+to = "/the-latest/news/2024-03-20-metis-of-the-great-lakes-moblab/"
+
+[[redirects]]
+from = "/job-offers/"
+to = "/about-us/job-offers/"
+
+[[redirects]]
+from = "/agenda/2024-11-05-online-debate-1-taking-a-historical-view-of-climate-reparations/"
+to = "/the-latest/events/2024/online-debate-1-taking-a-historical-view-of-climate-reparations/"
+
+[[redirects]]
+from = "/news/2021-11-16-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+to = "/the-latest/news/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+
+[[redirects]]
+from = "/the-latest/2024-07-17-debt-cancellation-is-not-enough/"
+to = "/the-latest/news/2024-07-17-debt-cancellation-is-not-enough/"
+
+[[redirects]]
+from = "/the-latest/2025-08-22-we-must-move-beyond-the-model-of-aid-and-embrace-the-paradigm-of-reparations/"
+to = "/the-latest/news/2025-08-22-we-must-move-beyond-the-model-of-aid-and-embrace-the-paradigm-of-reparations/"
+
+[[redirects]]
+from = "/the-latest/types/reports-and-policy-briefs/"
+to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/the-latest/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+to = "/the-latest/news/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+
+[[redirects]]
+from = "/projects/"
+to = "/research-and-impact/current-projects/"
+
+[[redirects]]
+from = "/news/2022-09-14-mame-fatou-niang/"
+to = "/the-latest/news/2022-09-14-mame-fatou-niang/"
+
+[[redirects]]
+from = "/fr/team/liepollo-lebohang-pheko/"
+to = "/liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/mobilization/afarise/"
+to = "/mobilize-and-act/afarise/"
+
+[[redirects]]
+from = "/publications/culanth-sustaining-the-momentum/"
+to = "/archives-drafts/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+
+[[redirects]]
+from = "/news/2022/09/07/future-perfect-futur-anterieur/"
+to = "/the-latest/news/2022-09-07-future-perfect-futur-anterieur/"
+
+[[redirects]]
+from = "/en/research/program-areas/socio-economic-violence/"
+to = "/archives-drafts/program-areas/socio-economic-violence/"
+
+[[redirects]]
+from = "/en/2021-2022-fellows-spotlight/"
+to = "/2021-2022-fellows-spotlight/"
+
+[[redirects]]
+from = "/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/the-latest/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+to = "/the-latest/news/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+
+[[redirects]]
+from = "/daisy-mukasa/"
+to = "/team/daisy-mukasa/"
+
+[[redirects]]
+from = "/team/kate-theriault/actualites/"
+to = "/team/kate-theriault/news/"
+
+[[redirects]]
+from = "/en/projects/"
+to = "/research-and-impact/current-projects/"
+
+[[redirects]]
+from = "/the-lab/contact-us/"
+to = "/about-us/how-the-lab-came-to-be/connect-with-us/"
+
+[[redirects]]
+from = "/en/research/publications/culanth-sustaining-the-momentum/"
+to = "/archives-drafts/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+
+[[redirects]]
+from = "/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-algerie/"
+to = "/the-latest/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-alge/"
+
+[[redirects]]
+from = "/news/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge/"
+to = "/the-latest/news/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge/"
+
+[[redirects]]
+from = "/en/team/liliane-umubyeyi/news/"
+to = "/team/liliane-umubyeyi-phd/news/"
+
+[[redirects]]
+from = "/climate-justice-and-reparations/"
+to = "/archives-drafts/program-areas/climate-justice-and-reparations/"
+
+[[redirects]]
+from = "/en/news/mobilization/campaigns/"
+to = "/the-latest/news/types/campaigns/"
+
+[[redirects]]
+from = "/news/current-projects/"
+to = "/the-latest/news/types/current-projects/"
+
+[[redirects]]
+from = "/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice-september-december-2021/"
+to = "/the-latest/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+
+[[redirects]]
+from = "/the-latest/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent/"
+to = "/the-latest/news/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent/"
+
+[[redirects]]
+from = "/news/2022/09/07/introduction-to-future-perfect/"
+to = "/the-latest/news/2022-09-07-introduction-to-future-perfect/"
+
+[[redirects]]
+from = "/the-latest/news/afalab-news/"
+to = "/the-latest/news/types/afalab-news/"
+
+[[redirects]]
+from = "/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+to = "/archives-drafts/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/news/2023-06-15-season-ll-pisode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+to = "/the-latest/news/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+
+[[redirects]]
+from = "/en/team/magali-bessone/"
+to = "/team/magali-bessone/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-why-imprison-contemporary-incarceration-policies-from-a-post-colonial-perspective/"
+to = "/the-latest/news/2021-12-22-why-imprison-contemporary-incarceration-policies-from-a-post-colonial-perspective/"
+
+[[redirects]]
+from = "/the-latest/2022-09-07-introduction-to-future-perfect/"
+to = "/the-latest/news/2022-09-07-introduction-to-future-perfect/"
+
+[[redirects]]
+from = "/news/2024-07-15-accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a/"
+to = "/the-latest/news/2024-07-15-accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a/"
+
+[[redirects]]
+from = "/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
+to = "/the-latest/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
+
+[[redirects]]
+from = "/the-latest/types/submissions/"
+to = "/the-latest/news/types/submissions/"
+
+[[redirects]]
+from = "/agenda/"
+to = "/the-latest/events/"
+
+[[redirects]]
+from = "/news/2022/07/28/afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+to = "/the-latest/news/2022-07-28-afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+
+[[redirects]]
+from = "/the-latest/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+to = "/the-latest/news/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+
+[[redirects]]
+from = "/news/2022-09-07-introduction-to-future-perfect/"
+to = "/the-latest/news/2022-09-07-introduction-to-future-perfect/"
+
+[[redirects]]
+from = "/gender-justice/"
+to = "/research-and-impact/our-programs/gender-justice-and-reparations/"
+
+[[redirects]]
+from = "/the-latest/afalab-news/"
+to = "/afalab-news/"
+
+[[redirects]]
+from = "/the-latest/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains/"
+to = "/the-latest/news/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains/"
+
+[[redirects]]
+from = "/en/news/2023-07-18-afalabs-2022-annual-report/"
+to = "/the-latest/news/2023-07-18-afalabs-2022-annual-report/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+to = "/archives-drafts/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/news/2024-12-12-job-opening-climate-justice-research-an-policy-adviser/"
+to = "/the-latest/2024-12-12-job-opening-climate-justice-research-an-policy-adviser/"
+
+[[redirects]]
+from = "/the-latest/2024-04-04-70-years-of-fighting-for-justice-and-reparations/"
+to = "/the-latest/news/2024-04-04-70-years-of-fighting-for-justice-and-reparations/"
+
+[[redirects]]
+from = "/agenda/2024/02/"
+to = "/the-latest/events/2024/02/"
+
+[[redirects]]
+from = "/gender-violence/"
+to = "/archives-drafts/program-areas/gender-violence/"
+
+[[redirects]]
+from = "/the-latest/2024-11-05-climate-reparations-mobilisation-lab/"
+to = "/the-latest/news/2024-11-05-climate-reparations-mobilisation-lab/"
+
+[[redirects]]
+from = "/news/2024-11-05-climate-reparations-mobilisation-lab/"
+to = "/the-latest/news/2024-11-05-climate-reparations-mobilisation-lab/"
+
+[[redirects]]
+from = "/en/news/publications/"
+to = "/the-latest/news/types/publications/"
+
+[[redirects]]
+from = "/team/kenda-mutongi/"
+to = "/kenda-mutongi/"
+
+[[redirects]]
+from = "/the-latest/2021-12-06-utiliser-les-archives-dans-la-reconnaissance-du-passe-colonial-de-la-belgique-mit-opencourseware/"
+to = "/the-latest/news/2021-12-06-utiliser-les-archives-dans-la-reconnaissance-du-passe-colonial-de-la-belgique-mit-opencourseware/"
+
+[[redirects]]
+from = "/research/publications/"
+to = "/research/reports-and-policy-briefs-1/"
+
+[[redirects]]
+from = "/about-us/how-the-lab-came-to-be/how-to-support-us/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/the-latest/events-1/"
+to = "/the-latest/events/"
+
+[[redirects]]
+from = "/the-latest/2024-04-24-the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024/"
+to = "/the-latest/news/2024-04-24-the-third-session-of-the-permanent-forum-of-people-of-african-descent-in-geneva-april-16-19-2024/"
+
+[[redirects]]
+from = "/news/podcast/"
+to = "/the-latest/news/types/podcast/"
+
+[[redirects]]
+from = "/en/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-experience-of-justice-institutions/"
+to = "/the-latest/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/the-latest/types/afalab-news/"
+to = "/the-latest/news/types/afalab-news/"
+
+[[redirects]]
+from = "/the-latest/news/mobilization/"
+to = "/the-latest/news/themes/mobilization/"
+
+[[redirects]]
+from = "/team/fania-noel/actualites/"
+to = "/fania-noel/news/"
+
+[[redirects]]
+from = "/en/team/genevieve-kaninda/"
+to = "/team/genevieve-kaninda/"
+
+[[redirects]]
+from = "/the-latest/2025-07-01-african-futures-lab-participates-in-inaugural-ajjf-reparatory-justice-surgery/"
+to = "/the-latest/news/2025-07-01-african-futures-lab-participates-in-inaugural-ajjf-reparatory-justice-surgery/"
+
+[[redirects]]
+from = "/team/deborah-mukundwa/"
+to = "/deborah-mukundwa/"
+
+[[redirects]]
+from = "/the-latest/2024-09-18-unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework/"
+to = "/the-latest/news/2024-09-18-unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework/"
+
+[[redirects]]
+from = "/news/publications/reports-and-policy-briefs/"
+to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/news/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+to = "/the-latest/news/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+
+[[redirects]]
+from = "/en/team/"
+to = "/team/"
+
+[[redirects]]
+from = "/team/amah-edoh/news/"
+to = ""
+
+[[redirects]]
+from = "/news/2021/10/12/frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-12-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/news/2022-11-16-menna-agha/"
+to = "/the-latest/news/2022-11-16-menna-agha/"
+
+[[redirects]]
+from = "/the-latest/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+to = "/the-latest/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la-commission-parlementaire-belge-sur-le-passe-colonial/"
+to = "/the-latest/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la/"
+
+[[redirects]]
+from = "/en/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+to = "/the-latest/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+
+[[redirects]]
+from = "/the-latest/themes/metis-of-the-great-lakes/"
+to = "/the-latest/news/themes/metis-of-the-great-lakes/"
+
+[[redirects]]
+from = "/en/news/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+to = "/the-latest/news/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+
+[[redirects]]
+from = "/en/news/shaping-policies/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/news/2021-11-30-workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+to = "/the-latest/news/2021-11-30-workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+
+[[redirects]]
+from = "/en/the-lab/connect-with-us/"
+to = "/about-us/how-the-lab-came-to-be/connect-with-us/"
+
+[[redirects]]
+from = "/news/2025-06-27-programme-de-fellowship-dafrican-futures-lab-2025-2027/"
+to = "/the-latest/news/2025-06-27-programme-de-fellowship-dafrican-futures-lab-2025-2027/"
+
+[[redirects]]
+from = "/mobilize-and-act/campaigns/gender-justice-and-reparations-1/metis-of-the-great-lakes/"
+to = "/mobilize-and-act/campaigns/metis-of-the-great-lakes/"
+
+[[redirects]]
+from = "/the-latest/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts/"
+to = "/the-latest/news/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts/"
+
+[[redirects]]
+from = "/en/the-lab/donate/"
+to = "/support-us/donate/"
+
+[[redirects]]
+from = "/support-us/"
+to = "/how-to-support-us/"
+
+[[redirects]]
+from = "/en/team/elisa-novic/news/"
+to = ""
+
+[[redirects]]
+from = "/research/research-projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/archives-drafts/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/liliane-umubyeyi-phd/"
+to = "/team/liliane-umubyeyi-phd/"
+
+[[redirects]]
+from = "/the-latest/2025-11-25-one-million-womens-march-in-brasilia/"
+to = "/the-latest/news/2025-11-25-one-million-womens-march-in-brasilia/"
+
+[[redirects]]
+from = "/the-latest/2021-10-12-frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-12-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/the-latest/news/events-1/"
+to = "/the-latest/events/"
+
+[[redirects]]
+from = "/research/publications/culanth-sustaining-the-momentum/"
+to = "/archives-drafts/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+
+[[redirects]]
+from = "/en/news/2022-10-26-mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+to = "/the-latest/news/2022-10-26-mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+
+[[redirects]]
+from = "/the-latest/2024-10-09-season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat/"
+to = "/the-latest/news/2024-10-09-season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat/"
+
+[[redirects]]
+from = "/the-latest/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge/"
+to = "/the-latest/news/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge/"
+
+[[redirects]]
+from = "/culanth-sustaining-the-momentum/"
+to = "/archives-drafts/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+
+[[redirects]]
+from = "/research/publications/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pour-relever-les-defis-contemporains-du-continent-africain/"
+to = "/archives-drafts/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/news/2023-08-01-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+to = "/the-latest/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
+to = "/the-latest/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
+
+[[redirects]]
+from = "/news/2022-10-05-fania-no-l/"
+to = "/the-latest/news/2022-10-05-fania-no-l/"
+
+[[redirects]]
+from = "/the-latest/news/2025-03-06-job-opening-gender-and-racial-justice-researcher/"
+to = "/the-latest/2025-03-06-job-opening-gender-and-racial-justice-researcher/"
+
+[[redirects]]
+from = "/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+to = "/the-latest/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/the-latest/2023-07-18-afalabs-2022-annual-report/"
+to = "/the-latest/news/2023-07-18-afalabs-2022-annual-report/"
+
+[[redirects]]
+from = "/research/research-projects/"
+to = "/research/projects/"
+
+[[redirects]]
+from = "/agenda/2024/12/"
+to = "/the-latest/events/2024/12/"
+
+[[redirects]]
+from = "/en/news/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+to = "/the-latest/news/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+
+[[redirects]]
+from = "/the-lab/work-with-us/"
+to = "/about-us/how-the-lab-came-to-be/work-with-us/"
+
+[[redirects]]
+from = "/en/team/eva-njoki-munyiri/"
+to = "/eva-njoki-munyiri/"
+
+[[redirects]]
+from = "/the-latest/types/annual-reports/"
+to = "/the-latest/news/types/annual-reports/"
+
+[[redirects]]
+from = "/news/job-opportunities/"
+to = "/the-latest/news/types/job-opportunities/"
+
+[[redirects]]
+from = "/the-latest/types/"
+to = "/the-latest/news/types/"
+
+[[redirects]]
+from = "/news/annual-reports/"
+to = "/the-latest/news/types/annual-reports/"
+
+[[redirects]]
+from = "/en/organisations/"
+to = "/organisations/"
+
+[[redirects]]
+from = "/agenda/2023/afalive-2/"
+to = "/the-latest/events/2023/afalive-2/"
+
+[[redirects]]
+from = "/en/news/news/"
+to = "/the-latest/news/types/afalab-news/"
+
+[[redirects]]
+from = "/agenda/2024/11/"
+to = "/the-latest/events/2024/11/"
+
+[[redirects]]
+from = "/research-and-impact/our-programs/gender-justice/"
+to = "/research-and-impact/our-programs/gender-justice-and-reparations/"
+
+[[redirects]]
+from = "/malcom-ferdinand/"
+to = "/team/malcom-ferdinand/"
+
+[[redirects]]
+from = "/about-us/our-mission/"
+to = "/about-us/how-the-lab-came-to-be/our-mission/"
+
+[[redirects]]
+from = "/fr/team/mame-fatou-niang/"
+to = "/mame-fatou-niang/"
+
+[[redirects]]
+from = "/en/agenda/"
+to = "/the-latest/events/"
+
+[[redirects]]
+from = "/news/2025-06-05-patrick-toussaint-joins-the-au-ecosocc-climate-change-working-group-ccwg/"
+to = "/the-latest/news/2025-06-05-patrick-toussaint-joins-the-au-ecosocc-climate-change-working-group-ccwg/"
+
+[[redirects]]
+from = "/team/michel-degraff/"
+to = "/michel-degraff/"
+
+[[redirects]]
+from = "/fr/team/malcom-ferdinand/actualites/"
+to = "/team/malcom-ferdinand/news/"
+
+[[redirects]]
+from = "/the-latest/types/afalive/"
+to = "/the-latest/news/types/afalive/"
+
+[[redirects]]
+from = "/news/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/news/2021-12-22-from-the-colonial-past-to-today-s-anti-black-racism-in-belgium-modalities-of-change/"
+to = "/the-latest/news/2021-12-22-from-the-colonial-past-to-today-s-anti-black-racism-in-belgium-modalities-of-change/"
+
+[[redirects]]
+from = "/en/mobilization/moblabs-1/"
+to = "/mobilization/moblabs-2/"
+
+[[redirects]]
+from = "/news/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa/"
+to = "/the-latest/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa/"
+
+[[redirects]]
+from = "/policies/"
+to = "/advocacy/"
+
+[[redirects]]
+from = "/the-latest/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique/"
+to = "/the-latest/news/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique/"
+
+[[redirects]]
+from = "/lab/how-we-work/"
+to = "/the-lab/how-we-work/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-experience-of-justice-institutions/"
+to = "/archives-drafts/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-experience-of-justice-institutions/"
+to = "/archives-drafts/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/en/legals-mentions/"
+to = "/legals-mentions/"
+
+[[redirects]]
+from = "/the-latest/2024-11-06-season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna/"
+to = "/the-latest/news/2024-11-06-season-iii-episode-4-chenai-mukumba-how-to-finance-climate-reparations-does-the-framework-of-interna/"
+
+[[redirects]]
+from = "/en/news/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+to = "/the-latest/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+
+[[redirects]]
+from = "/fr/team/michel-degraff/actualites/"
+to = "/michel-degraff/news/"
+
+[[redirects]]
+from = "/news/2024-01-16-job-opening-program-assistant/"
+to = "/the-latest/2024-01-16-job-opening-program-assistant/"
+
+[[redirects]]
+from = "/agenda/2024/05/"
+to = "/the-latest/events/2024/05/"
+
+[[redirects]]
+from = "/our-lab-at-the-un-climate-conference-cop-30-10-21-november-2025/"
+to = "/mobilize-and-act/campaigns/climate-justice-and-reparations-2/our-lab-at-the-un-climate-conference-cop-30-10-21-november-2025/"
+
+[[redirects]]
+from = "/fr/team/kate-theriault/actualites/"
+to = "/team/kate-theriault/news/"
+
+[[redirects]]
+from = "/fr/team/aymar-nyenyezi-bisoka/"
+to = "/aymar-nyenyezi-bisoka/"
+
+[[redirects]]
+from = "/the-latest/2025-09-16-public-statement-on-the-addis-ababa-declaration-from-the-second-africa-climate-summit-1/"
+to = "/the-latest/news/2025-09-16-public-statement-on-the-addis-ababa-declaration-from-the-second-africa-climate-summit-1/"
+
+[[redirects]]
+from = "/kate-theriault/"
+to = "/team/kate-theriault/"
+
+[[redirects]]
+from = "/the-latest/2022-09-14-mame-fatou-niang/"
+to = "/the-latest/news/2022-09-14-mame-fatou-niang/"
+
+[[redirects]]
+from = "/en/team/michel-degraff/"
+to = "/michel-degraff/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-grands-lacs/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/news/2021-10-30-workshop-on-frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-30-workshop-on-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/news/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis-why/"
+to = "/the-latest/news/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis/"
+
+[[redirects]]
+from = "/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+to = "/archives-drafts/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/the-latest/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+to = "/the-latest/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+
+[[redirects]]
+from = "/en/agenda/2024-05-29-conference-meres-africaines-et-leurs-enfants-metis-enleves-par-ladministration-coloniale-belge/"
+to = "/agenda/2024/conference-meres-africaines-et-leurs-enfants-metis-enleves-par-ladministration-coloniale-belge/"
+
+[[redirects]]
+from = "/news/2022-12-15-fellows-spotlight-sihem-bensedrine/"
+to = "/the-latest/news/2022-12-15-sihem-bensedrine/"
+
+[[redirects]]
+from = "/the-latest/types/afalab-in-the-media/calls-for-king-charles-to-formally-apologise-for-slavery-after-research-shows-crown-s-role/"
+to = "/the-latest/news/types/afalab-in-the-media/calls-for-king-charles-to-formally-apologise-for-slavery-after-research-shows-crown-s-role/"
+
+[[redirects]]
+from = "/fr/team/sihem-bensedrine/"
+to = "/sihem-bensedrine/"
+
+[[redirects]]
+from = "/news/2021-12-22-what-does-justice-sound-like/"
+to = "/the-latest/news/2021-12-22-what-does-justice-sound-like/"
+
+[[redirects]]
+from = "/en/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit-opencourseware/"
+to = "/the-latest/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+
+[[redirects]]
+from = "/about-us/gender-justice/"
+to = "/research-and-impact/our-programs/gender-justice-and-reparations/"
+
+[[redirects]]
+from = "/kate-theriault/news/"
+to = "/team/kate-theriault/news/"
+
+[[redirects]]
+from = "/malcom-ferdinand/news/"
+to = "/team/malcom-ferdinand/news/"
+
+[[redirects]]
+from = "/news/2025-03-20-job-opening-events-assistant/"
+to = "/the-latest/2025-03-20-job-opening-events-assistant/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery-1/"
+to = "/the-latest/news/2021-12-22-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery-1/"
+
+[[redirects]]
+from = "/the-latest/news/2023-10-02-post-opening-advocacy-and-policy-officer/"
+to = "/the-latest/2023-10-02-post-opening-advocacy-and-policy-officer/"
+
+[[redirects]]
+from = "/news/2025-06-27-afarise-fellowship-program/"
+to = "/the-latest/news/2025-06-27-afarise-fellowship-program/"
+
+[[redirects]]
+from = "/the-latest/2022-09-07-future-perfect-futur-anterieur/"
+to = "/the-latest/news/2022-09-07-future-perfect-futur-anterieur/"
+
+[[redirects]]
+from = "/en/team/equipe-editoriale/"
+to = "/team/equipe-editoriale/"
+
+[[redirects]]
+from = "/the-latest/news/2024-01-16-job-opening-program-assistant/"
+to = "/the-latest/2024-01-16-job-opening-program-assistant/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+to = "/archives-drafts/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+
+[[redirects]]
+from = "/en/news/2021-05-26-justice-vision-podcast/"
+to = "/news/2021-05-26-justice-vision-podcast/"
+
+[[redirects]]
+from = "/news/moblabs/2023-2024-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2023-2024-moblabs-series/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pour-relever-les-defis-contemporains-du-continent-africain/"
+to = "/archives-drafts/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/en/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-grands-lacs/"
+to = "/the-latest/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-experience-of-justice-institutions/"
+to = "/the-latest/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+to = "/the-latest/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/about-us/how-we-work/"
+to = "/the-lab/how-we-work/"
+
+[[redirects]]
+from = "/the-latest/news/publications/"
+to = "/the-latest/news/types/publications/"
+
+[[redirects]]
+from = "/the-latest/2022-07-28-afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+to = "/the-latest/news/2022-07-28-afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+
+[[redirects]]
+from = "/fr/actualites/shaping-policies/"
+to = "/actualites/shaping-policies/"
+
+[[redirects]]
+from = "/news/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai/"
+to = "/the-latest/news/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai/"
+
+[[redirects]]
+from = "/en/news/2022-06-17-press-release-special-parliamentary-commission-on-belgiums-colonial-past-closing-in-december-2022-would-not-allow-the-commissions-mandate-to-be-fully-realized/"
+to = "/news/2022-06-17-press-release-special-parliamentary-commission-on-belgiums-colonial-past-closing-in-december-2022-would-not-allow-the-commissions-mandate-to-be-fully-realized/"
+
+[[redirects]]
+from = "/en/news/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa/"
+to = "/the-latest/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa/"
+
+[[redirects]]
+from = "/agenda/2024/09/"
+to = "/the-latest/events/2024/09/"
+
+[[redirects]]
+from = "/en/team/kenda-mutongi/"
+to = "/kenda-mutongi/"
+
+[[redirects]]
+from = "/news/2025-07-01-african-futures-lab-participates-in-inaugural-ajjf-reparatory-justice-surgery/"
+to = "/the-latest/news/2025-07-01-african-futures-lab-participates-in-inaugural-ajjf-reparatory-justice-surgery/"
+
+[[redirects]]
+from = "/the-latest/2026-01-28-hericol-conference-colonial-legacies-in-belgium/"
+to = "/the-latest/news/2026-01-28-hericol-conference-colonial-legacies-in-belgium/"
+
+[[redirects]]
+from = "/en/news/2022-05-25-two-years-after-gfs-murder-what-does-the-struggle-for-racial-equality-and-justice-require/"
+to = "/news/2022-05-25-two-years-after-gfs-murder-what-does-the-struggle-for-racial-equality-and-justice-require/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administration/"
+to = "/archives-drafts/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+
+[[redirects]]
+from = "/projects-1/"
+to = "/research-and-impact/current-projects/"
+
+[[redirects]]
+from = "/news/2022/10/19/fellows-spotlight-liepollo-pheko/"
+to = "/the-latest/news/2022-10-19-liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/the-latest/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine/"
+to = "/the-latest/news/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine/"
+
+[[redirects]]
+from = "/news/advocacy/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/agenda/2025/06/"
+to = "/the-latest/events/2025/06/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
+to = "/the-latest/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
+
+[[redirects]]
+from = "/en/team/helene-himmer/"
+to = "/team/helene-himmer/"
+
+[[redirects]]
+from = "/news/research-reports/"
+to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/en/news/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent/"
+to = "/the-latest/news/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent/"
+
+[[redirects]]
+from = "/research/publications/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-grands-lacs/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/agenda/2024-11-20-online-debate-3-advancing-climate-justice/"
+to = "/the-latest/events/2024/online-debate-3-advancing-climate-justice/"
+
+[[redirects]]
+from = "/news/2021-12-22-the-pursuit-of-justice-against-colonial-repression-by-the-mau-mau-in-kenya/"
+to = "/the-latest/news/2021-12-22-the-pursuit-of-justice-against-colonial-repression-by-the-mau-mau-in-kenya/"
+
+[[redirects]]
+from = "/news/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th/"
+to = "/the-latest/news/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th/"
+
+[[redirects]]
+from = "/projects-1/2025-black-women-in-contemporary-european-and-african-societies-challenging-colonial-representations/"
+to = "/research-and-impact/current-projects/2025-unfinished-freedom-the-continuity-of-colonial-violence-without-accountability/"
+
+[[redirects]]
+from = "/mobilization/moblabs-1/"
+to = "/mobilization/moblabs-2/"
+
+[[redirects]]
+from = "/news/2023-05-18-reparations-as-a-means-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+to = "/the-latest/news/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+
+[[redirects]]
+from = "/news/2022-11-02-magali-bessone/"
+to = "/the-latest/news/2022-11-02-magali-bessone/"
+
+[[redirects]]
+from = "/samira-ben-ali/"
+to = "/team/samira-ben-ali/"
+
+[[redirects]]
+from = "/equipe-editoriale/"
+to = "/team/equipe-editoriale/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administration/"
+to = "/archives-drafts/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+
+[[redirects]]
+from = "/news/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique/"
+to = "/the-latest/news/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique/"
+
+[[redirects]]
+from = "/fr/team/yasmine-abdilahi/"
+to = "/team/yasmine-abdilahi/"
+
+[[redirects]]
+from = "/waithera-mwangi/"
+to = "/team/waithera-mwangi/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-reparations-claims-for-slavery-in-france-the-need-for-a-paradigm-shift/"
+to = "/the-latest/news/2021-12-22-reparations-claims-for-slavery-in-france-the-need-for-a-paradigm-shift/"
+
+[[redirects]]
+from = "/en/news/2022-06-02-transatlantic-dialogues/"
+to = "/news/2022-06-02-transatlantic-dialogues/"
+
+[[redirects]]
+from = "/team/menna-agha/"
+to = "/menna-agha/"
+
+[[redirects]]
+from = "/anita-munyaneza/news/"
+to = "/team/anita-munyaneza/news/"
+
+[[redirects]]
+from = "/the-latest/2025-08-06-new-look-same-purpose-introducing-our-evolved-brand-identity/"
+to = "/the-latest/news/2025-08-06-new-look-same-purpose-introducing-our-evolved-brand-identity/"
+
+[[redirects]]
+from = "/news/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante/"
+to = "/the-latest/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante/"
+
+[[redirects]]
+from = "/en/team/malcom-ferdinand/"
+to = "/team/malcom-ferdinand/"
+
+[[redirects]]
+from = "/climate-litigation-case-study-landmark-climate-ruling-saul-lliuya-v-rwe/"
+to = "/mobilize-and-act/campaigns/climate-justice-and-reparations-2/climate-litigation-case-study-landmark-climate-ruling-saul-lliuya-v-rwe/"
+
+[[redirects]]
+from = "/agenda/upcoming/"
+to = "/the-latest/events/upcoming-events/"
+
+[[redirects]]
+from = "/projects-1/2025-festival-wakati-wetu-its-our-time-for-reparations-kenya/"
+to = "/research-and-impact/current-projects/2025-festival-wakati-wetu-its-our-time-for-reparations-kenya/"
+
+[[redirects]]
+from = "/the-latest/2025-06-21-au-eu-expert-seminar-on-transitional-justice-theme-reparations-and-transitional-justice-perspectives/"
+to = "/the-latest/news/2025-06-21-au-eu-expert-seminar-on-transitional-justice-theme-reparations-and-transitional-justice-perspectives/"
+
+[[redirects]]
+from = "/deep-south-solidarity-fund/"
+to = "/organisations/deep-south-solidarity-fund/"
+
+[[redirects]]
+from = "/news/2023-04-13-litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ/"
+to = "/the-latest/news/2023-04-13-litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ/"
+
+[[redirects]]
+from = "/news/2024-10-09-season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat/"
+to = "/the-latest/news/2024-10-09-season-iii-episode-2-ineza-umuhoza-grace-activism-narratives-media-representation-what-is-the-climat/"
+
+[[redirects]]
+from = "/the-latest/2025-04-23-afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations/"
+to = "/the-latest/news/2025-04-23-afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations/"
+
+[[redirects]]
+from = "/news/2021-12-22-why-imprison-contemporary-incarceration-policies-from-a-post-colonial-perspective/"
+to = "/the-latest/news/2021-12-22-why-imprison-contemporary-incarceration-policies-from-a-post-colonial-perspective/"
+
+[[redirects]]
+from = "/the-lab/donate/"
+to = "/support-us/donate/"
+
+[[redirects]]
+from = "/the-latest/types/amicus-briefs/"
+to = "/the-latest/news/types/amicus-briefs/"
+
+[[redirects]]
+from = "/noesya/"
+to = "/organisations/noesya/"
+
+[[redirects]]
+from = "/the-latest/news/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante/"
+to = "/the-latest/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante/"
+
+[[redirects]]
+from = "/agenda/2024/roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparations-justice-in-africa/"
+to = "/the-latest/events/2024/roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparations-justice-in-africa/"
+
+[[redirects]]
+from = "/news/2022/11/02/fellows-spotlight-magali-bessone/"
+to = "/the-latest/news/2022-11-02-magali-bessone/"
+
+[[redirects]]
+from = "/en/outreach/events/afalives/"
+to = "/archives-drafts/outreach/events-draft/afalives/"
+
+[[redirects]]
+from = "/the-latest/2024-11-27-season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link/"
+to = "/the-latest/news/2024-11-27-season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link/"
+
+[[redirects]]
+from = "/agenda/2023/afalive-3/"
+to = "/the-latest/events/2023/afalive-3/"
+
+[[redirects]]
+from = "/news/2021-12-22-transitional-justice-to-address-colonial-legacies-decolonizing-transitional-justice-first/"
+to = "/the-latest/news/2021-12-22-transitional-justice-to-address-colonial-legacies-decolonizing-transitional-justice-first/"
+
+[[redirects]]
+from = "/news/2022-08-31-reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+to = "/the-latest/news/2022-08-31-reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+
+[[redirects]]
+from = "/researching/global-racial-inequality-dashboard/"
+to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
+
+[[redirects]]
+from = "/the-latest/news/2025-03-06-job-opening-event-intern/"
+to = "/the-latest/2025-03-06-job-opening-event-intern/"
+
+[[redirects]]
+from = "/the-latest/news/mobilization/moblabs/"
+to = "/the-latest/news/themes/moblabs/"
+
+[[redirects]]
+from = "/the-latest/types/podcast/"
+to = "/the-latest/news/types/podcast/"
+
+[[redirects]]
+from = "/the-latest/news/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+to = "/the-latest/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+
+[[redirects]]
+from = "/news/2022/11/16/fellows-spotlight-menna-agha/"
+to = "/the-latest/news/2022-11-16-menna-agha/"
+
+[[redirects]]
+from = "/news/2022/11/10/notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+to = "/the-latest/news/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/"
+
+[[redirects]]
+from = "/support-us/how-to-support-us/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/en/news/2022-09-07-introduction-to-future-perfect/"
+to = "/the-latest/news/2022-09-07-introduction-to-future-perfect/"
+
+[[redirects]]
+from = "/about-us/transformative-climate-justice-info/"
+to = "/research-and-impact/our-programs/climate-justice-and-reparations-1/"
+
+[[redirects]]
+from = "/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+to = "/the-latest/news/2023-10-17-reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/news/"
+to = "/the-latest/news/"
+
+[[redirects]]
+from = "/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-and-africa-1/"
+to = "/the-latest/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a/"
+
+[[redirects]]
+from = "/en/agenda/2024-05-29-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+to = "/agenda/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+
+[[redirects]]
+from = "/en/news/2021-06-17-a-conversation-with-liliane-umubyeyi-and-amah-edoh-on-reparations/"
+to = "/news/2021-06-17-a-conversation-with-liliane-umubyeyi-and-amah-edoh-on-reparations/"
+
+[[redirects]]
+from = "/the-latest/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers/"
+to = "/the-latest/news/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers/"
+
+[[redirects]]
+from = "/en/news/2021-12-06-utiliser-les-archives-dans-la-reconnaissance-du-passe-colonial-de-la-belgique-mit-opencourseware/"
+to = "/the-latest/news/2021-12-06-utiliser-les-archives-dans-la-reconnaissance-du-passe-colonial-de-la-belgique-mit-opencourseware/"
+
+[[redirects]]
+from = "/agenda/2025/05/"
+to = "/the-latest/events/2025/05/"
+
+[[redirects]]
+from = "/news/shaping-policies/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/the-latest/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+to = "/the-latest/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+
+[[redirects]]
+from = "/en/news/documenting-movements/"
+to = "/the-latest/news/themes/documenting-movements/"
+
+[[redirects]]
+from = "/fr/actualites/fellows-spotlight/"
+to = "/actualites/fellows-spotlight/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+
+[[redirects]]
+from = "/team/nabeelah-shabbir/actualites/"
+to = "/team/nabeelah-shabbir/news/"
+
+[[redirects]]
+from = "/the-latest/2026-04-13-amicus-brief-to-african-court-on-human-and-peoples-rights-advisory-opinion/"
+to = "/the-latest/news/2026-04-13-amicus-brief-to-african-court-on-human-and-peoples-rights-advisory-opinion/"
+
+[[redirects]]
+from = "/the-latest/news/2024-12-12-job-opening-climate-justice-research-an-policy-adviser/"
+to = "/the-latest/2024-12-12-job-opening-climate-justice-research-an-policy-adviser/"
+
+[[redirects]]
+from = "/en/"
+to = "/"
+
+[[redirects]]
+from = "/fr/team/eva-njoki-munyiri/"
+to = "/eva-njoki-munyiri/"
+
+[[redirects]]
+from = "/en/advocacy/"
+to = "/advocacy/"
+
+[[redirects]]
+from = "/en/privacy-policy/"
+to = "/privacy-policy/"
+
+[[redirects]]
+from = "/the-latest/2021-11-30-workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+to = "/the-latest/news/2021-11-30-workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+
+[[redirects]]
+from = "/en/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+to = "/the-latest/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+
+[[redirects]]
+from = "/fr/team/magali-bessone/"
+to = "/team/magali-bessone/"
+
+[[redirects]]
+from = "/en/news/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+to = "/the-latest/news/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-introduction-sustaining-the-momentum-2/"
+to = "/the-latest/news/2021-12-22-introduction-sustaining-the-momentum-2/"
+
+[[redirects]]
+from = "/cacoburwa-collective/"
+to = "/team/cacoburwa-collective/"
+
+[[redirects]]
+from = "/the-lab/about-us-or-our-story/"
+to = "/the-lab/our-story/"
+
+[[redirects]]
+from = "/rania-youssef/"
+to = "/team/rania-youssef/"
+
+[[redirects]]
+from = "/en/news/2021-02-17-belgium-to-congo-colonialism-reparation-and-truth-and-reconciliation-commissions-institute-of-european-studies-cornell-university/"
+to = "/news/2021-02-17-belgium-to-congo-colonialism-reparation-and-truth-and-reconciliation-commissions-institute-of-european-studies-cornell-university/"
+
+[[redirects]]
+from = "/news/2021/02/17/belgium-to-congo-colonialism-reparation-and-truth-and-reconciliation-commissions-institute-of-european-studies-cornell-university/"
+to = "/news/2021-02-17-belgium-to-congo-colonialism-reparation-and-truth-and-reconciliation-commissions-institute-of-european-studies-cornell-university/"
+
+[[redirects]]
+from = "/en/team/mame-fatou-niang/"
+to = "/mame-fatou-niang/"
+
+[[redirects]]
+from = "/categories/partners/"
+to = "/organisations/categories/partners/"
+
+[[redirects]]
+from = "/en/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pour-relever-les-defis-contemporains-du-continent-africain/"
+to = "/the-latest/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-the-pursuit-of-justice-against-colonial-repression-by-the-mau-mau-in-kenya/"
+to = "/the-latest/news/2021-12-22-the-pursuit-of-justice-against-colonial-repression-by-the-mau-mau-in-kenya/"
+
+[[redirects]]
+from = "/en/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-healing-at-the-vatican/"
+to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+
+[[redirects]]
+from = "/the-latest/2026-01-21-afarise-fellows-2025-2027-1/"
+to = "/the-latest/news/2026-01-21-afarise-fellows-2025-2027-1/"
+
+[[redirects]]
+from = "/en/team/mireille-tsheusi-robert/"
+to = "/mireille-tsheusi-robert/"
+
+[[redirects]]
+from = "/fr/team/olivia-umurerwa-rutazibwa/"
+to = "/team/olivia-umurerwa-rutazibwa/"
+
+[[redirects]]
+from = "/en/news/2022-02-23-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+to = "/the-latest/news/2022-02-23-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+
+[[redirects]]
+from = "/news/2022-09-07-future-perfect-futur-anterieur/"
+to = "/the-latest/news/2022-09-07-future-perfect-futur-anterieur/"
+
+[[redirects]]
+from = "/the-lab/donate-1/"
+to = "/support-us/donate/"
+
+[[redirects]]
+from = "/en/news/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+to = "/the-latest/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+
+[[redirects]]
+from = "/en/news/2022-06-09-annual-report/"
+to = "/the-latest/news/2022-06-09-annual-report/"
+
+[[redirects]]
+from = "/agenda/2024-05-29-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+to = "/agenda/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+
+[[redirects]]
+from = "/en/research/research-projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/archives-drafts/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/the-latest/news/themes/mobilization/moblabs/"
+to = "/the-latest/news/themes/moblabs/"
+
+[[redirects]]
+from = "/en/advocacy/events/"
+to = "/outreach/events/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-from-the-colonial-past-to-today-s-anti-black-racism-in-belgium-modalities-of-change/"
+to = "/the-latest/news/2021-12-22-from-the-colonial-past-to-today-s-anti-black-racism-in-belgium-modalities-of-change/"
+
+[[redirects]]
+from = "/news/publications/"
+to = "/the-latest/news/types/publications/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-introduction-sustaining-the-momentum-2/"
+to = "/the-latest/news/2021-12-22-introduction-sustaining-the-momentum-2/"
+
+[[redirects]]
+from = "/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-alge/"
+to = "/the-latest/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-alge/"
+
+[[redirects]]
+from = "/en/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-and-africa-1/"
+to = "/the-latest/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a/"
+
+[[redirects]]
+from = "/the-latest/themes/moblabs/"
+to = "/the-latest/news/themes/moblabs/"
+
+[[redirects]]
+from = "/en/news/2022-07-28-afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+to = "/the-latest/news/2022-07-28-afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+
+[[redirects]]
+from = "/about-us/transformative-climate-justice/"
+to = "/research-and-impact/our-programs/climate-justice-and-reparations-1/"
+
+[[redirects]]
+from = "/research/areas-of-action/"
+to = "/research/program-areas/"
+
+[[redirects]]
+from = "/news/2022/10/26/mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+to = "/the-latest/news/2022-10-26-mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+
+[[redirects]]
+from = "/researching/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/archives-drafts/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/strategies-building/mobilization-labs/"
+to = "/mobilization/moblabs-2/"
+
+[[redirects]]
+from = "/agenda/2025/02/"
+to = "/the-latest/events/2025/02/"
+
+[[redirects]]
+from = "/outreach/events/afalives/"
+to = "/archives-drafts/outreach/events-draft/afalives/"
+
+[[redirects]]
+from = "/news/2024-11-18-africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies/"
+to = "/the-latest/news/2024-11-18-africans-and-people-of-african-descent-call-on-europe-to-reckon-with-their-colonial-legacies/"
+
+[[redirects]]
+from = "/support-us-/"
+to = "/how-to-support-us/"
+
+[[redirects]]
+from = "/the-latest/2025-06-27-programme-de-fellowship-dafrican-futures-lab-2025-2027/"
+to = "/the-latest/news/2025-06-27-programme-de-fellowship-dafrican-futures-lab-2025-2027/"
+
+[[redirects]]
+from = "/en/research/projects/global-racial-inequality-dashboard/"
+to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
+
+[[redirects]]
+from = "/en/news/publications/reports-and-policy-briefs/"
+to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/the-latest/2026-03-17-ending-decades-of-impunity-the-lumumba-case-moves-to-trial/"
+to = "/the-latest/news/2026-03-17-ending-decades-of-impunity-the-lumumba-case-moves-to-trial/"
+
+[[redirects]]
+from = "/news/2024-09-18-unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework/"
+to = "/the-latest/news/2024-09-18-unlocking-climate-reparations-key-obstacles-in-the-emergence-of-a-climate-reparations-framework/"
+
+[[redirects]]
+from = "/news/2023-07-18-afalabs-2022-annual-report/"
+to = "/the-latest/news/2023-07-18-afalabs-2022-annual-report/"
+
+[[redirects]]
+from = "/agenda/2023-07-12-afalive-3/"
+to = "/the-latest/events/2023/afalive-3/"
+
+[[redirects]]
+from = "/the-latest/2022-10-26-mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+to = "/the-latest/news/2022-10-26-mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+
+[[redirects]]
+from = "/the-latest/themes/fellows-spotlight/"
+to = "/the-latest/news/themes/fellows-spotlight/"
+
+[[redirects]]
+from = "/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+to = "/the-latest/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+
+[[redirects]]
+from = "/the-latest/2025-09-01-afcodd-v-convened-in-accra-africas-call-for-reparations-justice-and-debt-freedom/"
+to = "/the-latest/news/2025-09-01-afcodd-v-convened-in-accra-africas-call-for-reparations-justice-and-debt-freedom/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-on-the-very-political-depoliticization-of-reparations/"
+to = "/the-latest/news/2021-12-22-on-the-very-political-depoliticization-of-reparations/"
+
+[[redirects]]
+from = "/news/2022/12/07/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/news/2022-12-07-pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/the-latest/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+to = "/the-latest/news/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+
+[[redirects]]
+from = "/the-latest/2022-10-05-fania-no-l/"
+to = "/the-latest/news/2022-10-05-fania-no-l/"
+
+[[redirects]]
+from = "/maud-kadye/"
+to = "/team/maud-kadye/"
+
+[[redirects]]
+from = "/the-lab/our-mission/"
+to = "/about-us/how-the-lab-came-to-be/our-mission/"
+
+[[redirects]]
+from = "/agenda/2023-06-29-afalive-2/"
+to = "/the-latest/events/2023/afalive-2/"
+
+[[redirects]]
+from = "/en/news/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations/"
+to = "/the-latest/news/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations/"
+
+[[redirects]]
+from = "/news/2022-07-28-afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+to = "/the-latest/news/2022-07-28-afalab-is-attending-the-advancing-justice-reparations-and-racial-healing-summit/"
+
+[[redirects]]
+from = "/african-futures-lab/"
+to = "/homepage-cop30/"
+
+[[redirects]]
+from = "/the-latest/themes/"
+to = "/the-latest/news/themes/"
+
+[[redirects]]
+from = "/en/team/cacoburwa-collective/"
+to = "/team/cacoburwa-collective/"
+
+[[redirects]]
+from = "/news/2022-10-26-mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+to = "/the-latest/news/2022-10-26-mame-fatou-niang-working-with-through-and-around-silences-in-the-debate-on-race-in-france/"
+
+[[redirects]]
+from = "/reform-initiatives/"
+to = "/organisations/reform-initiatives/"
+
+[[redirects]]
+from = "/en/team/liepollo-lebohang-pheko/"
+to = "/liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/projects-1/2025-mothers-metis-children-from-drc-burundi-and-rwanda-against-the-belgian-state/"
+to = "/research-and-impact/current-projects/2025-mothers-metis-children-from-drc-burundi-and-rwanda-against-the-belgian-state/"
+
+[[redirects]]
+from = "/en/news/current-projects/"
+to = "/the-latest/news/types/current-projects/"
+
+[[redirects]]
+from = "/news/2021-10-12-frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-12-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/news/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy/"
+to = "/the-latest/news/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-contemporary-challenges-1/"
+to = "/archives-drafts/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/the-latest/news/2024-12-12-job-opening-communication-officer/"
+to = "/the-latest/2024-12-12-job-opening-communication-officer/"
+
+[[redirects]]
+from = "/the-latest/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+to = "/the-latest/news/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+
+[[redirects]]
+from = "/news/fellows-spotlight/"
+to = "/the-latest/news/themes/fellows-spotlight/"
+
+[[redirects]]
+from = "/news/2023-12-18-west-africa-mobilization-lab-on-reparations/"
+to = "/the-latest/news/2023-12-18-west-africa-mobilization-lab-on-reparations/"
+
+[[redirects]]
+from = "/news/2021-12-22-slavery-as-ecocide-beyond-the-double-fracture-of-modernity/"
+to = "/the-latest/news/2021-12-22-slavery-as-ecocide-beyond-the-double-fracture-of-modernity/"
+
+[[redirects]]
+from = "/west-africa-civil-society-institute/"
+to = "/organisations/west-africa-civil-society-institute/"
+
+[[redirects]]
+from = "/news/2024-03-20-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+to = "/the-latest/news/2024-03-21-meaningful-participation-of-civil-society-and-state-actors-in-international-negotiations-concerning-/"
+
+[[redirects]]
+from = "/news/2024-07-17-debt-cancellation-is-not-enough/"
+to = "/the-latest/news/2024-07-17-debt-cancellation-is-not-enough/"
+
+[[redirects]]
+from = "/news/2021/03/01/justice-now-symposium/"
+to = "/the-latest/news/2021-03-01-justice-now-symposium/"
+
+[[redirects]]
+from = "/how-to-support-us/support-us/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/news/afalive/"
+to = "/the-latest/news/types/afalive/"
+
+[[redirects]]
+from = "/agenda/2024/online-debate-1-taking-a-historical-view-of-climate-reparations/"
+to = "/the-latest/events/2024/online-debate-1-taking-a-historical-view-of-climate-reparations/"
+
+[[redirects]]
+from = "/en/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice-september-december-2021/"
+to = "/the-latest/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-transitional-justice-to-address-colonial-legacies-decolonizing-transitional-justice-first/"
+to = "/the-latest/news/2021-12-22-transitional-justice-to-address-colonial-legacies-decolonizing-transitional-justice-first/"
+
+[[redirects]]
+from = "/news/2022/10/04/reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair-and-inaccurate-judgment/"
+to = "/the-latest/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+
+[[redirects]]
+from = "/agenda/2024-05-29-conference-meres-africaines-et-leurs-enfants-metis-enleves-par-ladministration-coloniale-belge/"
+to = "/agenda/2024/conference-meres-africaines-et-leurs-enfants-metis-enleves-par-ladministration-coloniale-belge/"
+
+[[redirects]]
+from = "/the-latest/2025-06-27-afarise-fellowship-program/"
+to = "/the-latest/news/2025-06-27-afarise-fellowship-program/"
+
+[[redirects]]
+from = "/en/news/2021-11-30-workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+to = "/the-latest/news/2021-11-30-workshop-on-transitional-justice-and-belgiums-colonial-past-with-cacoburwa/"
+
+[[redirects]]
+from = "/news/2022/05/25/two-years-after-gfs-murder-what-does-the-struggle-for-racial-equality-and-justice-require/"
+to = "/news/2022-05-25-two-years-after-gfs-murder-what-does-the-struggle-for-racial-equality-and-justice-require/"
+
+[[redirects]]
+from = "/news/2022-06-09-annual-report/"
+to = "/the-latest/news/2022-06-09-annual-report/"
+
+[[redirects]]
+from = "/agenda/2024-11-05-online-debate-2-amplifying-the-voices-of-the-most-vulnerable-youth/"
+to = "/the-latest/events/2024/online-debate-2-amplifying-the-voices-of-the-most-vulnerable-youth/"
+
+[[redirects]]
+from = "/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit-opencourseware/"
+to = "/the-latest/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+
+[[redirects]]
+from = "/agenda/archives/"
+to = "/the-latest/events/archives/"
+
+[[redirects]]
+from = "/the-latest/2021-03-01-justice-now-symposium/"
+to = "/the-latest/news/2021-03-01-justice-now-symposium/"
+
+[[redirects]]
+from = "/agenda/2024/03/"
+to = "/the-latest/events/2024/03/"
+
+[[redirects]]
+from = "/news/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s/"
+to = "/the-latest/news/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-now-in-europes-self-interest-to-compensate-africa-for-s/"
+
+[[redirects]]
+from = "/en/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racism-in-italy/"
+to = "/the-latest/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
+
+[[redirects]]
+from = "/fr/team/matt-dann/"
+to = "/en/team/matt-dann/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/agenda/2025-02-11-amplifying-voices-and-building-alliances-for-reparatory-justice/"
+to = "/the-latest/events/2025/amplifying-voices-and-building-alliances-for-reparatory-justice/"
+
+[[redirects]]
+from = "/news/mobilization/moblabs/2021-2022-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2021-2022-moblabs-series/"
+
+[[redirects]]
+from = "/team/aymar-nyenyezi-bisoka/"
+to = "/aymar-nyenyezi-bisoka/"
+
+[[redirects]]
+from = "/baraza-media-lab/"
+to = "/organisations/baraza-media-lab/"
+
+[[redirects]]
+from = "/en/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-coloniales-en-martinique-et-en-guadeloupe/"
+to = "/the-latest/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+
+[[redirects]]
+from = "/the-latest/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations/"
+to = "/the-latest/news/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations/"
+
+[[redirects]]
+from = "/the-latest/types/publications/"
+to = "/the-latest/news/types/publications/"
+
+[[redirects]]
+from = "/en/team/liliane-umubyeyi/"
+to = "/team/liliane-umubyeyi-phd/"
+
+[[redirects]]
+from = "/en/research/program-areas/environmental-violence/"
+to = "/archives-drafts/program-areas/climate-justice-and-reparations/"
+
+[[redirects]]
+from = "/en/news/advocacy/"
+to = "/the-latest/news/types/campaigns/"
+
+[[redirects]]
+from = "/en/news/2022-12-07-pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/news/2022-12-07-pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/the-latest/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+to = "/the-latest/news/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+
+[[redirects]]
+from = "/news/2022/07/29/fellows-spotlight/"
+to = ""
+
+[[redirects]]
+from = "/the-latest/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/"
+to = "/the-latest/news/2024-05-22-geneva-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/"
+
+[[redirects]]
+from = "/news/2022/12/15/fellows-spotlight-sihem-bensedrine/"
+to = "/the-latest/news/2022-12-15-sihem-bensedrine/"
+
+[[redirects]]
+from = "/maureen-kasuku/"
+to = "/team/maureen-kasuku/"
+
+[[redirects]]
+from = "/team/malcom-ferdinand/actualites/"
+to = "/team/malcom-ferdinand/news/"
+
+[[redirects]]
+from = "/agenda/2024/online-debate-2-amplifying-the-voices-of-the-most-vulnerable-youth/"
+to = "/the-latest/events/2024/online-debate-2-amplifying-the-voices-of-the-most-vulnerable-youth/"
+
+[[redirects]]
+from = "/en/mobilization/"
+to = "/mobilize-and-act/moblabs/"
+
+[[redirects]]
+from = "/news/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+to = "/the-latest/news/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+
+[[redirects]]
+from = "/news/2025-04-23-submission-to-cerd-general-recommendation-regarding-reparations-for-the-historical-injustices-from-t/"
+to = "/the-latest/news/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations/"
+
+[[redirects]]
+from = "/news/documenting-movements/"
+to = "/the-latest/news/themes/documenting-movements/"
+
+[[redirects]]
+from = "/en/news/2020-11-17-justice-expeerience-podcast/"
+to = "/news/2020-11-17-justice-expeerience-podcast/"
+
+[[redirects]]
+from = "/en/team/michel-degraff/news/"
+to = "/michel-degraff/news/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pour-relever-les-defis-contemporains-du-continent-africain/"
+to = "/archives-drafts/reports-and-policy-briefs-1/les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/the-latest/news/2025-04-04-job-opening-administrative-finance-and-logistics-officer/"
+to = "/the-latest/2025-04-04-job-opening-administrative-finance-and-logistics-officer/"
+
+[[redirects]]
+from = "/en/team/bettina-stoetzer/"
+to = "/bettina-stoetzer/"
+
+[[redirects]]
+from = "/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+to = "/archives-drafts/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+
+[[redirects]]
+from = "/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la/"
+to = "/the-latest/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la/"
+
+[[redirects]]
+from = "/en/news/job-opportunities/"
+to = "/the-latest/news/types/job-opportunities/"
+
+[[redirects]]
+from = "/the-latest/themes/mobilization/"
+to = "/the-latest/news/themes/mobilization/"
+
+[[redirects]]
+from = "/how-to-support-us/donate-1/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/the-latest/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+to = "/the-latest/news/2023-11-29-multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+
+[[redirects]]
+from = "/the-latest/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la/"
+to = "/the-latest/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la/"
+
+[[redirects]]
+from = "/news/2022-02-23-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+to = "/the-latest/news/2022-02-23-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+
+[[redirects]]
+from = "/agenda/2025/03/"
+to = "/the-latest/events/2025/03/"
+
+[[redirects]]
+from = "/fr/team/fania-noel/"
+to = "/fania-noel/"
+
+[[redirects]]
+from = "/en/news/2022-10-05-fania-no-l/"
+to = "/the-latest/news/2022-10-05-fania-no-l/"
+
+[[redirects]]
+from = "/news/2022-09-13-1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+to = "/the-latest/news/2022-09-13-1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+
+[[redirects]]
+from = "/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair-and-inaccurate-judgment/"
+to = "/the-latest/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+
+[[redirects]]
+from = "/en/news/2022-05-02-finding-expertise-everywhere-with-professor-m-amah-edoh/"
+to = "/news/2022-05-02-finding-expertise-everywhere-with-professor-m-amah-edoh/"
+
+[[redirects]]
+from = "/en/agenda/archives/"
+to = "/the-latest/events/archives/"
+
+[[redirects]]
+from = "/en/the-lab/"
+to = "/about-us/how-the-lab-came-to-be/"
+
+[[redirects]]
+from = "/rebecca-kabejja/"
+to = "/team/rebecca-kabejja/"
+
+[[redirects]]
+from = "/fr/team/bettina-stoetzer/"
+to = "/bettina-stoetzer/"
+
+[[redirects]]
+from = "/en/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair-and-inaccurate-judgment/"
+to = "/the-latest/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+
+[[redirects]]
+from = "/news/2022/09/13/1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+to = "/the-latest/news/2022-09-13-1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+
+[[redirects]]
+from = "/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+to = "/the-latest/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+
+[[redirects]]
+from = "/en/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-algerie/"
+to = "/the-latest/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-alge/"
+
+[[redirects]]
+from = "/helene-himmer/"
+to = "/team/helene-himmer/"
+
+[[redirects]]
+from = "/the-latest/2026-02-13-afrodad-press-briefing-at-the-39th-african-union-summit/"
+to = "/the-latest/news/2026-02-13-afrodad-press-briefing-at-the-39th-african-union-summit/"
+
+[[redirects]]
+from = "/agenda/2025/08/"
+to = "/the-latest/events/2025/08/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-from-the-colonial-past-to-today-s-anti-black-racism-in-belgium-modalities-of-change/"
+to = "/the-latest/news/2021-12-22-from-the-colonial-past-to-today-s-anti-black-racism-in-belgium-modalities-of-change/"
+
+[[redirects]]
+from = "/the-lab/our-mission-new/"
+to = "/about-us/how-the-lab-came-to-be/what-we-do/"
+
+[[redirects]]
+from = "/en/research/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/archives-drafts/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/lavender-namdiero/"
+to = "/team/lavender-namdiero/"
+
+[[redirects]]
+from = "/lakshita-kanhiya/"
+to = "/team/lakshita-kanhiya/"
+
+[[redirects]]
+from = "/fr/team/liliane-umubyeyi/"
+to = "/team/liliane-umubyeyi-phd/"
+
+[[redirects]]
+from = "/the-latest/themes/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/en/outreach/events/"
+to = "/outreach/events/"
+
+[[redirects]]
+from = "/news/2022/09/28/building-a-global-african-movement-for-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-09-28-building-a-global-african-movement-for-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/news/2025-03-06-job-opening-event-intern/"
+to = "/the-latest/2025-03-06-job-opening-event-intern/"
+
+[[redirects]]
+from = "/en/news/2022-01-18-land-and-reparative-justice/"
+to = "/the-latest/news/2022-01-18-land-and-reparative-justice/"
+
+[[redirects]]
+from = "/team/mame-fatou-niang/"
+to = "/mame-fatou-niang/"
+
+[[redirects]]
+from = "/news/2020/11/17/justice-expeerience-podcast/"
+to = "/news/2020-11-17-justice-expeerience-podcast/"
+
+[[redirects]]
+from = "/mobilization/campaigns/"
+to = "/mobilize-and-act/campaigns/"
+
+[[redirects]]
+from = "/news/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+to = "/the-latest/news/2023-05-18-reparations-to-restore-dignity-pursuing-justice-for-the-ovaherero-and-nama-genocide-in-namibia/"
+
+[[redirects]]
+from = "/news/events-1/"
+to = "/the-latest/events/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-what-does-justice-sound-like/"
+to = "/the-latest/news/2021-12-22-what-does-justice-sound-like/"
+
+[[redirects]]
+from = "/fr/team/mireille-tsheusi-robert/"
+to = "/mireille-tsheusi-robert/"
+
+[[redirects]]
+from = "/news/2024-12-16-belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great/"
+to = "/the-latest/news/2024-12-16-belgium-condemned-for-crimes-against-humanity-what-future-for-reparations-to-the-metis-of-the-great/"
+
+[[redirects]]
+from = "/news/shaping-policies/"
+to = "/the-latest/news/themes/shaping-policies/"
+
+[[redirects]]
+from = "/the-latest/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations/"
+to = "/the-latest/news/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations/"
+
+[[redirects]]
+from = "/magali-bessone/"
+to = "/team/magali-bessone/"
+
+[[redirects]]
+from = "/en/team/magali-bessone/news/"
+to = "/team/magali-bessone/news/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-what-does-justice-sound-like/"
+to = "/the-latest/news/2021-12-22-what-does-justice-sound-like/"
+
+[[redirects]]
+from = "/news/2020/11/03/righting-historical-wrongs-belgiums-colonial-past-and-the-quest-for-justice/"
+to = "/news/2020-11-03-righting-historical-wrongs-belgiums-colonial-past-and-the-quest-for-justice/"
+
+[[redirects]]
+from = "/about-us/2025/call-for-consultants-research-case-studies-on-climate-reparations-and-green-colonialism-in-africa/"
+to = "/about-us/job-offers/2025/call-for-consultants-research-case-studies-on-climate-reparations-and-green-colonialism-in-africa/"
+
+[[redirects]]
+from = "/news/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations/"
+to = "/the-latest/news/2025-04-23-joint-submission-to-the-un-committee-on-the-elimination-of-racial-discrimination-cerd-on-reparations/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-on-the-very-political-depoliticization-of-reparations/"
+to = "/the-latest/news/2021-12-22-on-the-very-political-depoliticization-of-reparations/"
+
+[[redirects]]
+from = "/agenda/2025/10/"
+to = "/the-latest/events/2025/10/"
+
+[[redirects]]
+from = "/mobilize-and-act/campaigns/gender-justice-and-reparations-1/unfinished-freedom/"
+to = "/mobilize-and-act/campaigns/unfinished-freedom/"
+
+[[redirects]]
+from = "/about-us/how-the-lab-came-to-be/donate/"
+to = "/support-us/donate/"
+
+[[redirects]]
+from = "/en/news/2020-11-03-righting-historical-wrongs-belgiums-colonial-past-and-the-quest-for-justice/"
+to = "/news/2020-11-03-righting-historical-wrongs-belgiums-colonial-past-and-the-quest-for-justice/"
+
+[[redirects]]
+from = "/the-latest/2022-09-13-1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+to = "/the-latest/news/2022-09-13-1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+
+[[redirects]]
+from = "/en/news/2022-09-28-building-a-global-african-movement-for-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-09-28-building-a-global-african-movement-for-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/en/news/2022-09-14-mame-fatou-niang/"
+to = "/the-latest/news/2022-09-14-mame-fatou-niang/"
+
+[[redirects]]
+from = "/the-latest/themes/documenting-movements/"
+to = "/the-latest/news/themes/documenting-movements/"
+
+[[redirects]]
+from = "/news/publications/annual-reports/"
+to = "/the-latest/news/types/annual-reports/"
+
+[[redirects]]
+from = "/news/2024-12-12-job-opening-communication-officer/"
+to = "/the-latest/2024-12-12-job-opening-communication-officer/"
+
+[[redirects]]
+from = "/team/bettina-stoetzer/"
+to = "/bettina-stoetzer/"
+
+[[redirects]]
+from = "/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+to = "/archives-drafts/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/en/the-lab/how-we-work/"
+to = "/the-lab/how-we-work/"
+
+[[redirects]]
+from = "/archives-drafts/outreach/events/afalives/"
+to = "/archives-drafts/outreach/events-draft/afalives/"
+
+[[redirects]]
+from = "/fr/"
+to = "/"
+
+[[redirects]]
+from = "/the-latest/themes/lumumba/"
+to = "/the-latest/news/themes/lumumba/"
+
+[[redirects]]
+from = "/news/2022-10-19-fellows-spotlight-liepollo-pheko/"
+to = "/the-latest/news/2022-10-19-liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/the-latest/2022-10-19-liepollo-lebohang-pheko/"
+to = "/the-latest/news/2022-10-19-liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/en/news/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique/"
+to = "/the-latest/news/2023-04-20-en-quete-de-respect-et-de-justice-regards-sur-les-luttes-antiracistes-et-decoloniales-en-belgique/"
+
+[[redirects]]
+from = "/news/2024-11-27-season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link/"
+to = "/the-latest/news/2024-11-27-season-iii-episode-5-fadhel-kaboub-international-financial-institutions-rooted-in-the-intrinsic-link/"
+
+[[redirects]]
+from = "/martin-mavenjina/news/"
+to = "/team/martin-mavenjina/news/"
+
+[[redirects]]
+from = "/news/2022-11-02-fellows-spotlight-magali-bessone/"
+to = "/the-latest/news/2022-11-02-magali-bessone/"
+
+[[redirects]]
+from = "/news/2025-03-27-reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions/"
+to = "/the-latest/news/2025-03-27-reparations-for-climate-and-biodiversity-loss-deep-dive-into-challenges-and-solutions/"
+
+[[redirects]]
+from = "/the-latest/2025-06-05-patrick-toussaint-joins-the-au-ecosocc-climate-change-working-group-ccwg/"
+to = "/the-latest/news/2025-06-05-patrick-toussaint-joins-the-au-ecosocc-climate-change-working-group-ccwg/"
+
+[[redirects]]
+from = "/en/news/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts/"
+to = "/the-latest/news/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-grands-lacs/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/research/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+to = "/archives-drafts/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+
+[[redirects]]
+from = "/the-latest/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa/"
+to = "/the-latest/news/2023-11-27-afalab-in-the-guardian-europes-hollow-apologies-for-colonial-crimes-stand-in-the-way-of-genuine-repa/"
+
+[[redirects]]
+from = "/martin-mavenjina/"
+to = "/team/martin-mavenjina/"
+
+[[redirects]]
+from = "/agenda/2025/07/"
+to = "/the-latest/events/2025/07/"
+
+[[redirects]]
+from = "/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+
+[[redirects]]
+from = "/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pour-relever-les-defis-contemporains-du-continent-africain/"
+to = "/the-latest/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+
+[[redirects]]
+from = "/en/news/shaping-policies/"
+to = "/the-latest/news/themes/shaping-policies/"
+
+[[redirects]]
+from = "/news/2025-06-21-au-eu-expert-seminar-on-transitional-justice-theme-reparations-and-transitional-justice-perspectives/"
+to = "/the-latest/news/2025-06-21-au-eu-expert-seminar-on-transitional-justice-theme-reparations-and-transitional-justice-perspectives/"
+
+[[redirects]]
+from = "/en/news/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge/"
+to = "/the-latest/news/2024-04-04-metis-abandonnes-dans-la-region-des-grands-lacs-par-administration-coloniale-belge/"
+
+[[redirects]]
+from = "/liliane-umubyeyi-phd/news/"
+to = "/team/liliane-umubyeyi-phd/news/"
+
+[[redirects]]
+from = "/the-latest/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th/"
+to = "/the-latest/news/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-international-law-regulations-negotiations-addressing-th/"
+
+[[redirects]]
+from = "/agenda/past-events/"
+to = "/the-latest/events/past-events/"
+
+[[redirects]]
+from = "/news/2024-04-08-upcoming-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/"
+to = "/news/2024-04-08-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations-1/"
+
+[[redirects]]
+from = "/en/team/kate-theriault/news/"
+to = "/team/kate-theriault/news/"
+
+[[redirects]]
+from = "/en/news/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy/"
+to = "/the-latest/news/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy/"
+
+[[redirects]]
+from = "/agenda/2025/09/"
+to = "/the-latest/events/2025/09/"
+
+[[redirects]]
+from = "/the-latest/2026-01-16-communique-de-presse-65e-anniversaire-de-lassassinat-de-patrice-emery-lumumba/"
+to = "/the-latest/news/2026-01-16-communique-de-presse-65e-anniversaire-de-lassassinat-de-patrice-emery-lumumba/"
+
+[[redirects]]
+from = "/en/news/afalive/"
+to = "/the-latest/news/types/afalive/"
+
+[[redirects]]
+from = "/en/news/2022-10-19-liepollo-lebohang-pheko/"
+to = "/the-latest/news/2022-10-19-liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/the-latest/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+to = "/the-latest/news/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+
+[[redirects]]
+from = "/news/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+to = "/the-latest/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+
+[[redirects]]
+from = "/en/news/2021-12-22-justice-in-word-only-addressing-racism-and-the-colonial-past-in-the-uk/"
+to = "/the-latest/news/2021-12-22-justice-in-word-only-addressing-racism-and-the-colonial-past-in-the-uk/"
+
+[[redirects]]
+from = "/the-latest/2026-03-30-joint-statement-on-the-adoption-of-the-un-general-assembly-resolution-on-slavery-and-the-slave-trade/"
+to = "/the-latest/news/2026-03-30-joint-statement-on-the-adoption-of-the-un-general-assembly-resolution-on-slavery-and-the-slave-trade/"
+
+[[redirects]]
+from = "/en/news/2022-09-13-1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+to = "/the-latest/news/2022-09-13-1-olivia-rutazibwa-decoloniser-le-developpement-international-et-repenser-la-solidarite/"
+
+[[redirects]]
+from = "/news/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains/"
+to = "/the-latest/news/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains/"
+
+[[redirects]]
+from = "/fr/team/nabeelah-shabbir/actualites/"
+to = "/team/nabeelah-shabbir/news/"
+
+[[redirects]]
+from = "/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+to = "/the-latest/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+
+[[redirects]]
+from = "/the-latest/2026-01-16-press-release-65th-anniversary-of-the-assassination-of-patrice-emery-lumumba/"
+to = "/the-latest/news/2026-01-16-press-release-65th-anniversary-of-the-assassination-of-patrice-emery-lumumba/"
+
+[[redirects]]
+from = "/agenda/2024/07/"
+to = "/the-latest/events/2024/07/"
+
+[[redirects]]
+from = "/the-latest/2026-03-09-unfinished-freedom/"
+to = "/the-latest/news/2026-03-09-unfinished-freedom/"
+
+[[redirects]]
+from = "/news/2021/11/16/annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+to = "/the-latest/news/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+
+[[redirects]]
+from = "/news/2022/10/05/fellows-feature-fania-noel/"
+to = "/the-latest/news/2022-10-05-fania-no-l/"
+
+[[redirects]]
+from = "/news/2023-08-20-repairing-our-international-economic-order/"
+to = "/the-latest/news/2024-03-21-repairing-our-international-economic-order/"
+
+[[redirects]]
+from = "/news/metis-of-the-great-lakes/"
+to = "/the-latest/news/themes/metis-of-the-great-lakes/"
+
+[[redirects]]
+from = "/the-latest/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
+to = "/the-latest/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
+
+[[redirects]]
+from = "/news/moblabs/2021-2022-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2021-2022-moblabs-series/"
+
+[[redirects]]
+from = "/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-healing-at-the-vatican/"
+to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+
+[[redirects]]
+from = "/news/2024-07-17-debt-cancellation-is-not-enough-repairing-economic-colonial-injustices-through-radical-reform-of-the/"
+to = "/the-latest/news/2024-07-17-debt-cancellation-is-not-enough/"
+
+[[redirects]]
+from = "/agenda/2024/10/"
+to = "/the-latest/events/2024/10/"
+
+[[redirects]]
+from = "/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+to = "/the-latest/news/2023-12-20-decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/news/2021-12-22-justice-in-word-only-addressing-racism-and-the-colonial-past-in-the-uk/"
+to = "/the-latest/news/2021-12-22-justice-in-word-only-addressing-racism-and-the-colonial-past-in-the-uk/"
+
+[[redirects]]
+from = "/en/research/program-areas/cultural-heritage/"
+to = "/archives-drafts/program-areas/cultural-heritage/"
+
+[[redirects]]
+from = "/news/2025-02-27-racial-justice-campaigner/"
+to = "/the-latest/2025-02-27-racial-justice-campaigner/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+to = "/archives-drafts/reports-and-policy-briefs-1/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+
+[[redirects]]
+from = "/en/news/2021-10-01-violences-coloniales-en-algerie-quelles-possibilites-dactions-judiciaires-mit-opencourseware/"
+to = "/the-latest/news/2021-10-01-violences-coloniales-en-algerie-quelles-possibilites-dactions-judiciaires-mit-opencourseware/"
+
+[[redirects]]
+from = "/en/advocacy/media-interventions/"
+to = "/advocacy/media/"
+
+[[redirects]]
+from = "/lab/"
+to = "/about-us/how-the-lab-came-to-be/"
+
+[[redirects]]
+from = "/en/research/program-areas/gender-violence/"
+to = "/archives-drafts/program-areas/gender-violence/"
+
+[[redirects]]
+from = "/news/2022/05/02/finding-expertise-everywhere-with-professor-m-amah-edoh/"
+to = "/news/2022-05-02-finding-expertise-everywhere-with-professor-m-amah-edoh/"
+
+[[redirects]]
+from = "/news/news/"
+to = "/the-latest/news/types/afalab-news/"
+
+[[redirects]]
+from = "/news/2025-03-07-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante/"
+to = "/the-latest/2025-03-06-chercheure-dans-le-domaine-de-la-justice-raciale-et-de-genre-consultante/"
+
+[[redirects]]
+from = "/en/news/2022-06-14-whats-to-be-repaired-postcolonial-justice-in-postcolonial-europe-symposium-event/"
+to = "/news/2022-06-14-whats-to-be-repaired-postcolonial-justice-in-postcolonial-europe-symposium-event/"
+
+[[redirects]]
+from = "/research/publications/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+to = "/archives-drafts/reports-and-policy-briefs-1/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+
+[[redirects]]
+from = "/cultural-heritage/"
+to = "/archives-drafts/program-areas/cultural-heritage/"
+
+[[redirects]]
+from = "/en/news/2021-03-01-justice-now-symposium/"
+to = "/the-latest/news/2021-03-01-justice-now-symposium/"
+
+[[redirects]]
+from = "/news/2022-09-14-fellows-spotlight-mamefatou-niang/"
+to = "/the-latest/news/2022-09-14-mame-fatou-niang/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+to = "/archives-drafts/reports-and-policy-briefs-1/culanth-sustaining-the-momentum/"
+
+[[redirects]]
+from = "/en/news/mobilization/"
+to = "/the-latest/news/themes/mobilization/"
+
+[[redirects]]
+from = "/news/2023-06-05-offre-de-consultance-chercheure-sur-les-demandes-de-reparations-au-cameroun/"
+to = "/the-latest/2023-06-05-offre-de-poste-chercheure-sur-les-reparations-pour-les-crimes-coloniaux-au-cameroun/"
+
+[[redirects]]
+from = "/team/eva-njoki-munyiri/"
+to = "/eva-njoki-munyiri/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+
+[[redirects]]
+from = "/news/reports/"
+to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/research/publications/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+to = "/archives-drafts/reports-and-policy-briefs-1/multiple-but-invisible-reparations-demands-for-colonial-crimes-in-the-great-lakes-region/"
+
+[[redirects]]
+from = "/the-lab/how-to-support-us-2/"
+to = "/how-to-support-us/donate/"
+
+[[redirects]]
+from = "/en/about-us/our-mission/"
+to = "/about-us/how-the-lab-came-to-be/our-mission/"
+
+[[redirects]]
+from = "/news/2022/07/20/afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-healing-at-the-vatican/"
+to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+
+[[redirects]]
+from = "/agenda/2024-10-03-online-debate-taking-a-historical-view-of-climate-reparations-addressing-climate-debt/"
+to = "/agenda/2024/online-debate-taking-a-historical-view-of-climate-reparations-addressing-climate-debt/"
+
+[[redirects]]
+from = "/ghana-youth-environmental-movement/"
+to = "/organisations/ghana-youth-environmental-movement/"
+
+[[redirects]]
+from = "/news/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+to = "/the-latest/news/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+
+[[redirects]]
+from = "/en/news/2024-04-04-70-years-of-fighting-for-justice-and-reparations/"
+to = "/the-latest/news/2024-04-04-70-years-of-fighting-for-justice-and-reparations/"
+
+[[redirects]]
+from = "/en/news/2023-07-07-letat-francais-face-aux-demandes-de-justice-de-ses-populations-racisees/"
+to = "/news/2023-07-07-letat-francais-face-aux-demandes-de-justice-de-ses-populations-racisees/"
+
+[[redirects]]
+from = "/en/news/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+to = "/the-latest/news/2021-10-28-annah-moyo-kupeta-centre-for-the-study-of-violence-and-reconciliation/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-justice-in-word-only-addressing-racism-and-the-colonial-past-in-the-uk/"
+to = "/the-latest/news/2021-12-22-justice-in-word-only-addressing-racism-and-the-colonial-past-in-the-uk/"
+
+[[redirects]]
+from = "/news/2022/02/23/sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+to = "/the-latest/news/2022-02-23-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery/"
+
+[[redirects]]
+from = "/news/mobilization/moblabs/2023-2024-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2023-2024-moblabs-series/"
+
+[[redirects]]
+from = "/the-latest/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a/"
+to = "/the-latest/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a/"
+
+[[redirects]]
+from = "/en/news/2023-10-02-post-opening-advocacy-and-policy-officer/"
+to = "/the-latest/2023-10-02-post-opening-advocacy-and-policy-officer/"
+
+[[redirects]]
+from = "/en/team/nabeelah-shabbir/"
+to = "/team/nabeelah-shabbir/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-contemporary-challenges-1/"
+to = "/archives-drafts/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/fr/team/malcom-ferdinand/"
+to = "/team/malcom-ferdinand/"
+
+[[redirects]]
+from = "/agenda/2025/amplifying-voices-and-building-alliances-for-reparatory-justice/"
+to = "/the-latest/events/2025/amplifying-voices-and-building-alliances-for-reparatory-justice/"
+
+[[redirects]]
+from = "/annual-reports/"
+to = "/about-us/annual-reports/"
+
+[[redirects]]
+from = "/en/research/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+to = "/archives-drafts/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+
+[[redirects]]
+from = "/news/2025-04-23-afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations/"
+to = "/the-latest/news/2025-04-23-afalab-statement-on-joint-commission-for-haiti-and-the-case-for-reparations/"
+
+[[redirects]]
+from = "/economic-social-cultural-council/"
+to = "/organisations/economic-social-cultural-council/"
+
+[[redirects]]
+from = "/the-latest/2023-04-13-litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ/"
+to = "/the-latest/news/2023-04-13-litigating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgiums-colonial-administ/"
+
+[[redirects]]
+from = "/news/2022/10/12/episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-algerie/"
+to = "/the-latest/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-alge/"
+
+[[redirects]]
+from = "/the-latest/themes/gender-justice-and-reparations/"
+to = "/the-latest/news/themes/gender-justice-and-reparations/"
+
+[[redirects]]
+from = "/en/team/fania-noel/news/"
+to = "/fania-noel/news/"
+
+[[redirects]]
+from = "/publications/parce-que-les-excuses-ne-suffisent-pas/"
+to = "/archives-drafts/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+
+[[redirects]]
+from = "/news/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+to = "/the-latest/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+
+[[redirects]]
+from = "/the-lab/lets-connect/"
+to = "/about-us/how-the-lab-came-to-be/connect-with-us/"
+
+[[redirects]]
+from = "/african-futures-lab/news/"
+to = "/team/african-futures-lab/news/"
+
+[[redirects]]
+from = "/news/fellow-spotlights/"
+to = "/the-latest/news/themes/fellows-spotlight/"
+
+[[redirects]]
+from = "/news/2021-12-22-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery-1/"
+to = "/the-latest/news/2021-12-22-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery-1/"
+
+[[redirects]]
+from = "/researching/"
+to = "/research-and-impact/"
+
+[[redirects]]
+from = "/the-latest/2026-02-04-reparative-justice-and-the-colonial-continuum-towards-a-pan-african-research-and-policy-agenda-on-cl/"
+to = "/the-latest/news/2026-02-04-reparative-justice-and-the-colonial-continuum-towards-a-pan-african-research-and-policy-agenda-on-cl/"
+
+[[redirects]]
+from = "/news/2022-10-19-liepollo-lebohang-pheko/"
+to = "/the-latest/news/2022-10-19-liepollo-lebohang-pheko/"
+
+[[redirects]]
+from = "/the-latest/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice/"
+to = "/the-latest/news/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice/"
+
+[[redirects]]
+from = "/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationaux-mit-opencourseware/"
+to = "/the-latest/news/2021-12-01-responsabilite-de-letat-pour-les-injustices-historiques-devant-les-institutions-internationales-mit/"
+
+[[redirects]]
+from = "/research/publications/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-contemporary-challenges-1/"
+to = "/archives-drafts/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/en/news/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine/"
+to = "/the-latest/news/2023-11-03-statement-on-the-outpouring-of-murderous-violence-in-israel-and-palestine/"
+
+[[redirects]]
+from = "/research/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+to = "/archives-drafts/projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+to = "/archives-drafts/reports-and-policy-briefs-1/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+
+[[redirects]]
+from = "/news/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent/"
+to = "/the-latest/news/2024-04-19-afalabs-recommendations-to-the-un-permanent-forum-of-people-of-african-descent/"
+
+[[redirects]]
+from = "/news/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+to = "/the-latest/news/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+
+[[redirects]]
+from = "/2025/call-for-consultants-research-case-studies-on-climate-reparations-and-green-colonialism-in-africa/"
+to = "/about-us/job-offers/2025/call-for-consultants-research-case-studies-on-climate-reparations-and-green-colonialism-in-africa/"
+
+[[redirects]]
+from = "/the-latest/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis/"
+to = "/the-latest/news/2024-09-25-season-lll-episode-1-joshua-castellino-from-responsibility-to-reparations-of-the-climate-crisis/"
+
+[[redirects]]
+from = "/en/mobilization/moblabs/"
+to = "/mobilization/moblabs/"
+
+[[redirects]]
+from = "/en/team/martin-mavenjina/"
+to = "/team/martin-mavenjina/"
+
+[[redirects]]
+from = "/magali-bessone/news/"
+to = "/team/magali-bessone/news/"
+
+[[redirects]]
+from = "/the-latest/types/blogs/"
+to = "/the-latest/news/types/blogs/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+to = "/archives-drafts/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/socio-economic-violence/"
+to = "/archives-drafts/program-areas/socio-economic-violence/"
+
+[[redirects]]
+from = "/news/2025-05-29-african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1/"
+to = "/the-latest/news/2025-05-29-african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1/"
+
+[[redirects]]
+from = "/fr/actualites/advocacy/"
+to = "/actualites/advocacy/"
+
+[[redirects]]
+from = "/en/news/podcast/"
+to = "/the-latest/news/types/podcast/"
+
+[[redirects]]
+from = "/fr/team/martin-mavenjina/actualites/"
+to = "/team/martin-mavenjina/news/"
+
+[[redirects]]
+from = "/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+to = "/archives-drafts/reports-and-policy-briefs-1/the-accra-summit-and-reparations-for-historical-and-contemporary-racial-violence/"
+
+[[redirects]]
+from = "/fr/team/amah-edoh/actualites/"
+to = ""
+
+[[redirects]]
+from = "/en/team/sihem-bensedrine/news/"
+to = "/sihem-bensedrine/news/"
+
+[[redirects]]
+from = "/fr/team/menna-agha/"
+to = "/menna-agha/"
+
+[[redirects]]
+from = "/en/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+
+[[redirects]]
+from = "/news/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations/"
+to = "/the-latest/news/2024-04-04-plus-de-70-ans-de-lutte-pour-la-justice-et-les-reparations/"
+
+[[redirects]]
+from = "/news/moblabs/"
+to = "/the-latest/news/themes/moblabs/"
+
+[[redirects]]
+from = "/anna-sarr/"
+to = "/team/anna-sarr/"
+
+[[redirects]]
+from = "/the-latest/types/job-opportunities/"
+to = "/the-latest/news/types/job-opportunities/"
+
+[[redirects]]
+from = "/news/mobilization/campaigns/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a/"
+to = "/the-latest/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transnational-partnership-for-reparative-justice-in-europe-a/"
+
+[[redirects]]
+from = "/fr/team/noureddine-amara/"
+to = "/noureddine-amara/"
+
+[[redirects]]
+from = "/team/amah-edoh/actualites/"
+to = ""
+
+[[redirects]]
+from = "/news/2021-10-01-violences-coloniales-en-algerie-quelles-possibilites-dactions-judiciaires-mit-opencourseware/"
+to = "/the-latest/news/2021-10-01-violences-coloniales-en-algerie-quelles-possibilites-dactions-judiciaires-mit-opencourseware/"
+
+[[redirects]]
+from = "/en/news/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+to = "/the-latest/news/2023-06-15-season-ll-episode-5-jean-casimir-et-michel-degraff-one-ak-jistis-avenues-for-reparations-in-haiti/"
+
+[[redirects]]
+from = "/news/2025-05-07-reparations-for-climate-and-biodiversity-loss/"
+to = "/the-latest/news/2025-05-07-reparations-for-climate-and-biodiversity-loss/"
+
+[[redirects]]
+from = "/the-latest/2022-01-18-land-and-reparative-justice/"
+to = "/the-latest/news/2022-01-18-land-and-reparative-justice/"
+
+[[redirects]]
+from = "/en/team/olivia-umurerwa-rutazibwa/"
+to = "/team/olivia-umurerwa-rutazibwa/"
+
+[[redirects]]
+from = "/news/2025-02-11-afalabs-2023-annual-report/"
+to = "/the-latest/news/2025-02-11-afalabs-2023-annual-report/"
+
+[[redirects]]
+from = "/news/2022/06/09/annual-report/"
+to = "/the-latest/news/2022-06-09-annual-report/"
+
+[[redirects]]
+from = "/research/research-and-policy-briefs/"
+to = "/research/projects/"
+
+[[redirects]]
+from = "/en/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la-commission-parlementaire-belge-sur-le-passe-colonial/"
+to = "/the-latest/news/2023-07-06-saison-ll-episode-6-juliette-nijimbere-la-montagne-qui-a-accouche-dune-souris-espoirs-et-echec-de-la/"
+
+[[redirects]]
+from = "/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-grands-lacs/"
+to = "/the-latest/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/team/michel-degraff/actualites/"
+to = "/michel-degraff/news/"
+
+[[redirects]]
+from = "/news/2022/11/30/menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+to = "/the-latest/news/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+
+[[redirects]]
+from = "/the-latest/news/conferences/"
+to = "/the-latest/news/types/conferences/"
+
+[[redirects]]
+from = "/news/2025-04-23-declaration-publique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+to = "/the-latest/news/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-reparations-claims-for-slavery-in-france-the-need-for-a-paradigm-shift/"
+to = "/the-latest/news/2021-12-22-reparations-claims-for-slavery-in-france-the-need-for-a-paradigm-shift/"
+
+[[redirects]]
+from = "/news/2022-11-16-fellows-spotlight-menna-agha/"
+to = "/the-latest/news/2022-11-16-menna-agha/"
+
+[[redirects]]
+from = "/association-des-metis-des-grands-lacs-burundi/"
+to = "/organisations/association-des-metis-des-grands-lacs-burundi/"
+
+[[redirects]]
+from = "/agenda/2024/04/"
+to = "/the-latest/events/2024/04/"
+
+[[redirects]]
+from = "/the-latest/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
+
+[[redirects]]
+from = "/the-latest/2026-04-14-what-the-icj-opinion-means-for-loss-and-damage-finance/"
+to = "/the-latest/news/2026-04-14-what-the-icj-opinion-means-for-loss-and-damage-finance/"
+
+[[redirects]]
+from = "/agenda/2023/afalive-1-tunisie/"
+to = "/the-latest/events/2023/afalive-1-tunisie/"
+
+[[redirects]]
+from = "/fondation-de-france/"
+to = "/organisations/fondation-de-france/"
+
+[[redirects]]
+from = "/en/news/2022-11-16-menna-agha/"
+to = "/the-latest/news/2022-11-16-menna-agha/"
+
+[[redirects]]
+from = "/en/team/menna-agha/"
+to = "/menna-agha/"
+
+[[redirects]]
+from = "/research-and-impact/current-projects/unfinished-freedom/"
+to = "/mobilize-and-act/campaigns/unfinished-freedom/"
+
+[[redirects]]
+from = "/news/2022-12-15-sihem-bensedrine/"
+to = "/the-latest/news/2022-12-15-sihem-bensedrine/"
+
+[[redirects]]
+from = "/parce-que-les-excuses-ne-suffisent-pas/"
+to = "/archives-drafts/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+
+[[redirects]]
+from = "/fr/projets/"
+to = "/projets/"
+
+[[redirects]]
+from = "/en/team/amah-edoh/news/"
+to = ""
+
+[[redirects]]
+from = "/the-latest/news/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+to = "/the-latest/2023-06-05-post-opening-researcher-on-reparations-for-colonial-crimes-in-cameroon/"
+
+[[redirects]]
+from = "/en/accessibilite/"
+to = "/accessibilite/"
+
+[[redirects]]
+from = "/advocacy/media-interventions/"
+to = "/advocacy/media/"
+
+[[redirects]]
+from = "/the-latest/news/news/"
+to = "/the-latest/news/types/afalab-news/"
+
+[[redirects]]
+from = "/en/news/2022-06-17-release/"
+to = "/news/2022-06-17-release/"
+
+[[redirects]]
+from = "/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+to = "/the-latest/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+
+[[redirects]]
+from = "/the-latest/2022-08-31-accra-declaration-on-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-08-31-accra-declaration-on-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/en/news/2022-11-02-magali-bessone/"
+to = "/the-latest/news/2022-11-02-magali-bessone/"
+
+[[redirects]]
+from = "/en/research/research-projects/"
+to = "/research/projects/"
+
+[[redirects]]
+from = "/en/news/advocacy/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/the-latest/2024-07-15-accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a/"
+to = "/the-latest/news/2024-07-15-accra-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparatory-justice-in-a/"
+
+[[redirects]]
+from = "/fr/team/magali-bessone/actualites/"
+to = "/team/magali-bessone/news/"
+
+[[redirects]]
+from = "/en/news/2022-09-07-future-perfect-futur-anterieur/"
+to = "/the-latest/news/2022-09-07-future-perfect-futur-anterieur/"
+
+[[redirects]]
+from = "/organisations/othering-and-belonging-institute/"
+to = "/othering-and-belonging-institute/"
+
+[[redirects]]
+from = "/the-latest/news/2025-02-27-racial-justice-campaigner/"
+to = "/the-latest/2025-02-27-racial-justice-campaigner/"
+
+[[redirects]]
+from = "/agenda/2025/04/"
+to = "/the-latest/events/2025/04/"
+
+[[redirects]]
+from = "/agenda/2024-06-10-roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparations-justice-in-africa/"
+to = "/the-latest/events/2024/roundtable-conference-the-role-of-philanthropy-in-advancing-racial-and-reparations-justice-in-africa/"
+
+[[redirects]]
+from = "/the-latest/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+to = "/the-latest/news/2022-10-04-reparations-for-mixed-race-children-abducted-by-belgium-in-its-former-colonies-challenging-an-unfair/"
+
+[[redirects]]
+from = "/en/team/malcom-ferdinand/news/"
+to = "/team/malcom-ferdinand/news/"
+
+[[redirects]]
+from = "/the-latest/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-alge/"
+to = "/the-latest/news/2022-10-12-episode-3noureddine-amara-la-memoire-ne-vaut-pas-justice-violences-detat-et-crimes-coloniaux-en-alge/"
+
+[[redirects]]
+from = "/news/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts/"
+to = "/the-latest/news/2024-03-21-african-voices-in-the-restitution-of-human-remains-and-cultural-artefacts/"
+
+[[redirects]]
+from = "/en/about-us/"
+to = "/about-us/"
+
+[[redirects]]
+from = "/research/publications/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-experience-of-justice-institutions/"
+to = "/archives-drafts/reports-and-policy-briefs-1/decolonize-justice-a-perspective-on-the-role-of-international-development-policies-and-citizens-expe/"
+
+[[redirects]]
+from = "/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand/"
+to = "/the-latest/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+
+[[redirects]]
+from = "/news/2022-01-18-land-and-reparative-justice/"
+to = "/the-latest/news/2022-01-18-land-and-reparative-justice/"
+
+[[redirects]]
+from = "/afalives/"
+to = "/archives-drafts/outreach/events-draft/afalives/"
+
+[[redirects]]
+from = "/agenda/2025/11/"
+to = "/the-latest/events/2025/11/"
+
+[[redirects]]
+from = "/the-latest/2025-12-10-wakati-wetu-manifesto-2025/"
+to = "/the-latest/news/2025-12-10-wakati-wetu-manifesto-2025/"
+
+[[redirects]]
+from = "/en/news/2023-03-21-live-twitter-jeudi-23-mars-a-20h-cet-bruxelles/"
+to = "/news/2023-03-21-live-twitter-jeudi-23-mars-a-20h-cet-bruxelles/"
+
+[[redirects]]
+from = "/en/news/"
+to = "/the-latest/news/"
+
+[[redirects]]
+from = "/the-latest/2025-05-29-african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1/"
+to = "/the-latest/news/2025-05-29-african-futures-lab-to-present-at-african-caribbean-conference-on-reparations-1/"
+
+[[redirects]]
+from = "/news/2021/05/26/justice-vision-podcast/"
+to = "/news/2021-05-26-justice-vision-podcast/"
+
+[[redirects]]
+from = "/news/2022/06/02/transatlantic-dialogues/"
+to = "/news/2022-06-02-transatlantic-dialogues/"
+
+[[redirects]]
+from = "/news/2021/10/30/workshop-on-frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-30-workshop-on-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/research/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+to = "/archives-drafts/reports-and-policy-briefs-1/reparations-for-europes-colonial-crimes-in-africa-and-slavery-a-critical-step-in-tackling-africas-co/"
+
+[[redirects]]
+from = "/news/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration-1/"
+to = "/the-latest/news/2024-07-08-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+
+[[redirects]]
+from = "/news/2025-04-04-job-opening-administrative-finance-and-logistics-officer/"
+to = "/the-latest/2025-04-04-job-opening-administrative-finance-and-logistics-officer/"
+
+[[redirects]]
+from = "/agenda/2025/12/"
+to = "/the-latest/events/2025/12/"
+
+[[redirects]]
+from = "/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-coloniales-en-martinique-et-en-guadeloupe/"
+to = "/the-latest/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+
+[[redirects]]
+from = "/fr/team/cacoburwa-collective/"
+to = "/team/cacoburwa-collective/"
+
+[[redirects]]
+from = "/the-latest/2022-06-09-annual-report/"
+to = "/the-latest/news/2022-06-09-annual-report/"
+
+[[redirects]]
+from = "/the-latest/types/current-projects/"
+to = "/the-latest/news/types/current-projects/"
+
+[[redirects]]
+from = "/news/mobilization/campaigns/"
+to = "/the-latest/news/types/campaigns/"
+
+[[redirects]]
+from = "/agenda/2025/"
+to = "/the-latest/events/2025/"
+
+[[redirects]]
+from = "/en/news/mobilization/moblabs/"
+to = "/the-latest/news/themes/moblabs/"
+
+[[redirects]]
+from = "/the-latest/themes/moblabs/2021-2022-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2021-2022-moblabs-series/"
+
+[[redirects]]
+from = "/the-latest/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai/"
+to = "/the-latest/news/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai/"
+
+[[redirects]]
+from = "/the-latest/2025-12-08-repairs-for-loss-and-damage-at-cop30/"
+to = "/the-latest/news/2025-12-08-repairs-for-loss-and-damage-at-cop30/"
+
+[[redirects]]
+from = "/research/publications/ligating-for-reaprations/"
+to = "/archives-drafts/reports-and-policy-briefs-1/ligating-for-reparations-a-double-edged-sword-for-mixed-race-victims-of-belgium-colonial-administrat/"
+
+[[redirects]]
+from = "/en/news/2023-06-16-afalive-the-role-of-the-media-in-racial-justice-struggles-across-europe-and-africa-1/"
+to = "/news/2023-06-16-afalive-the-role-of-the-media-in-racial-justice-struggles-across-europe-and-africa-1/"
+
+[[redirects]]
+from = "/genevieve-kaninda/"
+to = "/team/genevieve-kaninda/"
+
+[[redirects]]
+from = "/the-latest/types/conferences/"
+to = "/the-latest/news/types/conferences/"
+
+[[redirects]]
+from = "/news/2022/06/17/press-release-special-parliamentary-commission-on-belgiums-colonial-past-closing-in-december-2022-would-not-allow-the-commissions-mandate-to-be-fully-realized/"
+to = "/news/2022-06-17-press-release-special-parliamentary-commission-on-belgiums-colonial-past-closing-in-december-2022-would-not-allow-the-commissions-mandate-to-be-fully-realized/"
+
+[[redirects]]
+from = "/en/team/kate-theriault/"
+to = "/team/kate-theriault/"
+
+[[redirects]]
+from = "/en/news/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers/"
+to = "/the-latest/news/2024-03-21-a-global-campaign-for-justice-and-reparations-for-the-metis-and-their-african-mothers/"
+
+[[redirects]]
+from = "/agenda/2025/01/"
+to = "/the-latest/events/2025/01/"
+
+[[redirects]]
+from = "/en/news/mobilization/moblabs/2021-2022-moblabs-series/"
+to = "/the-latest/news/themes/moblabs/2021-2022-moblabs-series/"
+
+[[redirects]]
+from = "/en/news/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai/"
+to = "/the-latest/news/2023-01-26-parce-que-les-excuses-ne-suffisent-pas-cbai/"
+
+[[redirects]]
+from = "/news/2022/01/18/land-and-reparative-justice/"
+to = "/the-latest/news/2022-01-18-land-and-reparative-justice/"
+
+[[redirects]]
+from = "/en/news/2022-08-31-reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+to = "/the-latest/news/2022-08-31-reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+
+[[redirects]]
+from = "/the-latest/2025-02-11-afalabs-2023-annual-report/"
+to = "/the-latest/news/2025-02-11-afalabs-2023-annual-report/"
+
+[[redirects]]
+from = "/fr/team/kenda-mutongi/"
+to = "/kenda-mutongi/"
+
+[[redirects]]
+from = "/patrick-toussaint/"
+to = "/team/patrick-toussaint/"
+
+[[redirects]]
+from = "/the-latest/2021-12-22-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery-1/"
+to = "/the-latest/news/2021-12-22-sustaining-the-momentum-reparative-justice-for-european-colonialism-and-slavery-1/"
+
+[[redirects]]
+from = "/fr/team/martin-mavenjina/"
+to = "/team/martin-mavenjina/"
+
+[[redirects]]
+from = "/en/news/2022-12-15-sihem-bensedrine/"
+to = "/the-latest/news/2022-12-15-sihem-bensedrine/"
+
+[[redirects]]
+from = "/en/team/aymar-nyenyezi-bisoka/"
+to = "/aymar-nyenyezi-bisoka/"
+
+[[redirects]]
+from = "/agenda/2024/"
+to = "/the-latest/events/2024/"
+
+[[redirects]]
+from = "/the-latest/2025-08-29-webinar-from-courts-to-cop-harnessing-legal-momentum/"
+to = "/the-latest/news/2025-08-29-webinar-from-courts-to-cop-harnessing-legal-momentum/"
+
+[[redirects]]
+from = "/marion-muringe-ogeto/"
+to = "/team/marion-muringe-ogeto/"
+
+[[redirects]]
+from = "/en/team/martin-mavenjina/news/"
+to = "/team/martin-mavenjina/news/"
+
+[[redirects]]
+from = "/news/2022/08/31/accra-declaration-on-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-08-31-accra-declaration-on-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/news/2021/09/07/mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice-september-december-2021/"
+to = "/the-latest/news/2021-09-07-mit-course-and-workshop-reparations-for-slavery-and-colonization-contemporary-movements-for-justice/"
+
+[[redirects]]
+from = "/research/program-areas/cultural-heritage/"
+to = "/archives-drafts/program-areas/cultural-heritage/"
+
+[[redirects]]
+from = "/open-society-foundations/"
+to = "/organisations/open-society-foundations/"
+
+[[redirects]]
+from = "/trust-africa/"
+to = "/organisations/trust-africa/"
+
+[[redirects]]
+from = "/the-latest/news/2025-03-20-job-opening-events-assistant/"
+to = "/the-latest/2025-03-20-job-opening-events-assistant/"
+
+[[redirects]]
+from = "/the-latest/themes/shaping-policies/"
+to = "/the-latest/news/themes/shaping-policies/"
+
+[[redirects]]
+from = "/team/cacoburwa-collective/actualites/"
+to = "/team/cacoburwa-collective/news/"
+
+[[redirects]]
+from = "/fr/team/elisa-novic/actualites/"
+to = ""
+
+[[redirects]]
+from = "/en/research/research-projects/global-racial-inequality-dashboard/"
+to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
+
+[[redirects]]
+from = "/fr/team/kate-theriault/"
+to = "/team/kate-theriault/"
+
+[[redirects]]
+from = "/research/publications/parce-que-les-excuses-ne-suffisent-pas/"
+to = "/archives-drafts/reports-and-policy-briefs-1/parce-que-les-excuses-ne-suffisent-pas/"
+
+[[redirects]]
+from = "/agenda/upcoming-events/"
+to = "/the-latest/events/upcoming-events/"
+
+[[redirects]]
+from = "/news/2024-03-20-repairing-our-international-economic-order/"
+to = "/the-latest/news/2024-03-21-repairing-our-international-economic-order/"
+
+[[redirects]]
+from = "/news/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+to = "/the-latest/news/2022-11-30-menna-agha-reclaiming-space-and-being-guided-by-our-foremothers-voices/"
+
+[[redirects]]
+from = "/team/sihem-bensedrine/actualites/"
+to = "/sihem-bensedrine/news/"
+
+[[redirects]]
+from = "/the-latest/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+to = "/the-latest/news/2023-11-08-les-reparations-pour-les-crimes-coloniaux-de-leurope-en-afrique-et-pour-lesclavage-une-etape-cle-pou/"
+
+[[redirects]]
+from = "/the-latest/2022-11-16-menna-agha/"
+to = "/the-latest/news/2022-11-16-menna-agha/"
+
+[[redirects]]
+from = "/news/2021-12-22-introduction-sustaining-the-momentum-2/"
+to = "/the-latest/news/2021-12-22-introduction-sustaining-the-momentum-2/"
+
+[[redirects]]
+from = "/team/elisa-novic/news/"
+to = ""
+
+[[redirects]]
+from = "/fr/team/fania-noel/actualites/"
+to = "/fania-noel/news/"
+
+[[redirects]]
+from = "/news/2021-12-22-on-the-very-political-depoliticization-of-reparations/"
+to = "/the-latest/news/2021-12-22-on-the-very-political-depoliticization-of-reparations/"
+
+[[redirects]]
+from = "/the-latest/news/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa/"
+to = "/the-latest/2023-08-07-post-opening-researcher-on-climate-reparations-in-east-africa/"
+
+[[redirects]]
+from = "/the-latest/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy/"
+to = "/the-latest/news/2024-03-21-sustaining-racial-justice-black-tunisians-seeking-redress-for-slavery-legacy/"
+
+[[redirects]]
+from = "/team/liliane-umubyeyi/news/"
+to = "/team/liliane-umubyeyi-phd/news/"
+
+[[redirects]]
+from = "/en/news/2024-03-20-metis-of-the-great-lakes-moblab/"
+to = "/the-latest/news/2024-03-20-metis-of-the-great-lakes-moblab/"
+
+[[redirects]]
+from = "/the-latest/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+to = "/the-latest/news/2023-06-01-saison-ll-episode-4-malcom-ferdinand-le-scandale-du-chlordecone-et-la-continuite-des-violences-colon/"
+
+[[redirects]]
+from = "/en/news/mobilization/campaigns/building-bridges/"
+to = "/the-latest/news/themes/building-bridges/"
+
+[[redirects]]
+from = "/the-latest/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+to = "/the-latest/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/"
+
+[[redirects]]
+from = "/news/2024-03-20-metis-of-the-great-lakes-moblab/"
+to = "/the-latest/news/2024-03-20-metis-of-the-great-lakes-moblab/"
+
+[[redirects]]
+from = "/news/mobilization/moblabs/"
+to = "/the-latest/news/themes/moblabs/"
+
+[[redirects]]
+from = "/en/news/2022-08-31-accra-declaration-on-reparations-and-racial-healing/"
+to = "/the-latest/news/2022-08-31-accra-declaration-on-reparations-and-racial-healing/"
+
+[[redirects]]
+from = "/news/advocacy/"
+to = "/the-latest/news/types/campaigns/"
+
+[[redirects]]
+from = "/research/global-racial-inequality-dashboard/"
+to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
+
+[[redirects]]
+from = "/the-latest/2021-10-30-workshop-on-frances-colonial-violence-in-algeria/"
+to = "/the-latest/news/2021-10-30-workshop-on-frances-colonial-violence-in-algeria/"
+
+[[redirects]]
+from = "/agenda/2024/06/"
+to = "/the-latest/events/2024/06/"
+
+[[redirects]]
+from = "/team/sihem-bensedrine/"
+to = "/sihem-bensedrine/"
+
+[[redirects]]
+from = "/the-latest/2026-01-20-patrice-lumumba-case-key-judicial-hearing-in-brussels/"
+to = "/the-latest/news/2026-01-20-patrice-lumumba-case-key-judicial-hearing-in-brussels/"
+
+[[redirects]]
+from = "/research/research-projectcs/"
+to = "/research/projects/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/en/team/fania-noel/"
+to = "/fania-noel/"
+
+[[redirects]]
+from = "/fr/team/nabeelah-shabbir/"
+to = "/team/nabeelah-shabbir/"
+
+[[redirects]]
+from = "/en/team/yasmine-abdilahi/"
+to = "/team/yasmine-abdilahi/"
+
+[[redirects]]
+from = "/team/michel-degraff/news/"
+to = "/michel-degraff/news/"
+
+[[redirects]]
+from = "/the-latest/2022-08-31-reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+to = "/the-latest/news/2022-08-31-reparer-et-guerir-les-blessures-raciales-la-declaration-daccra/"
+
+[[redirects]]
+from = "/team/noureddine-amara/"
+to = "/noureddine-amara/"
+
+[[redirects]]
+from = "/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racism-in-italy/"
+to = "/the-latest/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
+
+[[redirects]]
+from = "/fr/team/liliane-umubyeyi/actualites/"
+to = "/team/liliane-umubyeyi-phd/news/"
+
+[[redirects]]
+from = "/en/outreach/"
+to = "/outreach/"
+

@@ -115,10 +115,6 @@ from = "/news/2025-06-16-new-research-project-in-gender-and-racial-justice/index
 to = "/the-latest/news/2025-06-16-new-research-project-in-gender-and-racial-justice/"
 
 [[redirects]]
-from = "/team/matt-dann/index.html"
-to = "/en/team/matt-dann/"
-
-[[redirects]]
 from = "/social/index.html"
 to = "/social-media/"
 
@@ -2261,10 +2257,6 @@ to = "/the-latest/news/2025-02-15-afalab-in-the-guardian-thanks-to-trump-it-is-n
 [[redirects]]
 from = "/en/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racism-in-italy/index.html"
 to = "/the-latest/news/2023-05-04-season-ii-episode-2-kwanza-musi-dos-santos-the-need-for-an-intersectional-approach-to-fighting-racis/"
-
-[[redirects]]
-from = "/fr/team/matt-dann/index.html"
-to = "/en/team/matt-dann/"
 
 [[redirects]]
 from = "/research/reports-and-policy-briefs-1/multiples-mais-invisibles-les-demandes-de-reparations-pour-les-crimes-coloniaux-dans-la-region-des-g/index.html"

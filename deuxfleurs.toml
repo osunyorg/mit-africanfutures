@@ -707,6 +707,10 @@ from = "/en/research/index.html"
 to = "/research-and-impact/"
 
 [[redirects]]
+from = "/agenda/2024/online-debate-taking-a-historical-view-of-climate-reparations-addressing-climate-debt/index.html"
+to = "/the-latest/events/2024/online-debate-taking-a-historical-view-of-climate-reparations-addressing-climate-debt/"
+
+[[redirects]]
 from = "/research/projects/global-racial-inequality-dashboard/index.html"
 to = "/archives-drafts/projects/global-racial-inequality-dashboard/"
 
@@ -1519,6 +1523,10 @@ from = "/news/2025-07-01-african-futures-lab-participates-in-inaugural-ajjf-repa
 to = "/the-latest/news/2025-07-01-african-futures-lab-participates-in-inaugural-ajjf-reparatory-justice-surgery/"
 
 [[redirects]]
+from = "/agenda/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/index.html"
+to = "/the-latest/events/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+
+[[redirects]]
 from = "/the-latest/2026-01-28-hericol-conference-colonial-legacies-in-belgium/index.html"
 to = "/the-latest/news/2026-01-28-hericol-conference-colonial-legacies-in-belgium/"
 
@@ -1784,7 +1792,7 @@ to = "/the-latest/news/2024-01-09-afalab-and-reform-initiatives-forging-a-transn
 
 [[redirects]]
 from = "/en/agenda/2024-05-29-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/index.html"
-to = "/agenda/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+to = "/the-latest/events/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
 
 [[redirects]]
 from = "/en/news/2021-06-17-a-conversation-with-liliane-umubyeyi-and-amah-edoh-on-reparations/index.html"
@@ -1948,7 +1956,7 @@ to = "/the-latest/news/2022-06-09-annual-report/"
 
 [[redirects]]
 from = "/agenda/2024-05-29-conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/index.html"
-to = "/agenda/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
+to = "/the-latest/events/2024/conference-african-mothers-and-their-metis-children-abducted-by-the-belgian-colonial-administration/"
 
 [[redirects]]
 from = "/en/research/research-projects/pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/index.html"
@@ -2956,7 +2964,7 @@ to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparati
 
 [[redirects]]
 from = "/agenda/2024-10-03-online-debate-taking-a-historical-view-of-climate-reparations-addressing-climate-debt/index.html"
-to = "/agenda/2024/online-debate-taking-a-historical-view-of-climate-reparations-addressing-climate-debt/"
+to = "/the-latest/events/2024/online-debate-taking-a-historical-view-of-climate-reparations-addressing-climate-debt/"
 
 [[redirects]]
 from = "/ghana-youth-environmental-movement/index.html"

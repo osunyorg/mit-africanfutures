@@ -3439,6 +3439,10 @@ from = "/news/2022-01-18-land-and-reparative-justice/index.html"
 to = "/the-latest/news/2022-01-18-land-and-reparative-justice/"
 
 [[redirects]]
+from = "/cecilia-akinyi/news/index.html"
+to = "/team/cecilia-akinyi/news/"
+
+[[redirects]]
 from = "/afalives/index.html"
 to = "/archives-drafts/outreach/events-draft/afalives/"
 

@@ -355,6 +355,10 @@ from = "/en/agenda/upcoming-events/index.html"
 to = "/the-latest/events/upcoming-events/"
 
 [[redirects]]
+from = "/mobilize-and-act/campaigns/unfinished-freedom/2e-rapport-entre-fetichisation-sexuelle-et-denigrement-physique-les-stereotypes-coloniaux-sur-le-cor/index.html"
+to = "/mobilize-and-act/campaigns/unfinished-freedom/entre-fetichisation-sexuelle-et-denigrement-physique-les-stereotypes-coloniaux-sur-le-cor/"
+
+[[redirects]]
 from = "/research-and-impact/current-projects/2025-unfinished-freedom-the-continuity-of-colonial-violence-without-accountability/index.html"
 to = "/research-and-impact/current-projects/2026-unfinished-freedom-the-continuity-of-colonial-violence-without-accountability/"
 

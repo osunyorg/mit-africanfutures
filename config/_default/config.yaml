@@ -20,3 +20,6 @@ params:
   posts:
     index:
       layout: grid
+  home:
+    head:
+      title: site

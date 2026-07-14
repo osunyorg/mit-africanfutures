@@ -115,7 +115,7 @@ items:
   file: content/en/pages/podcasts/_index.html
 - title: About us
   slug: about-us
-  target: "/about-us/"
+  target: "/about-us/join-our-team/"
   kind: page
   new_tab: false
   children:
@@ -150,8 +150,8 @@ items:
   - "/about-us/afalab-team/"
   - "/about-us/annual-reports/"
   - "/about-us/how-the-lab-came-to-be/"
-  path: "/pages/about-us"
-  file: content/en/pages/about-us/_index.html
+  path: "/jobs"
+  file: content/en/jobs/_index.html
 - title: Support us
   slug: support-us
   target: ''

@@ -763,10 +763,6 @@ from = "/research-and-impact/current-projects/2025-mothers-metis-children-from-d
 to = "/research-and-impact/current-projects/2024-mothers-metis-children-from-drc-burundi-and-rwanda-against-the-belgian-state/"
 
 [[redirects]]
-from = "/job-offers/index.html"
-to = "/about-us/join-our-team/"
-
-[[redirects]]
 from = "/agenda/2024-11-05-online-debate-1-taking-a-historical-view-of-climate-reparations/index.html"
 to = "/the-latest/events/2024/online-debate-1-taking-a-historical-view-of-climate-reparations/"
 
@@ -1429,10 +1425,6 @@ to = "/team/kate-theriault/news/"
 [[redirects]]
 from = "/malcom-ferdinand/news/index.html"
 to = "/team/malcom-ferdinand/news/"
-
-[[redirects]]
-from = "/about-us/job-offers/index.html"
-to = "/about-us/join-our-team/"
 
 [[redirects]]
 from = "/news/2025-03-20-job-opening-events-assistant/index.html"

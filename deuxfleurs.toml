@@ -3615,6 +3615,10 @@ from = "/agenda/2024/index.html"
 to = "/the-latest/events/2024/"
 
 [[redirects]]
+from = "/the-latest/news/2026-07-17-annual-report-2025/index.html"
+to = "/the-latest/news/2026-07-13-annual-report-2025/"
+
+[[redirects]]
 from = "/the-latest/2025-08-29-webinar-from-courts-to-cop-harnessing-legal-momentum/index.html"
 to = "/the-latest/news/2025-08-29-webinar-from-courts-to-cop-harnessing-legal-momentum/"
 

@@ -139,6 +139,10 @@ from = "/the-latest/news/2025-09-01-we-must-move-beyond-the-model-of-aid-and-emb
 to = "/the-latest/news/2025-08-22-we-must-move-beyond-the-model-of-aid-and-embrace-the-paradigm-of-reparations/"
 
 [[redirects]]
+from = "/the-latest/news/themes/kenya/index.html"
+to = "/the-latest/news/countries/kenya/"
+
+[[redirects]]
 from = "/mobilization/index.html"
 to = "/mobilize-and-act/moblabs/"
 
@@ -627,6 +631,10 @@ from = "/news/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions
 to = "/the-latest/news/2025-02-15-afalab-in-aljazeera-how-realistic-is-the-african-unions-call-for-reparatory-justice/"
 
 [[redirects]]
+from = "/the-latest/news/themes/nigeria/index.html"
+to = "/the-latest/news/countries/nigeria/"
+
+[[redirects]]
 from = "/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present-1/index.html"
 to = "/the-latest/news/2021-12-22-tracing-those-colonial-chains-that-hinder-our-present/"
 
@@ -947,6 +955,10 @@ from = "/the-latest/afalab-news/index.html"
 to = "/afalab-news/"
 
 [[redirects]]
+from = "/the-latest/news/themes/ghana/index.html"
+to = "/the-latest/news/countries/ghana/"
+
+[[redirects]]
 from = "/the-latest/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains/index.html"
 to = "/the-latest/news/2024-12-02-african-futures-lab-and-amnesty-international-joint-press-release-belgium-convicted-of-crimes-agains/"
 
@@ -1049,6 +1061,10 @@ to = "/the-latest/news/2024-09-18-unlocking-climate-reparations-key-obstacles-in
 [[redirects]]
 from = "/news/publications/reports-and-policy-briefs/index.html"
 to = "/the-latest/news/types/reports-and-policy-briefs/"
+
+[[redirects]]
+from = "/the-latest/news/themes/brazil/index.html"
+to = "/the-latest/news/countries/brazil/"
 
 [[redirects]]
 from = "/news/2022-11-10-notre-force-est-dans-lamour-le-role-de-lintime-dans-les-luttes-pour-la-justice-raciale/index.html"
@@ -1239,6 +1255,10 @@ from = "/agenda/2023/afalive-2/index.html"
 to = "/the-latest/events/2023/afalive-2/"
 
 [[redirects]]
+from = "/the-latest/news/themes/germany/index.html"
+to = "/the-latest/news/countries/germany/"
+
+[[redirects]]
 from = "/en/news/news/index.html"
 to = "/the-latest/news/types/afalab-news/"
 
@@ -1337,6 +1357,10 @@ to = "/michel-degraff/news/"
 [[redirects]]
 from = "/news/2024-01-16-job-opening-program-assistant/index.html"
 to = "/the-latest/2024-01-16-job-opening-program-assistant/"
+
+[[redirects]]
+from = "/the-latest/news/themes/haiti/index.html"
+to = "/the-latest/news/countries/haiti/"
 
 [[redirects]]
 from = "/agenda/2024/05/index.html"
@@ -1843,6 +1867,10 @@ from = "/the-latest/2026-04-13-amicus-brief-to-african-court-on-human-and-people
 to = "/the-latest/news/2026-04-13-amicus-brief-to-african-court-on-human-and-peoples-rights-advisory-opinion/"
 
 [[redirects]]
+from = "/the-latest/news/themes/france/index.html"
+to = "/the-latest/news/countries/france/"
+
+[[redirects]]
 from = "/the-latest/news/2024-12-12-job-opening-climate-justice-research-an-policy-adviser/index.html"
 to = "/the-latest/2024-12-12-job-opening-climate-justice-research-an-policy-adviser/"
 
@@ -2311,6 +2339,10 @@ from = "/en/news/advocacy/index.html"
 to = "/the-latest/news/types/campaigns/"
 
 [[redirects]]
+from = "/the-latest/news/themes/south-africa/index.html"
+to = "/the-latest/news/countries/south-africa/"
+
+[[redirects]]
 from = "/en/news/2022-12-07-pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/index.html"
 to = "/news/2022-12-07-pursuing-an-african-agenda-for-reparations-for-colonial-crimes-and-slavery/"
 
@@ -2765,6 +2797,10 @@ to = "/the-latest/events/2025/09/"
 [[redirects]]
 from = "/the-latest/2026-01-16-communique-de-presse-65e-anniversaire-de-lassassinat-de-patrice-emery-lumumba/index.html"
 to = "/the-latest/news/2026-01-16-communique-de-presse-65e-anniversaire-de-lassassinat-de-patrice-emery-lumumba/"
+
+[[redirects]]
+from = "/the-latest/news/themes/belgium/index.html"
+to = "/the-latest/news/countries/belgium/"
 
 [[redirects]]
 from = "/en/news/afalive/index.html"
@@ -3277,6 +3313,10 @@ to = "/the-latest/news/types/conferences/"
 [[redirects]]
 from = "/news/2025-04-23-declaration-publique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/index.html"
 to = "/the-latest/news/2025-04-23-communique-sur-la-commission-mixte-pour-haiti-et-le-cas-des-reparations/"
+
+[[redirects]]
+from = "/the-latest/news/themes/colombia/index.html"
+to = "/the-latest/news/countries/colombia/"
 
 [[redirects]]
 from = "/the-latest/2021-12-22-reparations-claims-for-slavery-in-france-the-need-for-a-paradigm-shift/index.html"

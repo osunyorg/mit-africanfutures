@@ -2995,10 +2995,6 @@ from = "/en/about-us/our-mission/index.html"
 to = "/about-us/how-the-lab-came-to-be/our-mission/"
 
 [[redirects]]
-from = "/podcasts/2026-09-10-beyond-debt-cancellation/index.html"
-to = "/the-latest/news/2026-09-10-beyond-debt-cancellation/"
-
-[[redirects]]
 from = "/news/2022/07/20/afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-healing-at-the-vatican/index.html"
 to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
 
@@ -3793,10 +3789,6 @@ to = "/the-latest/news/2024-01-10-multiples-mais-invisibles-les-demandes-de-repa
 [[redirects]]
 from = "/news/2024-03-20-metis-of-the-great-lakes-moblab/index.html"
 to = "/the-latest/news/2024-03-20-metis-of-the-great-lakes-moblab/"
-
-[[redirects]]
-from = "/Podcast/index.html"
-to = "/the-latest/news/2026-09-10-beyond-debt-cancellation/"
 
 [[redirects]]
 from = "/news/mobilization/moblabs/index.html"

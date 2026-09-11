@@ -3791,6 +3791,10 @@ from = "/news/2024-03-20-metis-of-the-great-lakes-moblab/index.html"
 to = "/the-latest/news/2024-03-20-metis-of-the-great-lakes-moblab/"
 
 [[redirects]]
+from = "/Podcast/index.html"
+to = "/the-latest/news/2026-09-10-beyond-debt-cancellation/"
+
+[[redirects]]
 from = "/news/mobilization/moblabs/index.html"
 to = "/the-latest/news/themes/moblabs/"
 

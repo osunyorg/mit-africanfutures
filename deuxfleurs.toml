@@ -2995,6 +2995,10 @@ from = "/en/about-us/our-mission/index.html"
 to = "/about-us/how-the-lab-came-to-be/our-mission/"
 
 [[redirects]]
+from = "/podcasts/2026-09-10-beyond-debt-cancellation/index.html"
+to = "/the-latest/news/2026-09-10-beyond-debt-cancellation/"
+
+[[redirects]]
 from = "/news/2022/07/20/afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-healing-at-the-vatican/index.html"
 to = "/the-latest/news/2022-07-20-afalab-joins-the-delegation-of-global-reparations-leaders-of-the-global-circle-for-reparations-and-h/"
 

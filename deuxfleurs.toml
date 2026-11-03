@@ -1667,6 +1667,10 @@ from = "/team/menna-agha/index.html"
 to = "/menna-agha/"
 
 [[redirects]]
+from = "/the-latest/events/2026/african-symposium-on-climate-reparations-1/index.html"
+to = "/the-latest/events/2026/insaisissables-exposition-unfinished-freedom/"
+
+[[redirects]]
 from = "/anita-munyaneza/news/index.html"
 to = "/team/anita-munyaneza/news/"
 

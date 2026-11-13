@@ -360,7 +360,7 @@ to = "/the-latest/events/upcoming-events/"
 
 [[redirects]]
 from = "/mobilize-and-act/campaigns/unfinished-freedom/2e-rapport-entre-fetichisation-sexuelle-et-denigrement-physique-les-stereotypes-coloniaux-sur-le-cor/index.html"
-to = "/mobilize-and-act/campaigns/unfinished-freedom/entre-fetichisation-sexuelle-et-denigrement-physique-les-stereotypes-coloniaux-sur-le-cor/"
+to = "/mobilize-and-act/campaigns/unfinished-freedom/entre-fetichisation-sexuelle-et-denigrement-physique/"
 
 [[redirects]]
 from = "/research-and-impact/current-projects/2025-unfinished-freedom-the-continuity-of-colonial-violence-without-accountability/index.html"
@@ -2781,6 +2781,10 @@ to = "/the-latest/news/2024-10-24-season-iii-episode-3-adrian-martinez-blanco-in
 [[redirects]]
 from = "/agenda/past-events/index.html"
 to = "/the-latest/events/past-events/"
+
+[[redirects]]
+from = "/mobilize-and-act/campaigns/unfinished-freedom/entre-fetichisation-sexuelle-et-denigrement-physique-les-stereotypes-coloniaux-sur-le-cor/index.html"
+to = "/mobilize-and-act/campaigns/unfinished-freedom/entre-fetichisation-sexuelle-et-denigrement-physique/"
 
 [[redirects]]
 from = "/news/2024-04-08-upcoming-conference-biracial-children-african-mothers-and-colonization-a-global-case-for-reparations/index.html"

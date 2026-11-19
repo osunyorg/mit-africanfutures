@@ -97,11 +97,17 @@ header#document-header
     .rich-text,
     .notes
         color: var(--color-text)
+    .actions
+        a:not(:first-of-type)
+            color: $color-text
+            &:hover
+                color: var(--color-text)
 
 @mixin button-colors($btn-background: $color-background, $btn-color: $color-text, $btn-hover-color: $color-background)
-    --color-background: #{$btn-background}
-    --btn-color: #{$btn-color}
-    --btn-hover-color: #{$btn-hover-color}
+    --cta-btn-background: #{$btn-background}
+    --cta-btn-border: var(--cta-btn-background)
+    --cta-btn-color: #{$btn-color}
+    --cta-btn-hover-color: #{$btn-hover-color}
 
 
 // blocks with classes for colors
